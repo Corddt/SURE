@@ -1,0 +1,2919 @@
+D:\new_anaconda\envs\ai_test\python.exe D:/SURE/PlantImage/爬虫/bug6.py
+2025-03-26 16:38:48,766 - INFO - 从目录中找到 1908 个植物名
+2025-03-26 16:38:48,772 - INFO - 找到 508 个待处理植物，分为 6 个批次
+2025-03-26 16:38:49,061 - INFO - 执行SQL: ALTER TABLE plants MODIFY chinese_name VARCHAR(500)
+2025-03-26 16:38:49,084 - INFO - 执行SQL: ALTER TABLE plants MODIFY common_name TEXT
+2025-03-26 16:38:49,104 - INFO - 执行SQL: ALTER TABLE plants MODIFY family VARCHAR(500)
+2025-03-26 16:38:49,119 - INFO - 执行SQL: ALTER TABLE plants MODIFY genus VARCHAR(500)
+2025-03-26 16:38:49,119 - INFO - 数据表已准备就绪，字段长度已调整
+2025-03-26 16:38:49,120 - INFO - 开始处理第 1/6 批次，共 100 个植物
+2025-03-26 16:38:49,120 - INFO - 使用新的User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/201...
+2025-03-26 16:38:49,121 - INFO - ====== WebDriver manager ======
+2025-03-26 16:38:52,066 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:38:52,817 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:38:53,505 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+正在爬取批次（共100个植物）:   0%|          | 0/100 [00:00<?, ?it/s]
+正在处理: Phyllanthus urinaria
+2025-03-26 16:39:04,547 - INFO - 添加新植物 Phyllanthus urinaria 到数据库
+正在爬取批次（共100个植物）:   1%|          | 1/100 [00:09<15:35,  9.45s/it]植物: Phyllanthus urinaria
+中文名: 叶下珠
+科属: 叶下珠科 Phyllanthaceae / 叶下珠属 Phyllanthus
+数据完整性: 完整
+
+正在处理: Phyteuma hemisphaericum
+2025-03-26 16:39:12,058 - INFO - 添加新植物 Phyteuma hemisphaericum 到数据库
+正在爬取批次（共100个植物）:   2%|▏         | 2/100 [00:16<13:35,  8.32s/it]植物: Phyteuma hemisphaericum
+中文名: 半球裂檐花
+科属: 桔梗科 Campanulaceae / 裂檐花属 Phyteuma
+数据完整性: 不完整
+
+正在处理: Phyteuma spicatum
+植物: Phyteuma spicatum
+中文名: 裂檐花
+科属: 桔梗科 Campanulaceae / 裂檐花属 Phyteuma
+数据完整性: 不完整
+2025-03-26 16:39:18,802 - INFO - 添加新植物 Phyteuma spicatum 到数据库
+正在爬取批次（共100个植物）:   3%|▎         | 3/100 [00:23<12:17,  7.60s/it]
+正在处理: Phytolacca americana
+2025-03-26 16:39:24,650 - INFO - 添加新植物 Phytolacca americana 到数据库
+正在爬取批次（共100个植物）:   4%|▍         | 4/100 [00:29<11:02,  6.90s/it]植物: Phytolacca americana
+中文名: 垂序商陆
+科属: 商陆科 Phytolaccaceae / 商陆属 Phytolacca
+数据完整性: 完整
+
+正在处理: Picris hieracioides
+植物: Picris hieracioides
+中文名: 毛连菜
+科属: 菊科 Asteraceae / 毛连菜属 Picris
+数据完整性: 完整
+
+正在处理: Pilocarpus racemosus
+2025-03-26 16:39:34,699 - INFO - 添加新植物 Picris hieracioides 到数据库
+正在爬取批次（共100个植物）:   5%|▌         | 5/100 [00:39<12:43,  8.04s/it]2025-03-26 16:39:40,768 - INFO - 添加新植物 Pilocarpus racemosus 到数据库
+植物: Pilocarpus racemosus
+中文名: 总状解表木
+科属: 芸香科 Rutaceae / 解表木属 Pilocarpus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   6%|▌         | 6/100 [00:45<11:32,  7.37s/it]
+正在处理: Pilosella aurantiaca
+2025-03-26 16:39:46,300 - INFO - 添加新植物 Pilosella aurantiaca 到数据库
+植物: Pilosella aurantiaca
+中文名: 橙黄细毛菊
+科属: 菊科 Asteraceae / 细毛菊属 Pilosella
+数据完整性: 不完整
+
+正在处理: Pilosella lactucella
+正在爬取批次（共100个植物）:   7%|▋         | 7/100 [00:51<10:29,  6.77s/it]2025-03-26 16:39:53,658 - INFO - 添加新植物 Pilosella lactucella 到数据库
+正在爬取批次（共100个植物）:   8%|▊         | 8/100 [00:58<10:40,  6.96s/it]植物: Pilosella lactucella
+中文名: 莴苣细毛菊
+科属: 菊科 Asteraceae / 细毛菊属 Pilosella
+数据完整性: 不完整
+
+正在处理: Pilosella officinarum
+2025-03-26 16:39:58,608 - INFO - 添加新植物 Pilosella officinarum 到数据库
+植物: Pilosella officinarum
+中文名: 细毛菊
+科属: 菊科 Asteraceae / 细毛菊属 Pilosella
+数据完整性: 不完整
+
+正在处理: Pilosocereus chrysostele
+正在爬取批次（共100个植物）:   9%|▉         | 9/100 [01:03<09:36,  6.33s/it]2025-03-26 16:40:06,401 - INFO - 添加新植物 Pilosocereus chrysostele 到数据库
+正在爬取批次（共100个植物）:  10%|█         | 10/100 [01:11<10:10,  6.78s/it]植物: Pilosocereus chrysostele
+中文名: 黄金龙
+科属: 仙人掌科 Cactaceae / 毛刺柱属 Pilosocereus
+数据完整性: 不完整
+
+正在处理: Pilosocereus pachycladus
+2025-03-26 16:40:14,435 - INFO - 添加新植物 Pilosocereus pachycladus 到数据库
+植物: Pilosocereus pachycladus
+中文名: 蓝柱
+科属: 仙人掌科 Cactaceae / 毛刺柱属 Pilosocereus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  11%|█         | 11/100 [01:19<10:37,  7.16s/it]
+正在处理: Pilosocereus royeni
+2025-03-26 16:40:22,090 - INFO - 添加新植物 Pilosocereus royeni 到数据库
+植物: Pilosocereus royeni
+中文名: Pilosocereus royeni
+科属:  /
+数据完整性: 不完整
+
+正在处理: Pinguicula grandiflora
+正在爬取批次（共100个植物）:  12%|█▏        | 12/100 [01:27<10:43,  7.31s/it]2025-03-26 16:40:31,058 - INFO - 添加新植物 Pinguicula grandiflora 到数据库
+植物: Pinguicula grandiflora
+中文名: 大花捕虫堇
+科属: 狸藻科 Lentibulariaceae / 捕虫堇属 Pinguicula
+数据完整性: 不完整
+
+正在处理: Pinus brutia
+正在爬取批次（共100个植物）:  13%|█▎        | 13/100 [01:35<11:19,  7.81s/it]2025-03-26 16:40:37,692 - INFO - 添加新植物 Pinus brutia 到数据库
+植物: Pinus brutia
+中文名: 土耳其松
+科属: 松科 Pinaceae / 松属 Pinus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  14%|█▍        | 14/100 [01:42<10:41,  7.46s/it]
+正在处理: Pinus cembra
+植物: Pinus cembra
+中文名: 瑞士五针松
+科属: 松科 Pinaceae / 松属 Pinus
+数据完整性: 不完整
+2025-03-26 16:40:46,419 - INFO - 添加新植物 Pinus cembra 到数据库
+
+正在处理: Pinus halepensis
+正在爬取批次（共100个植物）:  15%|█▌        | 15/100 [01:51<11:06,  7.84s/it]2025-03-26 16:40:55,930 - INFO - 添加新植物 Pinus halepensis 到数据库
+正在爬取批次（共100个植物）:  16%|█▌        | 16/100 [02:00<11:40,  8.34s/it]植物: Pinus halepensis
+中文名: 阿勒颇松
+科属: 松科 Pinaceae / 松属 Pinus
+数据完整性: 不完整
+
+正在处理: Pinus mugo
+植物: Pinus mugo
+中文名: 矮赤松
+科属: 松科 Pinaceae / 松属 Pinus
+数据完整性: 不完整
+2025-03-26 16:41:04,284 - INFO - 添加新植物 Pinus mugo 到数据库
+正在爬取批次（共100个植物）:  17%|█▋        | 17/100 [02:09<11:32,  8.35s/it]
+正在处理: Pinus nigra
+植物: Pinus nigra
+中文名: 欧洲黑松
+科属: 松科 Pinaceae / 松属 Pinus
+数据完整性: 完整
+
+正在处理: Pinus pinaster
+2025-03-26 16:41:12,053 - INFO - 添加新植物 Pinus nigra 到数据库
+正在爬取批次（共100个植物）:  18%|█▊        | 18/100 [02:16<11:09,  8.17s/it]2025-03-26 16:41:21,885 - INFO - 添加新植物 Pinus pinaster 到数据库
+正在爬取批次（共100个植物）:  19%|█▉        | 19/100 [02:26<11:42,  8.67s/it]植物: Pinus pinaster
+中文名: 海岸松
+科属: 松科 Pinaceae / 松属 Pinus
+数据完整性: 完整
+
+正在处理: Pinus pinea
+2025-03-26 16:41:30,297 - INFO - 添加新植物 Pinus pinea 到数据库
+正在爬取批次（共100个植物）:  20%|██        | 20/100 [02:35<11:27,  8.60s/it]植物: Pinus pinea
+中文名: 意大利松
+科属: 松科 Pinaceae / 松属 Pinus
+数据完整性: 不完整
+
+正在处理: Pinus sylvestris
+2025-03-26 16:41:39,502 - INFO - 添加新植物 Pinus sylvestris 到数据库
+正在爬取批次（共100个植物）:  21%|██        | 21/100 [02:44<11:33,  8.78s/it]植物: Pinus sylvestris
+中文名: 欧洲赤松
+科属: 松科 Pinaceae / 松属 Pinus
+数据完整性: 完整
+
+正在处理: Piriqueta cistoides
+植物: Piriqueta cistoides
+中文名: 坡麻花
+科属: 西番莲科 Passifloraceae / 坡麻花属 Piriqueta
+数据完整性: 不完整
+
+正在处理: Pistacia lentiscus
+2025-03-26 16:41:45,305 - INFO - 添加新植物 Piriqueta cistoides 到数据库
+正在爬取批次（共100个植物）:  22%|██▏       | 22/100 [02:50<10:15,  7.89s/it]2025-03-26 16:41:52,712 - INFO - 添加新植物 Pistacia lentiscus 到数据库
+植物: Pistacia lentiscus
+中文名: 乳香黄连木
+科属: 漆树科 Anacardiaceae / 黄连木属 Pistacia
+数据完整性: 不完整
+
+正在处理: Pistacia terebinthus
+正在爬取批次（共100个植物）:  23%|██▎       | 23/100 [02:57<09:56,  7.74s/it]2025-03-26 16:41:58,073 - INFO - 添加新植物 Pistacia terebinthus 到数据库
+植物: Pistacia terebinthus
+中文名: 笃耨香
+科属: 漆树科 Anacardiaceae / 黄连木属 Pistacia
+数据完整性: 不完整
+
+正在处理: Pittosporum tenuifolium
+正在爬取批次（共100个植物）:  24%|██▍       | 24/100 [03:02<08:54,  7.03s/it]2025-03-26 16:42:04,216 - INFO - 添加新植物 Pittosporum tenuifolium 到数据库
+植物: Pittosporum tenuifolium
+中文名:
+科属: 海桐科 Pittosporaceae / 海桐属 Pittosporum
+数据完整性: 不完整
+
+正在处理: Pittosporum tobira
+正在爬取批次（共100个植物）:  25%|██▌       | 25/100 [03:09<08:27,  6.76s/it]2025-03-26 16:42:08,988 - INFO - 添加新植物 Pittosporum tobira 到数据库
+植物: Pittosporum tobira
+中文名: 海桐
+科属: 海桐科 Pittosporaceae / 海桐属 Pittosporum
+数据完整性: 完整
+
+正在处理: Plantago coronopus
+正在爬取批次（共100个植物）:  26%|██▌       | 26/100 [03:13<07:35,  6.16s/it]2025-03-26 16:42:14,661 - INFO - 添加新植物 Plantago coronopus 到数据库
+植物: Plantago coronopus
+中文名: 芹叶车前
+科属: 车前科 Plantaginaceae / 车前属 Plantago
+数据完整性: 不完整
+
+正在处理: Plantago lagopus
+正在爬取批次（共100个植物）:  27%|██▋       | 27/100 [03:19<07:19,  6.02s/it]2025-03-26 16:42:21,909 - INFO - 添加新植物 Plantago lagopus 到数据库
+植物: Plantago lagopus
+中文名:
+科属: 车前科 Plantaginaceae / 车前属 Plantago
+数据完整性: 不完整
+
+正在处理: Plantago lanceolata
+正在爬取批次（共100个植物）:  28%|██▊       | 28/100 [03:26<07:39,  6.39s/it]2025-03-26 16:42:29,710 - INFO - 添加新植物 Plantago lanceolata 到数据库
+正在爬取批次（共100个植物）:  29%|██▉       | 29/100 [03:34<08:03,  6.81s/it]植物: Plantago lanceolata
+中文名: 长叶车前
+科属: 车前科 Plantaginaceae / 车前属 Plantago
+数据完整性: 完整
+
+正在处理: Plantago major
+2025-03-26 16:42:37,287 - INFO - 添加新植物 Plantago major 到数据库
+正在爬取批次（共100个植物）:  30%|███       | 30/100 [03:42<08:12,  7.04s/it]植物: Plantago major
+中文名: 大车前
+科属: 车前科 Plantaginaceae / 车前属 Plantago
+数据完整性: 完整
+
+正在处理: Plantago maritima
+2025-03-26 16:42:42,825 - INFO - 添加新植物 Plantago maritima 到数据库
+正在爬取批次（共100个植物）:  31%|███       | 31/100 [03:47<07:34,  6.59s/it]植物: Plantago maritima
+中文名: 沿海车前
+科属: 车前科 Plantaginaceae / 车前属 Plantago
+数据完整性: 不完整
+
+正在处理: Plantago media
+2025-03-26 16:42:49,711 - INFO - 添加新植物 Plantago media 到数据库
+正在爬取批次（共100个植物）:  32%|███▏      | 32/100 [03:54<07:33,  6.68s/it]植物: Plantago media
+中文名: 北车前
+科属: 车前科 Plantaginaceae / 车前属 Plantago
+数据完整性: 完整
+
+正在处理: Platanthera bifolia
+2025-03-26 16:42:56,133 - INFO - 添加新植物 Platanthera bifolia 到数据库
+正在爬取批次（共100个植物）:  33%|███▎      | 33/100 [04:01<07:22,  6.60s/it]植物: Platanthera bifolia
+中文名: 细距舌唇兰
+科属: 兰科 Orchidaceae / 舌唇兰属 Platanthera
+数据完整性: 完整
+
+正在处理: Platanthera chlorantha
+植物: Platanthera chlorantha
+中文名: 二叶舌唇兰
+科属: 兰科 Orchidaceae / 舌唇兰属 Platanthera
+数据完整性: 完整
+
+正在处理: Platanus orientalis
+2025-03-26 16:43:02,866 - INFO - 添加新植物 Platanthera chlorantha 到数据库
+正在爬取批次（共100个植物）:  34%|███▍      | 34/100 [04:07<07:18,  6.64s/it]2025-03-26 16:43:09,711 - INFO - 添加新植物 Platanus orientalis 到数据库
+植物: Platanus orientalis
+中文名: 三球悬铃木
+科属: 悬铃木科 Platanaceae / 悬铃木属 Platanus
+数据完整性: 完整
+
+正在处理: Platanus x
+正在爬取批次（共100个植物）:  35%|███▌      | 35/100 [04:14<07:15,  6.70s/it]2025-03-26 16:43:16,742 - INFO - 添加新植物 Platanus x 到数据库
+植物: Platanus x
+中文名: Platanus x
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  36%|███▌      | 36/100 [04:21<07:15,  6.81s/it]
+正在处理: Pleurospermum austriacum
+2025-03-26 16:43:21,504 - INFO - 添加新植物 Pleurospermum austriacum 到数据库
+植物: Pleurospermum austriacum
+中文名: 欧洲棱子芹
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  37%|███▋      | 37/100 [04:26<06:30,  6.19s/it]
+正在处理: Poa annua
+2025-03-26 16:43:28,250 - INFO - 添加新植物 Poa annua 到数据库
+正在爬取批次（共100个植物）:  38%|███▊      | 38/100 [04:33<06:33,  6.35s/it]植物: Poa annua
+中文名: 早熟禾
+科属: 禾本科 Poaceae / 早熟禾属 Poa
+数据完整性: 完整
+
+正在处理: Pogonophora schomburgkiana
+2025-03-26 16:43:34,698 - INFO - 添加新植物 Pogonophora schomburgkiana 到数据库
+植物: Pogonophora schomburgkiana
+中文名:
+科属: 蚌壳木科 Peraceae / 髯瓣木属 Pogonophora
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  39%|███▉      | 39/100 [04:39<06:29,  6.38s/it]
+正在处理: Polygala vulgaris
+植物: Polygala vulgaris
+中文名:
+科属: 远志科 Polygalaceae / 远志属 Polygala
+数据完整性: 不完整
+2025-03-26 16:43:39,364 - INFO - 添加新植物 Polygala vulgaris 到数据库
+
+正在处理: Polygonatum multiflorum
+正在爬取批次（共100个植物）:  40%|████      | 40/100 [04:44<05:52,  5.87s/it]2025-03-26 16:43:46,115 - INFO - 添加新植物 Polygonatum multiflorum 到数据库
+植物: Polygonatum multiflorum
+中文名: 九龙环
+科属: 天门冬科 Asparagaceae / 黄精属 Polygonatum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  41%|████      | 41/100 [04:51<06:01,  6.13s/it]
+正在处理: Polygonatum odoratum
+植物: Polygonatum odoratum
+中文名: 玉竹
+科属: 天门冬科 Asparagaceae / 黄精属 Polygonatum
+数据完整性: 完整
+
+正在处理: Polypodium vulgare
+2025-03-26 16:43:53,106 - INFO - 添加新植物 Polygonatum odoratum 到数据库
+正在爬取批次（共100个植物）:  42%|████▏     | 42/100 [04:58<06:10,  6.39s/it]2025-03-26 16:44:00,197 - INFO - 添加新植物 Polypodium vulgare 到数据库
+正在爬取批次（共100个植物）:  43%|████▎     | 43/100 [05:05<06:16,  6.60s/it]植物: Polypodium vulgare
+中文名: 欧亚多足蕨
+科属: 水龙骨科 Polypodiaceae / 多足蕨属 Polypodium
+数据完整性: 完整
+
+正在处理: Polystichum setiferum
+2025-03-26 16:44:08,773 - INFO - 添加新植物 Polystichum setiferum 到数据库
+植物: Polystichum setiferum
+中文名: 黑鳞刺耳蕨
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  44%|████▍     | 44/100 [05:13<06:42,  7.19s/it]
+正在处理: Pongamia pinnata
+2025-03-26 16:44:14,474 - INFO - 添加新植物 Pongamia pinnata 到数据库
+正在爬取批次（共100个植物）:  45%|████▌     | 45/100 [05:19<06:10,  6.74s/it]植物: Pongamia pinnata
+中文名: 水黄皮
+科属: 豆科 Fabaceae / 水黄皮属 Pongamia
+数据完整性: 完整
+
+正在处理: Populus alba
+2025-03-26 16:44:20,181 - INFO - 添加新植物 Populus alba 到数据库
+正在爬取批次（共100个植物）:  46%|████▌     | 46/100 [05:25<05:47,  6.43s/it]植物: Populus alba
+中文名: 银白杨
+科属: 杨柳科 Salicaceae / 杨属 Populus
+数据完整性: 完整
+
+正在处理: Populus nigra
+植物: Populus nigra
+中文名: 黑杨
+科属: 杨柳科 Salicaceae / 杨属 Populus
+数据完整性: 完整
+
+正在处理: Populus tremula
+2025-03-26 16:44:30,227 - INFO - 添加新植物 Populus nigra 到数据库
+正在爬取批次（共100个植物）:  47%|████▋     | 47/100 [05:35<06:38,  7.52s/it]2025-03-26 16:44:40,243 - INFO - 添加新植物 Populus tremula 到数据库
+植物: Populus tremula
+中文名: 欧洲山杨
+科属: 杨柳科 Salicaceae / 杨属 Populus
+数据完整性: 完整
+
+正在处理: Populus trichocarpa
+正在爬取批次（共100个植物）:  48%|████▊     | 48/100 [05:45<07:09,  8.27s/it]2025-03-26 16:44:43,118 - INFO - 添加新植物 Populus trichocarpa 到数据库
+植物: Populus trichocarpa
+中文名: Populus trichocarpa
+科属:  /
+数据完整性: 不完整
+
+正在处理: Portulaca oleracea
+正在爬取批次（共100个植物）:  49%|████▉     | 49/100 [05:48<05:39,  6.65s/it]2025-03-26 16:44:49,786 - INFO - 添加新植物 Portulaca oleracea 到数据库
+正在爬取批次（共100个植物）:  50%|█████     | 50/100 [05:54<05:32,  6.66s/it]植物: Portulaca oleracea
+中文名: 马齿苋
+科属:  /
+数据完整性: 不完整
+
+正在处理: Potentilla erecta
+2025-03-26 16:44:56,076 - INFO - 添加新植物 Potentilla erecta 到数据库
+植物: Potentilla erecta
+中文名:
+科属: 蔷薇科 Rosaceae / 委陵菜属 Potentilla
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  51%|█████     | 51/100 [06:00<05:20,  6.55s/it]
+正在处理: Potentilla indica
+2025-03-26 16:45:02,204 - INFO - 添加新植物 Potentilla indica 到数据库
+植物: Potentilla indica
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  52%|█████▏    | 52/100 [06:07<05:08,  6.42s/it]
+正在处理: Potentilla recta
+植物: Potentilla recta
+中文名: 直立委陵菜
+科属: 蔷薇科 Rosaceae / 委陵菜属 Potentilla
+数据完整性: 完整
+
+正在处理: Potentilla reptans
+2025-03-26 16:45:10,324 - INFO - 添加新植物 Potentilla recta 到数据库
+正在爬取批次（共100个植物）:  53%|█████▎    | 53/100 [06:15<05:25,  6.93s/it]2025-03-26 16:45:15,909 - INFO - 添加新植物 Potentilla reptans 到数据库
+正在爬取批次（共100个植物）:  54%|█████▍    | 54/100 [06:20<05:00,  6.52s/it]植物: Potentilla reptans
+中文名: 匍匐委陵菜
+科属: 蔷薇科 Rosaceae / 委陵菜属 Potentilla
+数据完整性: 完整
+
+正在处理: Potentilla sterilis
+2025-03-26 16:45:21,852 - INFO - 添加新植物 Potentilla sterilis 到数据库
+植物: Potentilla sterilis
+中文名:
+科属:  /
+数据完整性: 不完整
+
+正在处理: Potentilla tabernaemontani
+正在爬取批次（共100个植物）:  55%|█████▌    | 55/100 [06:26<04:45,  6.35s/it]2025-03-26 16:45:26,421 - INFO - 添加新植物 Potentilla tabernaemontani 到数据库
+植物: Potentilla tabernaemontani
+中文名: Potentilla tabernaemontani
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  56%|█████▌    | 56/100 [06:31<04:16,  5.82s/it]
+正在处理: Poterium sanguisorba
+2025-03-26 16:45:34,640 - INFO - 添加新植物 Poterium sanguisorba 到数据库
+植物: Poterium sanguisorba
+中文名: 止血草
+科属: 蔷薇科 Rosaceae / 多蕊地榆属 Poterium
+数据完整性: 不完整
+
+正在处理: Prenanthes purpurea
+正在爬取批次（共100个植物）:  57%|█████▋    | 57/100 [06:39<04:41,  6.54s/it]2025-03-26 16:45:40,581 - INFO - 添加新植物 Prenanthes purpurea 到数据库
+植物: Prenanthes purpurea
+中文名:
+科属: 菊科 Asteraceae / 蛇根苣属 Prenanthes
+数据完整性: 不完整
+
+正在处理: Primula elatior
+正在爬取批次（共100个植物）:  58%|█████▊    | 58/100 [06:45<04:27,  6.36s/it]2025-03-26 16:45:47,172 - INFO - 添加新植物 Primula elatior 到数据库
+正在爬取批次（共100个植物）:  59%|█████▉    | 59/100 [06:52<04:23,  6.43s/it]植物: Primula elatior
+中文名: 牛唇报春
+科属: 报春花科 Primulaceae / 报春花属 Primula
+数据完整性: 不完整
+
+正在处理: Primula veris
+2025-03-26 16:45:53,252 - INFO - 添加新植物 Primula veris 到数据库
+正在爬取批次（共100个植物）:  60%|██████    | 60/100 [06:58<04:12,  6.32s/it]植物: Primula veris
+中文名: 黄花九轮草
+科属: 报春花科 Primulaceae / 报春花属 Primula
+数据完整性: 完整
+
+正在处理: Primula vulgaris
+植物: Primula vulgaris
+中文名: 欧报春
+科属: 报春花科 Primulaceae / 报春花属 Primula
+数据完整性: 不完整
+2025-03-26 16:45:59,557 - INFO - 添加新植物 Primula vulgaris 到数据库
+
+正在处理: Prosopis alba
+正在爬取批次（共100个植物）:  61%|██████    | 61/100 [07:04<04:06,  6.32s/it]2025-03-26 16:46:06,247 - INFO - 添加新植物 Prosopis alba 到数据库
+植物: Prosopis alba
+中文名:
+科属: 豆科 Fabaceae / 牧豆树属 Prosopis
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  62%|██████▏   | 62/100 [07:11<04:04,  6.43s/it]
+正在处理: Prosopis farcta
+2025-03-26 16:46:12,272 - INFO - 添加新植物 Prosopis farcta 到数据库
+植物: Prosopis farcta
+中文名: 异牧豆树
+科属: 豆科 Fabaceae / 牧豆树属 Prosopis
+数据完整性: 不完整
+
+正在处理: Prosopis glandulosa
+正在爬取批次（共100个植物）:  63%|██████▎   | 63/100 [07:17<03:53,  6.31s/it]2025-03-26 16:46:17,933 - INFO - 添加新植物 Prosopis glandulosa 到数据库
+植物: Prosopis glandulosa
+中文名: 腺牧豆树
+科属:  /
+数据完整性: 不完整
+
+正在处理: Prosopis juliflora
+正在爬取批次（共100个植物）:  64%|██████▍   | 64/100 [07:22<03:40,  6.12s/it]2025-03-26 16:46:22,942 - INFO - 添加新植物 Prosopis juliflora 到数据库
+正在爬取批次（共100个植物）:  65%|██████▌   | 65/100 [07:27<03:22,  5.78s/it]植物: Prosopis juliflora
+中文名: 牧豆树
+科属: 豆科 Fabaceae / 牧豆树属 Prosopis
+数据完整性: 完整
+
+正在处理: Prosopis pallida
+2025-03-26 16:46:29,642 - INFO - 添加新植物 Prosopis pallida 到数据库
+植物: Prosopis pallida
+中文名: 苍白牧豆树
+科属: 豆科 Fabaceae / 牧豆树属 Prosopis
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  66%|██████▌   | 66/100 [07:34<03:26,  6.06s/it]
+正在处理: Prosopis pubescens
+植物: Prosopis pubescens
+中文名: 柔毛牧豆树
+科属: 豆科 Fabaceae / 牧豆树属 Prosopis
+数据完整性: 不完整
+2025-03-26 16:46:35,899 - INFO - 添加新植物 Prosopis pubescens 到数据库
+正在爬取批次（共100个植物）:  67%|██████▋   | 67/100 [07:40<03:21,  6.12s/it]
+正在处理: Prospero autumnale
+植物: Prospero autumnale
+中文名:
+科属: 天门冬科 Asparagaceae / 紫瑰花属 Prospero
+数据完整性: 不完整
+2025-03-26 16:46:41,878 - INFO - 添加新植物 Prospero autumnale 到数据库
+
+正在处理: Prunella grandiflora
+正在爬取批次（共100个植物）:  68%|██████▊   | 68/100 [07:46<03:14,  6.08s/it]2025-03-26 16:46:55,524 - INFO - 添加新植物 Prunella grandiflora 到数据库
+植物: Prunella grandiflora
+中文名: 大花夏枯草
+科属: 唇形科 Lamiaceae / 夏枯草属 Prunella
+数据完整性: 完整
+
+正在处理: Prunella hastifolia
+正在爬取批次（共100个植物）:  69%|██████▉   | 69/100 [08:00<04:18,  8.34s/it]2025-03-26 16:46:59,278 - INFO - 添加新植物 Prunella hastifolia 到数据库
+植物: Prunella hastifolia
+中文名: Prunella hastifolia
+科属:  /
+数据完整性: 不完整
+
+正在处理: Prunella laciniata
+正在爬取批次（共100个植物）:  70%|███████   | 70/100 [08:04<03:29,  6.97s/it]2025-03-26 16:47:06,598 - INFO - 添加新植物 Prunella laciniata 到数据库
+植物: Prunella laciniata
+中文名: 裂叶夏枯草
+科属:  /
+数据完整性: 不完整
+
+正在处理: Prunella vulgaris
+正在爬取批次（共100个植物）:  71%|███████   | 71/100 [08:11<03:25,  7.07s/it]2025-03-26 16:47:12,653 - INFO - 添加新植物 Prunella vulgaris 到数据库
+植物: Prunella vulgaris
+中文名: 夏枯草
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  72%|███████▏  | 72/100 [08:17<03:09,  6.77s/it]
+正在处理: Prunus armeniaca
+2025-03-26 16:47:24,548 - INFO - 添加新植物 Prunus armeniaca 到数据库
+植物: Prunus armeniaca
+中文名: 杏
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  73%|███████▎  | 73/100 [08:29<03:44,  8.31s/it]
+正在处理: Prunus avium
+2025-03-26 16:47:33,007 - INFO - 添加新植物 Prunus avium 到数据库
+正在爬取批次（共100个植物）:  74%|███████▍  | 74/100 [08:37<03:37,  8.35s/it]植物: Prunus avium
+中文名: 欧洲甜樱桃
+科属:  /
+数据完整性: 不完整
+
+正在处理: Prunus cerasifera
+2025-03-26 16:47:40,719 - INFO - 添加新植物 Prunus cerasifera 到数据库
+正在爬取批次（共100个植物）:  75%|███████▌  | 75/100 [08:45<03:24,  8.16s/it]植物: Prunus cerasifera
+中文名: 樱桃李
+科属:  /
+数据完整性: 不完整
+
+正在处理: Prunus dulcis
+2025-03-26 16:47:48,380 - INFO - 添加新植物 Prunus dulcis 到数据库
+植物: Prunus dulcis
+中文名: 扁桃
+科属:  /
+数据完整性: 不完整
+
+正在处理: Prunus laurocerasus
+正在爬取批次（共100个植物）:  76%|███████▌  | 76/100 [08:53<03:12,  8.01s/it]2025-03-26 16:47:54,615 - INFO - 添加新植物 Prunus laurocerasus 到数据库
+植物: Prunus laurocerasus
+中文名: 桂樱
+科属:  /
+数据完整性: 不完整
+
+正在处理: Prunus mahaleb
+正在爬取批次（共100个植物）:  77%|███████▋  | 77/100 [08:59<02:51,  7.48s/it]2025-03-26 16:48:02,570 - INFO - 添加新植物 Prunus mahaleb 到数据库
+植物: Prunus mahaleb
+中文名: 圆叶樱桃
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  78%|███████▊  | 78/100 [09:07<02:47,  7.62s/it]
+正在处理: Prunus padus
+2025-03-26 16:48:10,053 - INFO - 添加新植物 Prunus padus 到数据库
+正在爬取批次（共100个植物）:  79%|███████▉  | 79/100 [09:14<02:39,  7.58s/it]植物: Prunus padus
+中文名: 稠李
+科属:  /
+数据完整性: 不完整
+
+正在处理: Prunus serotina
+2025-03-26 16:48:18,458 - INFO - 添加新植物 Prunus serotina 到数据库
+植物: Prunus serotina
+中文名: 野黑樱桃
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  80%|████████  | 80/100 [09:23<02:36,  7.83s/it]
+正在处理: Prunus serrulata
+2025-03-26 16:48:26,636 - INFO - 添加新植物 Prunus serrulata 到数据库
+植物: Prunus serrulata
+中文名: 山樱花
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  81%|████████  | 81/100 [09:31<02:30,  7.93s/it]
+正在处理: Prunus spinosa
+2025-03-26 16:48:33,730 - INFO - 添加新植物 Prunus spinosa 到数据库
+正在爬取批次（共100个植物）:  82%|████████▏ | 82/100 [09:38<02:18,  7.68s/it]植物: Prunus spinosa
+中文名: 黑刺李
+科属:  /
+数据完整性: 不完整
+
+正在处理: Pseudorchis albida
+2025-03-26 16:48:44,616 - INFO - 添加新植物 Pseudorchis albida 到数据库
+植物: Pseudorchis albida
+中文名: 白手参
+科属: 兰科 Orchidaceae / 白手参属 Pseudorchis
+数据完整性: 不完整
+
+正在处理: Pseudoturritis turrita
+正在爬取批次（共100个植物）:  83%|████████▎ | 83/100 [09:49<02:26,  8.64s/it]2025-03-26 16:48:52,662 - INFO - 添加新植物 Pseudoturritis turrita 到数据库
+植物: Pseudoturritis turrita
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  84%|████████▍ | 84/100 [09:57<02:15,  8.46s/it]
+正在处理: Pteridium aquilinum
+植物: Pteridium aquilinum
+中文名: 欧洲蕨
+科属:  /
+数据完整性: 不完整
+2025-03-26 16:49:00,633 - INFO - 添加新植物 Pteridium aquilinum 到数据库
+正在爬取批次（共100个植物）:  85%|████████▌ | 85/100 [10:05<02:04,  8.32s/it]
+正在处理: Pterocarya fraxinifolia
+2025-03-26 16:49:09,313 - INFO - 添加新植物 Pterocarya fraxinifolia 到数据库
+正在爬取批次（共100个植物）:  86%|████████▌ | 86/100 [10:14<01:57,  8.42s/it]植物: Pterocarya fraxinifolia
+中文名: 高加索枫杨
+科属:  /
+数据完整性: 不完整
+
+正在处理: Pterocephalus perennis
+植物: Pterocephalus perennis
+中文名: 蓬首花
+科属: 忍冬科 Caprifoliaceae / 蓬首花属 Pterocephalus
+数据完整性: 不完整
+2025-03-26 16:49:18,782 - INFO - 添加新植物 Pterocephalus perennis 到数据库
+正在爬取批次（共100个植物）:  87%|████████▋ | 87/100 [10:23<01:53,  8.74s/it]
+正在处理: Pulicaria dysenterica
+2025-03-26 16:49:27,769 - INFO - 添加新植物 Pulicaria dysenterica 到数据库
+植物: Pulicaria dysenterica
+中文名: 止痢蚤草
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  88%|████████▊ | 88/100 [10:32<01:45,  8.81s/it]
+正在处理: Punica granatum
+2025-03-26 16:49:35,128 - INFO - 添加新植物 Punica granatum 到数据库
+正在爬取批次（共100个植物）:  89%|████████▉ | 89/100 [10:40<01:32,  8.37s/it]植物: Punica granatum
+中文名: 石榴
+科属: 千屈菜科 Lythraceae / 石榴属 Punica
+数据完整性: 完整
+
+正在处理: Pyracantha coccinea
+植物: Pyracantha coccinea
+中文名: 欧亚火棘
+科属: 蔷薇科 Rosaceae / 火棘属 Pyracantha
+数据完整性: 不完整
+2025-03-26 16:49:42,492 - INFO - 添加新植物 Pyracantha coccinea 到数据库
+正在爬取批次（共100个植物）:  90%|█████████ | 90/100 [10:47<01:20,  8.07s/it]
+正在处理: Pyracantha koidzumii
+2025-03-26 16:49:52,239 - INFO - 添加新植物 Pyracantha koidzumii 到数据库
+正在爬取批次（共100个植物）:  91%|█████████ | 91/100 [10:57<01:17,  8.57s/it]植物: Pyracantha koidzumii
+中文名: 台湾火棘
+科属: 蔷薇科 Rosaceae / 火棘属 Pyracantha
+数据完整性: 完整
+
+正在处理: Pyracantha rogersiana
+2025-03-26 16:49:57,538 - INFO - 添加新植物 Pyracantha rogersiana 到数据库
+植物: Pyracantha rogersiana
+中文名: 薄叶火棘
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  92%|█████████▏| 92/100 [11:02<01:00,  7.59s/it]
+正在处理: Pyrus communis
+植物: Pyrus communis
+中文名: 西洋梨
+科属:  /
+数据完整性: 不完整
+2025-03-26 16:50:02,920 - INFO - 添加新植物 Pyrus communis 到数据库
+
+正在处理: Quercus cerris
+正在爬取批次（共100个植物）:  93%|█████████▎| 93/100 [11:07<00:48,  6.93s/it]2025-03-26 16:50:12,497 - INFO - 添加新植物 Quercus cerris 到数据库
+植物: Quercus cerris
+中文名: 土耳其栎
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  94%|█████████▍| 94/100 [11:17<00:46,  7.72s/it]
+正在处理: Quercus coccifera
+2025-03-26 16:50:21,267 - INFO - 添加新植物 Quercus coccifera 到数据库
+正在爬取批次（共100个植物）:  95%|█████████▌| 95/100 [11:26<00:40,  8.04s/it]植物: Quercus coccifera
+中文名: 大红栎
+科属: 壳斗科 Fagaceae / 栎属 Quercus
+数据完整性: 不完整
+
+正在处理: Quercus ilex
+植物: Quercus ilex
+中文名: 冬青栎
+科属: 壳斗科 Fagaceae / 栎属 Quercus
+数据完整性: 不完整
+2025-03-26 16:50:27,622 - INFO - 添加新植物 Quercus ilex 到数据库
+
+正在处理: Quercus palustris
+正在爬取批次（共100个植物）:  96%|█████████▌| 96/100 [11:32<00:30,  7.53s/it]2025-03-26 16:50:40,658 - INFO - 添加新植物 Quercus palustris 到数据库
+正在爬取批次（共100个植物）:  97%|█████████▋| 97/100 [11:45<00:27,  9.18s/it]植物: Quercus palustris
+中文名: 沼生栎
+科属: 壳斗科 Fagaceae / 栎属 Quercus
+数据完整性: 完整
+
+正在处理: Quercus petraea
+植物: Quercus petraea
+中文名: 无梗花栎
+科属:  /
+数据完整性: 不完整
+2025-03-26 16:50:50,328 - INFO - 添加新植物 Quercus petraea 到数据库
+正在爬取批次（共100个植物）:  98%|█████████▊| 98/100 [11:55<00:18,  9.33s/it]
+正在处理: Quercus pubescens
+2025-03-26 16:50:57,715 - INFO - 添加新植物 Quercus pubescens 到数据库
+植物: Quercus pubescens
+中文名: 柔毛栎
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  99%|█████████▉| 99/100 [12:02<00:08,  8.75s/it]
+正在处理: Quercus robur
+植物: Quercus robur
+中文名: 夏栎
+科属: 壳斗科 Fagaceae / 栎属 Quercus
+数据完整性: 完整
+2025-03-26 16:51:05,361 - INFO - 添加新植物 Quercus robur 到数据库
+正在爬取批次（共100个植物）: 100%|██████████| 100/100 [12:10<00:00,  7.30s/it]
+2025-03-26 16:51:07,492 - INFO - 批次完成，等待 0.5 分钟后开始下一批次...
+2025-03-26 16:51:38,175 - INFO - 开始处理第 2/6 批次，共 100 个植物
+2025-03-26 16:51:38,175 - INFO - 使用新的User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:94.0) Gecko/201...
+2025-03-26 16:51:38,176 - INFO - ====== WebDriver manager ======
+2025-03-26 16:51:40,372 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:51:41,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:51:41,977 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+
+正在处理: Quercus rubra
+正在爬取批次（共100个植物）:   0%|          | 0/100 [00:00<?, ?it/s]2025-03-26 16:51:52,111 - INFO - 添加新植物 Quercus rubra 到数据库
+植物: Quercus rubra
+中文名: 红槲栎
+科属:  /
+数据完整性: 不完整
+
+正在处理: Quercus suber
+正在爬取批次（共100个植物）:   1%|          | 1/100 [00:08<14:32,  8.81s/it]2025-03-26 16:51:58,216 - INFO - 添加新植物 Quercus suber 到数据库
+植物: Quercus suber
+中文名: 欧洲栓皮栎
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   2%|▏         | 2/100 [00:14<11:47,  7.22s/it]
+正在处理: Ranunculus aconitifolius
+2025-03-26 16:52:06,037 - INFO - 添加新植物 Ranunculus aconitifolius 到数据库
+植物: Ranunculus aconitifolius
+中文名: 乌头叶毛茛
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   3%|▎         | 3/100 [00:22<12:06,  7.49s/it]
+正在处理: Ranunculus acris
+2025-03-26 16:52:13,122 - INFO - 添加新植物 Ranunculus acris 到数据库
+植物: Ranunculus acris
+中文名: 高毛茛
+科属:  /
+数据完整性: 不完整
+
+正在处理: Ranunculus bulbosus
+正在爬取批次（共100个植物）:   4%|▍         | 4/100 [00:29<11:43,  7.33s/it]2025-03-26 16:52:19,808 - INFO - 添加新植物 Ranunculus bulbosus 到数据库
+植物: Ranunculus bulbosus
+中文名: 金发毛茛
+科属: 毛茛科 Ranunculaceae / 毛茛属 Ranunculus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   5%|▌         | 5/100 [00:36<11:14,  7.10s/it]
+正在处理: Ranunculus flammula
+2025-03-26 16:52:28,054 - INFO - 添加新植物 Ranunculus flammula 到数据库
+植物: Ranunculus flammula
+中文名: 焰毛茛
+科属: 毛茛科 Ranunculaceae / 毛茛属 Ranunculus
+数据完整性: 不完整
+
+正在处理: Ranunculus gramineus
+正在爬取批次（共100个植物）:   6%|▌         | 6/100 [00:44<11:44,  7.49s/it]2025-03-26 16:52:36,964 - INFO - 添加新植物 Ranunculus gramineus 到数据库
+植物: Ranunculus gramineus
+中文名: 禾叶毛茛
+科属: 毛茛科 Ranunculaceae / 毛茛属 Ranunculus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   7%|▋         | 7/100 [00:53<12:19,  7.95s/it]
+正在处理: Ranunculus paludosus
+2025-03-26 16:52:42,944 - INFO - 添加新植物 Ranunculus paludosus 到数据库
+植物: Ranunculus paludosus
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   8%|▊         | 8/100 [00:59<11:13,  7.33s/it]
+正在处理: Ranunculus parviflorus
+2025-03-26 16:52:50,038 - INFO - 添加新植物 Ranunculus parviflorus 到数据库
+植物: Ranunculus parviflorus
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   9%|▉         | 9/100 [01:06<11:00,  7.25s/it]
+正在处理: Ranunculus peltatus
+植物: Ranunculus peltatus
+中文名:
+科属: 毛茛科 Ranunculaceae / 毛茛属 Ranunculus
+数据完整性: 不完整
+2025-03-26 16:52:58,535 - INFO - 添加新植物 Ranunculus peltatus 到数据库
+
+正在处理: Ranunculus platanifolius
+正在爬取批次（共100个植物）:  10%|█         | 10/100 [01:15<11:27,  7.64s/it]2025-03-26 16:53:06,856 - INFO - 添加新植物 Ranunculus platanifolius 到数据库
+植物: Ranunculus platanifolius
+中文名:
+科属:  /
+数据完整性: 不完整
+
+正在处理: Ranunculus repens
+正在爬取批次（共100个植物）:  11%|█         | 11/100 [01:23<11:38,  7.85s/it]2025-03-26 16:53:16,556 - INFO - 添加新植物 Ranunculus repens 到数据库
+正在爬取批次（共100个植物）:  12%|█▏        | 12/100 [01:33<12:19,  8.41s/it]植物: Ranunculus repens
+中文名: 匍枝毛茛
+科属: 毛茛科 Ranunculaceae / 毛茛属 Ranunculus
+数据完整性: 完整
+
+正在处理: Ranunculus sceleratus
+2025-03-26 16:53:23,956 - INFO - 添加新植物 Ranunculus sceleratus 到数据库
+植物: Ranunculus sceleratus
+中文名: 石龙芮
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  13%|█▎        | 13/100 [01:40<11:45,  8.11s/it]
+正在处理: Ranunculus trichophyllus
+2025-03-26 16:53:31,828 - INFO - 添加新植物 Ranunculus trichophyllus 到数据库
+正在爬取批次（共100个植物）:  14%|█▍        | 14/100 [01:48<11:31,  8.03s/it]植物: Ranunculus trichophyllus
+中文名: 毛柄水毛茛
+科属:  /
+数据完整性: 不完整
+
+正在处理: Raphanus raphanistrum
+植物: Raphanus raphanistrum
+中文名: 野萝卜
+科属: 十字花科 Brassicaceae / 萝卜属 Raphanus
+数据完整性: 完整
+
+正在处理: Raphia farinifera
+2025-03-26 16:53:39,993 - INFO - 添加新植物 Raphanus raphanistrum 到数据库
+正在爬取批次（共100个植物）:  15%|█▌        | 15/100 [01:56<11:25,  8.07s/it]2025-03-26 16:53:45,404 - INFO - 添加新植物 Raphia farinifera 到数据库
+植物: Raphia farinifera
+中文名: 粉酒椰
+科属:  /
+数据完整性: 不完整
+
+正在处理: Reseda lutea
+正在爬取批次（共100个植物）:  16%|█▌        | 16/100 [02:02<10:11,  7.27s/it]2025-03-26 16:53:53,506 - INFO - 添加新植物 Reseda lutea 到数据库
+植物: Reseda lutea
+中文名: 黄木樨草
+科属:  /
+数据完整性: 不完整
+
+正在处理: Reseda luteola
+正在爬取批次（共100个植物）:  17%|█▋        | 17/100 [02:10<10:24,  7.52s/it]2025-03-26 16:54:00,622 - INFO - 添加新植物 Reseda luteola 到数据库
+植物: Reseda luteola
+中文名: 淡黄木樨草
+科属: 木樨草科 Resedaceae / 木樨草属 Reseda
+数据完整性: 不完整
+
+正在处理: Reseda phyteuma
+正在爬取批次（共100个植物）:  18%|█▊        | 18/100 [02:17<10:06,  7.40s/it]2025-03-26 16:54:06,053 - INFO - 添加新植物 Reseda phyteuma 到数据库
+植物: Reseda phyteuma
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  19%|█▉        | 19/100 [02:22<09:11,  6.81s/it]
+正在处理: Reynoutria japonica
+2025-03-26 16:54:11,339 - INFO - 添加新植物 Reynoutria japonica 到数据库
+正在爬取批次（共100个植物）:  20%|██        | 20/100 [02:28<08:28,  6.35s/it]植物: Reynoutria japonica
+中文名: 虎杖
+科属:  /
+数据完整性: 不完整
+
+正在处理: Rhamnus alaternus
+植物: Rhamnus alaternus
+中文名: 意大利鼠李
+科属: 鼠李科 Rhamnaceae / 鼠李属 Rhamnus
+数据完整性: 不完整
+2025-03-26 16:54:19,963 - INFO - 添加新植物 Rhamnus alaternus 到数据库
+
+正在处理: Rhamnus alpina
+正在爬取批次（共100个植物）:  21%|██        | 21/100 [02:36<09:15,  7.03s/it]2025-03-26 16:54:26,598 - INFO - 添加新植物 Rhamnus alpina 到数据库
+植物: Rhamnus alpina
+中文名:
+科属: 鼠李科 Rhamnaceae / 鼠李属 Rhamnus
+数据完整性: 不完整
+
+正在处理: Rhamnus cathartica
+正在爬取批次（共100个植物）:  22%|██▏       | 22/100 [02:43<08:59,  6.92s/it]2025-03-26 16:54:34,836 - INFO - 添加新植物 Rhamnus cathartica 到数据库
+植物: Rhamnus cathartica
+中文名: 药鼠李
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  23%|██▎       | 23/100 [02:51<09:23,  7.32s/it]
+正在处理: Rhamnus pumila
+2025-03-26 16:54:39,828 - INFO - 添加新植物 Rhamnus pumila 到数据库
+植物: Rhamnus pumila
+中文名: 矮生鼠李
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  24%|██▍       | 24/100 [02:56<08:22,  6.61s/it]
+正在处理: Rhaponticum coniferum
+植物: Rhaponticum coniferum
+中文名: 锥状漏芦
+科属: 菊科 Asteraceae / 漏芦属 Rhaponticum
+数据完整性: 不完整
+2025-03-26 16:54:48,970 - INFO - 添加新植物 Rhaponticum coniferum 到数据库
+正在爬取批次（共100个植物）:  25%|██▌       | 25/100 [03:05<09:13,  7.37s/it]
+正在处理: Rhinanthus alectorolophus
+2025-03-26 16:54:55,121 - INFO - 添加新植物 Rhinanthus alectorolophus 到数据库
+植物: Rhinanthus alectorolophus
+中文名:
+科属: 列当科 Orobanchaceae / 鼻花属 Rhinanthus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  26%|██▌       | 26/100 [03:11<08:38,  7.00s/it]
+正在处理: Rhinanthus minor
+植物: Rhinanthus minor
+中文名: 小鼻花
+科属: 列当科 Orobanchaceae / 鼻花属 Rhinanthus
+数据完整性: 不完整
+
+正在处理: Rhodanthe chlorocephala
+2025-03-26 16:55:02,243 - INFO - 添加新植物 Rhinanthus minor 到数据库
+正在爬取批次（共100个植物）:  27%|██▋       | 27/100 [03:18<08:33,  7.04s/it]2025-03-26 16:55:08,178 - INFO - 添加新植物 Rhodanthe chlorocephala 到数据库
+植物: Rhodanthe chlorocephala
+中文名: 绿头花簪菊
+科属: 菊科 Asteraceae / 花笺菊属 Rhodanthe
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  28%|██▊       | 28/100 [03:24<08:03,  6.71s/it]
+正在处理: Rhododendron ferrugineum
+2025-03-26 16:55:13,913 - INFO - 添加新植物 Rhododendron ferrugineum 到数据库
+植物: Rhododendron ferrugineum
+中文名: 欧洲杜鹃
+科属: 杜鹃花科 Ericaceae / 杜鹃花属 Rhododendron
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  29%|██▉       | 29/100 [03:30<07:35,  6.42s/it]
+正在处理: Rhodothamnus chamaecistus
+2025-03-26 16:55:19,372 - INFO - 添加新植物 Rhodothamnus chamaecistus 到数据库
+植物: Rhodothamnus chamaecistus
+中文名: 伏石花
+科属: 杜鹃花科 Ericaceae / 伏石花属 Rhodothamnus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  30%|███       | 30/100 [03:36<07:08,  6.13s/it]
+正在处理: Rhus coriaria
+植物: Rhus coriaria
+中文名: 西西里漆树
+科属: 漆树科 Anacardiaceae / 盐麸木属 Rhus
+数据完整性: 不完整
+
+正在处理: Rhus typhina
+2025-03-26 16:55:23,419 - INFO - 添加新植物 Rhus coriaria 到数据库
+正在爬取批次（共100个植物）:  31%|███       | 31/100 [03:40<06:19,  5.50s/it]2025-03-26 16:55:30,372 - INFO - 添加新植物 Rhus typhina 到数据库
+正在爬取批次（共100个植物）:  32%|███▏      | 32/100 [03:47<06:43,  5.94s/it]植物: Rhus typhina
+中文名: 火炬树
+科属: 漆树科 Anacardiaceae / 盐麸木属 Rhus
+数据完整性: 完整
+
+正在处理: Ribes rubrum
+2025-03-26 16:55:39,831 - INFO - 添加新植物 Ribes rubrum 到数据库
+正在爬取批次（共100个植物）:  33%|███▎      | 33/100 [03:56<07:48,  6.99s/it]植物: Ribes rubrum
+中文名: 红茶藨子
+科属: 茶藨子科 Grossulariaceae / 茶藨子属 Ribes
+数据完整性: 完整
+
+正在处理: Robinia pseudoacacia
+2025-03-26 16:55:46,067 - INFO - 添加新植物 Robinia pseudoacacia 到数据库
+正在爬取批次（共100个植物）:  34%|███▍      | 34/100 [04:02<07:26,  6.77s/it]植物: Robinia pseudoacacia
+中文名: 刺槐
+科属: 豆科 Fabaceae / 刺槐属 Robinia
+数据完整性: 完整
+
+正在处理: Rosa agrestis
+2025-03-26 16:55:52,602 - INFO - 添加新植物 Rosa agrestis 到数据库
+正在爬取批次（共100个植物）:  35%|███▌      | 35/100 [04:09<07:15,  6.70s/it]植物: Rosa agrestis
+中文名: 欧洲野蔷薇
+科属: 蔷薇科 Rosaceae / 蔷薇属 Rosa
+数据完整性: 不完整
+
+正在处理: Rosa canina
+植物: Rosa canina
+中文名: 犬蔷薇
+科属: 蔷薇科 Rosaceae / 蔷薇属 Rosa
+数据完整性: 不完整
+2025-03-26 16:55:58,965 - INFO - 添加新植物 Rosa canina 到数据库
+正在爬取批次（共100个植物）:  36%|███▌      | 36/100 [04:15<07:02,  6.60s/it]
+正在处理: Rosa pendulina
+植物: Rosa pendulina
+中文名:
+科属: 蔷薇科 Rosaceae / 蔷薇属 Rosa
+数据完整性: 不完整
+2025-03-26 16:56:05,892 - INFO - 添加新植物 Rosa pendulina 到数据库
+正在爬取批次（共100个植物）:  37%|███▋      | 37/100 [04:22<07:01,  6.70s/it]
+正在处理: Rosa spinosissima
+植物: Rosa spinosissima
+中文名: 密刺蔷薇
+科属: 蔷薇科 Rosaceae / 蔷薇属 Rosa
+数据完整性: 完整
+
+正在处理: Rosmarinus officinalis
+2025-03-26 16:56:11,259 - INFO - 添加新植物 Rosa spinosissima 到数据库
+正在爬取批次（共100个植物）:  38%|███▊      | 38/100 [04:27<06:30,  6.29s/it]2025-03-26 16:56:18,308 - INFO - 添加新植物 Rosmarinus officinalis 到数据库
+植物: Rosmarinus officinalis
+中文名: 迷迭香
+科属: 唇形科 Lamiaceae / 迷迭香属 Rosmarinus
+数据完整性: 完整
+
+正在处理: Rubia tinctorum
+正在爬取批次（共100个植物）:  39%|███▉      | 39/100 [04:34<06:37,  6.52s/it]2025-03-26 16:56:25,165 - INFO - 添加新植物 Rubia tinctorum 到数据库
+正在爬取批次（共100个植物）:  40%|████      | 40/100 [04:41<06:37,  6.62s/it]植物: Rubia tinctorum
+中文名: 染色茜草
+科属: 茜草科 Rubiaceae / 茜草属 Rubia
+数据完整性: 完整
+
+正在处理: Rubus fruticosus
+植物: Rubus fruticosus
+中文名: 黑莓
+科属: 蔷薇科 Rosaceae / 悬钩子属 Rubus
+数据完整性: 不完整
+
+正在处理: Rubus idaeus
+2025-03-26 16:56:30,028 - INFO - 添加新植物 Rubus fruticosus 到数据库
+正在爬取批次（共100个植物）:  41%|████      | 41/100 [04:46<05:59,  6.10s/it]2025-03-26 16:56:36,336 - INFO - 添加新植物 Rubus idaeus 到数据库
+植物: Rubus idaeus
+中文名: 覆盆子
+科属: 蔷薇科 Rosaceae / 悬钩子属 Rubus
+数据完整性: 完整
+
+正在处理: Rubus pedatifolius
+正在爬取批次（共100个植物）:  42%|████▏     | 42/100 [04:53<05:57,  6.16s/it]2025-03-26 16:56:40,664 - INFO - 添加新植物 Rubus pedatifolius 到数据库
+正在爬取批次（共100个植物）:  43%|████▎     | 43/100 [04:57<05:19,  5.61s/it]植物: Rubus pedatifolius
+中文名:
+科属: 蔷薇科 Rosaceae / 悬钩子属 Rubus
+数据完整性: 不完整
+
+正在处理: Rubus ulmifolius
+2025-03-26 16:56:46,644 - INFO - 添加新植物 Rubus ulmifolius 到数据库
+正在爬取批次（共100个植物）:  44%|████▍     | 44/100 [05:03<05:20,  5.72s/it]植物: Rubus ulmifolius
+中文名: 榆叶黑莓
+科属: 蔷薇科 Rosaceae / 悬钩子属 Rubus
+数据完整性: 不完整
+
+正在处理: Rumex acetosella
+植物: Rumex acetosella
+中文名: 小酸模
+科属: 蓼科 Polygonaceae / 酸模属 Rumex
+数据完整性: 不完整
+2025-03-26 16:56:51,560 - INFO - 添加新植物 Rumex acetosella 到数据库
+
+正在处理: Rumex crispus
+正在爬取批次（共100个植物）:  45%|████▌     | 45/100 [05:08<05:01,  5.48s/it]2025-03-26 16:56:56,711 - INFO - 添加新植物 Rumex crispus 到数据库
+植物: Rumex crispus
+中文名: 皱叶酸模
+科属: 蓼科 Polygonaceae / 酸模属 Rumex
+数据完整性: 完整
+
+正在处理: Rumex obtusifolius
+正在爬取批次（共100个植物）:  46%|████▌     | 46/100 [05:13<04:50,  5.38s/it]2025-03-26 16:57:09,834 - INFO - 添加新植物 Rumex obtusifolius 到数据库
+植物: Rumex obtusifolius
+中文名: 钝叶酸模
+科属: 蓼科 Polygonaceae / 酸模属 Rumex
+数据完整性: 完整
+
+正在处理: Rumohra adiantiformis
+正在爬取批次（共100个植物）:  47%|████▋     | 47/100 [05:26<06:48,  7.70s/it]2025-03-26 16:57:19,429 - INFO - 添加新植物 Rumohra adiantiformis 到数据库
+正在爬取批次（共100个植物）:  48%|████▊     | 48/100 [05:36<07:10,  8.27s/it]植物: Rumohra adiantiformis
+中文名: 革叶蕨
+科属: 鳞毛蕨科 Dryopteridaceae / 革叶蕨属 Rumohra
+数据完整性: 不完整
+
+正在处理: Ruscus aculeatus
+植物: Ruscus aculeatus
+中文名: 假叶树
+科属: 天门冬科 Asparagaceae / 假叶树属 Ruscus
+数据完整性: 完整
+
+正在处理: Ruta montana
+2025-03-26 16:57:28,502 - INFO - 添加新植物 Ruscus aculeatus 到数据库
+正在爬取批次（共100个植物）:  49%|████▉     | 49/100 [05:45<07:13,  8.51s/it]2025-03-26 16:57:33,374 - INFO - 添加新植物 Ruta montana 到数据库
+正在爬取批次（共100个植物）:  50%|█████     | 50/100 [05:50<06:11,  7.42s/it]植物: Ruta montana
+中文名: 山地芸香
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sagittaria graminea
+2025-03-26 16:57:45,853 - INFO - 添加新植物 Sagittaria graminea 到数据库
+正在爬取批次（共100个植物）:  51%|█████     | 51/100 [06:02<07:18,  8.94s/it]植物: Sagittaria graminea
+中文名: 禾叶慈姑
+科属: 泽泻科 Alismataceae / 慈姑属 Sagittaria
+数据完整性: 不完整
+
+正在处理: Sagittaria lancifolia
+2025-03-26 16:57:52,479 - INFO - 添加新植物 Sagittaria lancifolia 到数据库
+植物: Sagittaria lancifolia
+中文名: 泽泻慈姑
+科属: 泽泻科 Alismataceae / 慈姑属 Sagittaria
+数据完整性: 不完整
+
+正在处理: Sagittaria latifolia
+正在爬取批次（共100个植物）:  52%|█████▏    | 52/100 [06:09<06:35,  8.24s/it]2025-03-26 16:57:58,741 - INFO - 添加新植物 Sagittaria latifolia 到数据库
+正在爬取批次（共100个植物）:  53%|█████▎    | 53/100 [06:15<05:59,  7.65s/it]植物: Sagittaria latifolia
+中文名:
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sagittaria montevidensis
+2025-03-26 16:58:08,087 - INFO - 添加新植物 Sagittaria montevidensis 到数据库
+植物: Sagittaria montevidensis
+中文名: 爆米花慈姑
+科属: 泽泻科 Alismataceae / 慈姑属 Sagittaria
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  54%|█████▍    | 54/100 [06:24<06:15,  8.16s/it]
+正在处理: Sagittaria sagittifolia
+2025-03-26 16:58:13,574 - INFO - 添加新植物 Sagittaria sagittifolia 到数据库
+正在爬取批次（共100个植物）:  55%|█████▌    | 55/100 [06:30<05:30,  7.35s/it]植物: Sagittaria sagittifolia
+中文名: 欧洲慈姑
+科属: 泽泻科 Alismataceae / 慈姑属 Sagittaria
+数据完整性: 完整
+
+正在处理: Sagotia racemosa
+2025-03-26 16:58:20,389 - INFO - 添加新植物 Sagotia racemosa 到数据库
+植物: Sagotia racemosa
+中文名:
+科属: 大戟科 Euphorbiaceae / 弯萼桐属 Sagotia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  56%|█████▌    | 56/100 [06:37<05:16,  7.20s/it]
+正在处理: Salix alba
+2025-03-26 16:58:27,318 - INFO - 添加新植物 Salix alba 到数据库
+正在爬取批次（共100个植物）:  57%|█████▋    | 57/100 [06:44<05:05,  7.11s/it]植物: Salix alba
+中文名: 白柳
+科属: 杨柳科 Salicaceae / 柳属 Salix
+数据完整性: 完整
+
+正在处理: Salix babylonica
+2025-03-26 16:58:33,387 - INFO - 添加新植物 Salix babylonica 到数据库
+正在爬取批次（共100个植物）:  58%|█████▊    | 58/100 [06:50<04:45,  6.80s/it]植物: Salix babylonica
+中文名: 垂柳
+科属: 杨柳科 Salicaceae / 柳属 Salix
+数据完整性: 完整
+
+正在处理: Salix caprea
+2025-03-26 16:58:40,389 - INFO - 添加新植物 Salix caprea 到数据库
+正在爬取批次（共100个植物）:  59%|█████▉    | 59/100 [06:57<04:41,  6.86s/it]植物: Salix caprea
+中文名: 黄花柳
+科属: 杨柳科 Salicaceae / 柳属 Salix
+数据完整性: 完整
+
+正在处理: Salix cinerea
+2025-03-26 16:58:47,814 - INFO - 添加新植物 Salix cinerea 到数据库
+正在爬取批次（共100个植物）:  60%|██████    | 60/100 [07:04<04:41,  7.03s/it]植物: Salix cinerea
+中文名: 灰柳
+科属: 杨柳科 Salicaceae / 柳属 Salix
+数据完整性: 完整
+
+正在处理: Salix fragilis
+植物: Salix fragilis
+中文名: 爆竹柳
+科属: 杨柳科 Salicaceae / 柳属 Salix
+数据完整性: 完整
+
+正在处理: Salix herbacea
+2025-03-26 16:58:57,184 - INFO - 添加新植物 Salix fragilis 到数据库
+正在爬取批次（共100个植物）:  61%|██████    | 61/100 [07:13<05:01,  7.73s/it]2025-03-26 16:59:04,183 - INFO - 添加新植物 Salix herbacea 到数据库
+植物: Salix herbacea
+中文名:
+科属: 杨柳科 Salicaceae / 柳属 Salix
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  62%|██████▏   | 62/100 [07:20<04:45,  7.52s/it]
+正在处理: Salvia officinalis
+2025-03-26 16:59:08,608 - INFO - 添加新植物 Salvia officinalis 到数据库
+正在爬取批次（共100个植物）:  63%|██████▎   | 63/100 [07:25<04:03,  6.58s/it]植物: Salvia officinalis
+中文名: 欧鼠尾草
+科属: 唇形科 Lamiaceae / 鼠尾草属 Salvia
+数据完整性: 完整
+
+正在处理: Salvia pratensis
+2025-03-26 16:59:14,295 - INFO - 添加新植物 Salvia pratensis 到数据库
+正在爬取批次（共100个植物）:  64%|██████▍   | 64/100 [07:30<03:47,  6.32s/it]植物: Salvia pratensis
+中文名: 草甸鼠尾草
+科属: 唇形科 Lamiaceae / 鼠尾草属 Salvia
+数据完整性: 不完整
+
+正在处理: Salvia verbenaca
+2025-03-26 16:59:19,220 - INFO - 添加新植物 Salvia verbenaca 到数据库
+植物: Salvia verbenaca
+中文名: 马鞭鼠尾草
+科属: 唇形科 Lamiaceae / 鼠尾草属 Salvia
+数据完整性: 不完整
+
+正在处理: Sambucus ebulus
+正在爬取批次（共100个植物）:  65%|██████▌   | 65/100 [07:35<03:26,  5.90s/it]2025-03-26 16:59:25,656 - INFO - 添加新植物 Sambucus ebulus 到数据库
+植物: Sambucus ebulus
+中文名:
+科属: 荚蒾科 Viburnaceae / 接骨木属 Sambucus
+数据完整性: 不完整
+
+正在处理: Sambucus nigra
+正在爬取批次（共100个植物）:  66%|██████▌   | 66/100 [07:42<03:26,  6.06s/it]2025-03-26 16:59:30,991 - INFO - 添加新植物 Sambucus nigra 到数据库
+植物: Sambucus nigra
+中文名: 西洋接骨木
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sambucus racemosa
+正在爬取批次（共100个植物）:  67%|██████▋   | 67/100 [07:47<03:12,  5.84s/it]2025-03-26 16:59:39,337 - INFO - 添加新植物 Sambucus racemosa 到数据库
+植物: Sambucus racemosa
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  68%|██████▊   | 68/100 [07:56<03:30,  6.59s/it]
+正在处理: Saponaria ocymoides
+2025-03-26 16:59:46,387 - INFO - 添加新植物 Saponaria ocymoides 到数据库
+正在爬取批次（共100个植物）:  69%|██████▉   | 69/100 [08:03<03:28,  6.73s/it]植物: Saponaria ocymoides
+中文名: 岩生肥皂草
+科属: 石竹科 Caryophyllaceae / 肥皂草属 Saponaria
+数据完整性: 不完整
+
+正在处理: Saponaria officinalis
+植物: Saponaria officinalis
+中文名: 肥皂草
+科属: 石竹科 Caryophyllaceae / 肥皂草属 Saponaria
+数据完整性: 完整
+
+正在处理: Sasa palmata
+2025-03-26 16:59:52,723 - INFO - 添加新植物 Saponaria officinalis 到数据库
+正在爬取批次（共100个植物）:  70%|███████   | 70/100 [08:09<03:18,  6.61s/it]2025-03-26 16:59:56,896 - INFO - 添加新植物 Sasa palmata 到数据库
+植物: Sasa palmata
+中文名: 大叶苦竹
+科属: 禾本科 Poaceae / 赤竹属 Sasa
+数据完整性: 不完整
+
+正在处理: Satureja montana
+正在爬取批次（共100个植物）:  71%|███████   | 71/100 [08:13<02:50,  5.88s/it]2025-03-26 17:00:02,395 - INFO - 添加新植物 Satureja montana 到数据库
+植物: Satureja montana
+中文名: 冬香草
+科属: 唇形科 Lamiaceae / 夏香草属 Satureja
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  72%|███████▏  | 72/100 [08:19<02:41,  5.77s/it]
+正在处理: Saxifraga aizoides
+2025-03-26 17:00:09,398 - INFO - 添加新植物 Saxifraga aizoides 到数据库
+植物: Saxifraga aizoides
+中文名:
+科属: 虎耳草科 Saxifragaceae / 虎耳草属 Saxifraga
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  73%|███████▎  | 73/100 [08:26<02:45,  6.14s/it]
+正在处理: Saxifraga granulata
+2025-03-26 17:00:15,989 - INFO - 添加新植物 Saxifraga granulata 到数据库
+植物: Saxifraga granulata
+中文名: 粒牙虎耳草
+科属: 虎耳草科 Saxifragaceae / 虎耳草属 Saxifraga
+数据完整性: 不完整
+
+正在处理: Saxifraga media
+正在爬取批次（共100个植物）:  74%|███████▍  | 74/100 [08:32<02:43,  6.27s/it]2025-03-26 17:00:20,883 - INFO - 添加新植物 Saxifraga media 到数据库
+植物: Saxifraga media
+中文名:
+科属: 虎耳草科 Saxifragaceae / 虎耳草属 Saxifraga
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  75%|███████▌  | 75/100 [08:37<02:26,  5.86s/it]
+正在处理: Saxifraga moschata
+2025-03-26 17:00:27,798 - INFO - 添加新植物 Saxifraga moschata 到数据库
+植物: Saxifraga moschata
+中文名:
+科属: 虎耳草科 Saxifragaceae / 虎耳草属 Saxifraga
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  76%|███████▌  | 76/100 [08:44<02:28,  6.18s/it]
+正在处理: Saxifraga paniculata
+植物: Saxifraga paniculata
+中文名: 锥花虎耳草
+科属: 虎耳草科 Saxifragaceae / 虎耳草属 Saxifraga
+数据完整性: 不完整
+
+正在处理: Saxifraga tridactylites
+2025-03-26 17:00:35,831 - INFO - 添加新植物 Saxifraga paniculata 到数据库
+正在爬取批次（共100个植物）:  77%|███████▋  | 77/100 [08:52<02:34,  6.73s/it]2025-03-26 17:00:39,625 - INFO - 添加新植物 Saxifraga tridactylites 到数据库
+植物: Saxifraga tridactylites
+中文名:
+科属:  /
+数据完整性: 不完整
+
+正在处理: Scabiosa atropurpurea
+正在爬取批次（共100个植物）:  78%|███████▊  | 78/100 [08:56<02:08,  5.85s/it]2025-03-26 17:00:45,847 - INFO - 添加新植物 Scabiosa atropurpurea 到数据库
+植物: Scabiosa atropurpurea
+中文名:
+科属: 忍冬科 Caprifoliaceae / 蓝盆花属 Scabiosa
+数据完整性: 不完整
+
+正在处理: Scabiosa columbaria
+正在爬取批次（共100个植物）:  79%|███████▉  | 79/100 [09:02<02:05,  5.96s/it]2025-03-26 17:00:53,418 - INFO - 添加新植物 Scabiosa columbaria 到数据库
+正在爬取批次（共100个植物）:  80%|████████  | 80/100 [09:10<02:08,  6.44s/it]植物: Scabiosa columbaria
+中文名: 飞鸽蓝盆花
+科属: 忍冬科 Caprifoliaceae / 蓝盆花属 Scabiosa
+数据完整性: 不完整
+
+正在处理: Schefflera actinophylla
+2025-03-26 17:00:59,511 - INFO - 添加新植物 Schefflera actinophylla 到数据库
+植物: Schefflera actinophylla
+中文名: 辐叶鹅掌柴
+科属: 五加科 Araliaceae / 南鹅掌柴属 Schefflera
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  81%|████████  | 81/100 [09:16<02:00,  6.34s/it]
+正在处理: Schefflera arboricola
+2025-03-26 17:01:06,256 - INFO - 添加新植物 Schefflera arboricola 到数据库
+植物: Schefflera arboricola
+中文名:
+科属: 五加科 Araliaceae / 南鹅掌柴属 Schefflera
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  82%|████████▏ | 82/100 [09:22<01:56,  6.47s/it]
+正在处理: Schefflera decaphylla
+2025-03-26 17:01:11,881 - INFO - 添加新植物 Schefflera decaphylla 到数据库
+植物: Schefflera decaphylla
+中文名:
+科属: 五加科 Araliaceae / 南鹅掌柴属 Schefflera
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  83%|████████▎ | 83/100 [09:28<01:45,  6.21s/it]
+正在处理: Schefflera heptaphylla
+植物: Schefflera heptaphylla
+中文名:
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:01:18,136 - INFO - 添加新植物 Schefflera heptaphylla 到数据库
+正在爬取批次（共100个植物）:  84%|████████▍ | 84/100 [09:34<01:39,  6.22s/it]
+正在处理: Schefflera morototoni
+植物: Schefflera morototoni
+中文名:
+科属: 五加科 Araliaceae / 南鹅掌柴属 Schefflera
+数据完整性: 不完整
+2025-03-26 17:01:24,546 - INFO - 添加新植物 Schefflera morototoni 到数据库
+正在爬取批次（共100个植物）:  85%|████████▌ | 85/100 [09:41<01:34,  6.28s/it]
+正在处理: Schefflera spp
+2025-03-26 17:01:29,007 - INFO - 添加新植物 Schefflera spp 到数据库
+植物: Schefflera spp
+中文名: Schefflera spp
+科属:  /
+数据完整性: 不完整
+
+正在处理: Schinopsis balansae
+正在爬取批次（共100个植物）:  86%|████████▌ | 86/100 [09:45<01:20,  5.73s/it]2025-03-26 17:01:35,686 - INFO - 添加新植物 Schinopsis balansae 到数据库
+植物: Schinopsis balansae
+中文名: 红破斧木
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  87%|████████▋ | 87/100 [09:52<01:18,  6.02s/it]
+正在处理: Schkuhria pinnata
+植物: Schkuhria pinnata
+中文名: 丝蓉菊
+科属: 菊科 Asteraceae / 假丝叶菊属 Schkuhria
+数据完整性: 不完整
+2025-03-26 17:01:41,246 - INFO - 添加新植物 Schkuhria pinnata 到数据库
+正在爬取批次（共100个植物）:  88%|████████▊ | 88/100 [09:57<01:10,  5.88s/it]
+正在处理: Scilla luciliae
+2025-03-26 17:01:47,891 - INFO - 添加新植物 Scilla luciliae 到数据库
+植物: Scilla luciliae
+中文名: 雪光花
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  89%|████████▉ | 89/100 [10:04<01:07,  6.11s/it]
+正在处理: Scolymus hispanicus
+植物: Scolymus hispanicus
+中文名: 刺苣
+科属: 菊科 Asteraceae / 刺苣属 Scolymus
+数据完整性: 不完整
+2025-03-26 17:01:52,518 - INFO - 添加新植物 Scolymus hispanicus 到数据库
+
+正在处理: Scorzoneroides pyrenaica
+正在爬取批次（共100个植物）:  90%|█████████ | 90/100 [10:09<00:56,  5.66s/it]2025-03-26 17:01:57,503 - INFO - 添加新植物 Scorzoneroides pyrenaica 到数据库
+植物: Scorzoneroides pyrenaica
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  91%|█████████ | 91/100 [10:14<00:49,  5.46s/it]
+正在处理: Scrophularia auriculata
+植物: Scrophularia auriculata
+中文名:
+科属: 玄参科 Scrophulariaceae / 玄参属 Scrophularia
+数据完整性: 不完整
+2025-03-26 17:02:03,647 - INFO - 添加新植物 Scrophularia auriculata 到数据库
+正在爬取批次（共100个植物）:  92%|█████████▏| 92/100 [10:20<00:45,  5.66s/it]
+正在处理: Scrophularia nodosa
+植物: Scrophularia nodosa
+中文名: 具节玄参
+科属: 玄参科 Scrophulariaceae / 玄参属 Scrophularia
+数据完整性: 不完整
+2025-03-26 17:02:12,094 - INFO - 添加新植物 Scrophularia nodosa 到数据库
+正在爬取批次（共100个植物）:  93%|█████████▎| 93/100 [10:28<00:45,  6.50s/it]
+正在处理: Scutellaria galericulata
+2025-03-26 17:02:19,999 - INFO - 添加新植物 Scutellaria galericulata 到数据库
+正在爬取批次（共100个植物）:  94%|█████████▍| 94/100 [10:36<00:41,  6.92s/it]植物: Scutellaria galericulata
+中文名: 盔状黄芩
+科属: 唇形科 Lamiaceae / 黄芩属 Scutellaria
+数据完整性: 完整
+
+正在处理: Secale cereale
+植物: Secale cereale
+中文名: 黑麦
+科属: 禾本科 Poaceae / 黑麦属 Secale
+数据完整性: 完整
+
+正在处理: Sedum acre
+2025-03-26 17:02:26,241 - INFO - 添加新植物 Secale cereale 到数据库
+正在爬取批次（共100个植物）:  95%|█████████▌| 95/100 [10:42<00:33,  6.71s/it]2025-03-26 17:02:32,286 - INFO - 添加新植物 Sedum acre 到数据库
+植物: Sedum acre
+中文名: 苔景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  96%|█████████▌| 96/100 [10:48<00:26,  6.52s/it]
+正在处理: Sedum adolphii
+植物: Sedum adolphii
+中文名: 黄丽
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:02:38,481 - INFO - 添加新植物 Sedum adolphii 到数据库
+正在爬取批次（共100个植物）:  97%|█████████▋| 97/100 [10:55<00:19,  6.42s/it]
+正在处理: Sedum albomarginatum
+2025-03-26 17:02:45,046 - INFO - 添加新植物 Sedum albomarginatum 到数据库
+植物: Sedum albomarginatum
+中文名: 白边景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum album
+正在爬取批次（共100个植物）:  98%|█████████▊| 98/100 [11:01<00:12,  6.46s/it]2025-03-26 17:02:51,481 - INFO - 添加新植物 Sedum album 到数据库
+正在爬取批次（共100个植物）:  99%|█████████▉| 99/100 [11:08<00:06,  6.46s/it]植物: Sedum album
+中文名: 玉米石
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum allantoides
+2025-03-26 17:02:58,068 - INFO - 添加新植物 Sedum allantoides 到数据库
+正在爬取批次（共100个植物）: 100%|██████████| 100/100 [11:14<00:00,  6.75s/it]
+植物: Sedum allantoides
+中文名: 白厚叶弁庆
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:03:00,274 - INFO - 批次完成，等待 0.7 分钟后开始下一批次...
+2025-03-26 17:03:43,254 - INFO - 开始处理第 3/6 批次，共 100 个植物
+2025-03-26 17:03:43,255 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap...
+2025-03-26 17:03:43,255 - INFO - ====== WebDriver manager ======
+2025-03-26 17:03:45,446 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:03:46,173 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:03:46,910 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+正在爬取批次（共100个植物）:   0%|          | 0/100 [00:00<?, ?it/s]
+正在处理: Sedum alpestre
+植物: Sedum alpestre
+中文名: 亚高山景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:03:53,555 - INFO - 添加新植物 Sedum alpestre 到数据库
+正在爬取批次（共100个植物）:   1%|          | 1/100 [00:05<08:47,  5.33s/it]
+正在处理: Sedum amplexicaule
+2025-03-26 17:03:56,575 - INFO - 添加新植物 Sedum amplexicaule 到数据库
+正在爬取批次（共100个植物）:   2%|▏         | 2/100 [00:08<06:28,  3.97s/it]植物: Sedum amplexicaule
+中文名: Sedum amplexicaule
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sedum andegavense
+2025-03-26 17:04:01,357 - INFO - 添加新植物 Sedum andegavense 到数据库
+正在爬取批次（共100个植物）:   3%|▎         | 3/100 [00:13<07:01,  4.34s/it]植物: Sedum andegavense
+中文名: 安第斯景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum anglicum
+2025-03-26 17:04:08,452 - INFO - 添加新植物 Sedum anglicum 到数据库
+植物: Sedum anglicum
+中文名: 姬星美人
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   4%|▍         | 4/100 [00:20<08:41,  5.43s/it]
+正在处理: Sedum annuum
+植物: Sedum annuum
+中文名: 一年生景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:04:15,117 - INFO - 添加新植物 Sedum annuum 到数据库
+
+正在处理: Sedum atratum
+正在爬取批次（共100个植物）:   5%|▌         | 5/100 [00:26<09:18,  5.88s/it]2025-03-26 17:04:21,183 - INFO - 添加新植物 Sedum atratum 到数据库
+植物: Sedum atratum
+中文名: 变黑景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   6%|▌         | 6/100 [00:32<09:18,  5.94s/it]
+正在处理: Sedum brevifolium
+2025-03-26 17:04:27,985 - INFO - 添加新植物 Sedum brevifolium 到数据库
+植物: Sedum brevifolium
+中文名: 子持万年草
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum burrito
+正在爬取批次（共100个植物）:   7%|▋         | 7/100 [00:39<09:38,  6.22s/it]2025-03-26 17:04:33,306 - INFO - 添加新植物 Sedum burrito 到数据库
+植物: Sedum burrito
+中文名: 新玉綴
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sedum caeruleum
+正在爬取批次（共100个植物）:   8%|▊         | 8/100 [00:45<09:06,  5.94s/it]2025-03-26 17:04:38,646 - INFO - 添加新植物 Sedum caeruleum 到数据库
+植物: Sedum caeruleum
+中文名: 青花一年草
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   9%|▉         | 9/100 [00:50<08:43,  5.75s/it]
+正在处理: Sedum caespitosum
+植物: Sedum caespitosum
+中文名: Sedum caespitosum
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:04:41,611 - INFO - 添加新植物 Sedum caespitosum 到数据库
+正在爬取批次（共100个植物）:  10%|█         | 10/100 [00:53<07:20,  4.89s/it]
+正在处理: Sedum cepaea
+2025-03-26 17:04:45,941 - INFO - 添加新植物 Sedum cepaea 到数据库
+植物: Sedum cepaea
+中文名: 洋葱景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  11%|█         | 11/100 [00:57<06:59,  4.72s/it]
+正在处理: Sedum clavatum
+2025-03-26 17:04:51,992 - INFO - 添加新植物 Sedum clavatum 到数据库
+植物: Sedum clavatum
+中文名: 劳尔
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum compressum
+正在爬取批次（共100个植物）:  12%|█▏        | 12/100 [01:03<07:30,  5.12s/it]2025-03-26 17:04:57,153 - INFO - 添加新植物 Sedum compressum 到数据库
+植物: Sedum compressum
+中文名: Sedum compressum
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  13%|█▎        | 13/100 [01:08<07:26,  5.13s/it]
+正在处理: Sedum cyaneum
+2025-03-26 17:05:02,737 - INFO - 添加新植物 Sedum cyaneum 到数据库
+植物: Sedum cyaneum
+中文名: Sedum cyaneum
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  14%|█▍        | 14/100 [01:14<07:33,  5.27s/it]
+正在处理: Sedum dasyphyllum
+2025-03-26 17:05:08,511 - INFO - 添加新植物 Sedum dasyphyllum 到数据库
+植物: Sedum dasyphyllum
+中文名: 铃珠草
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  15%|█▌        | 15/100 [01:20<07:40,  5.42s/it]
+正在处理: Sedum decumbens
+植物: Sedum decumbens
+中文名: Sedum decumbens
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sedum dendroideum
+2025-03-26 17:05:15,729 - INFO - 添加新植物 Sedum decumbens 到数据库
+正在爬取批次（共100个植物）:  16%|█▌        | 16/100 [01:27<08:20,  5.96s/it]2025-03-26 17:05:22,304 - INFO - 添加新植物 Sedum dendroideum 到数据库
+植物: Sedum dendroideum
+中文名: 达摩宝珠
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  17%|█▋        | 17/100 [01:34<08:30,  6.15s/it]
+正在处理: Sedum divergens
+2025-03-26 17:05:30,674 - INFO - 添加新植物 Sedum divergens 到数据库
+植物: Sedum divergens
+中文名:
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  18%|█▊        | 18/100 [01:42<09:18,  6.81s/it]
+正在处理: Sedum forsterianum
+2025-03-26 17:05:35,527 - INFO - 添加新植物 Sedum forsterianum 到数据库
+植物: Sedum forsterianum
+中文名:
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum furfuraceum
+正在爬取批次（共100个植物）:  19%|█▉        | 19/100 [01:47<08:24,  6.23s/it]2025-03-26 17:05:43,563 - INFO - 添加新植物 Sedum furfuraceum 到数据库
+植物: Sedum furfuraceum
+中文名: 群毛豆
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  20%|██        | 20/100 [01:55<09:01,  6.77s/it]
+正在处理: Sedum glaucophyllum
+植物: Sedum glaucophyllum
+中文名: 粉绿景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:05:49,043 - INFO - 添加新植物 Sedum glaucophyllum 到数据库
+
+正在处理: Sedum hernandezii
+正在爬取批次（共100个植物）:  21%|██        | 21/100 [02:00<08:24,  6.38s/it]2025-03-26 17:05:55,580 - INFO - 添加新植物 Sedum hernandezii 到数据库
+正在爬取批次（共100个植物）:  22%|██▏       | 22/100 [02:07<08:21,  6.43s/it]植物: Sedum hernandezii
+中文名: 绿龟之卵
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sedum hirsutum
+2025-03-26 17:06:03,427 - INFO - 添加新植物 Sedum hirsutum 到数据库
+植物: Sedum hirsutum
+中文名: 粗毛景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum hispanicum
+正在爬取批次（共100个植物）:  23%|██▎       | 23/100 [02:15<08:47,  6.85s/it]2025-03-26 17:06:09,407 - INFO - 添加新植物 Sedum hispanicum 到数据库
+植物: Sedum hispanicum
+中文名: 薄雪万年草
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum japonicum
+正在爬取批次（共100个植物）:  24%|██▍       | 24/100 [02:21<08:20,  6.59s/it]2025-03-26 17:06:14,583 - INFO - 添加新植物 Sedum japonicum 到数据库
+植物: Sedum japonicum
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  25%|██▌       | 25/100 [02:26<07:42,  6.17s/it]
+正在处理: Sedum kamtschaticum
+2025-03-26 17:06:19,230 - INFO - 添加新植物 Sedum kamtschaticum 到数据库
+植物: Sedum kamtschaticum
+中文名:
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  26%|██▌       | 26/100 [02:31<07:02,  5.71s/it]
+正在处理: Sedum lanceolatum
+植物: Sedum lanceolatum
+中文名: 披针叶景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:06:24,513 - INFO - 添加新植物 Sedum lanceolatum 到数据库
+正在爬取批次（共100个植物）:  27%|██▋       | 27/100 [02:36<06:47,  5.58s/it]
+正在处理: Sedum laxum
+植物: Sedum laxum
+中文名: 疏花景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum lineare
+2025-03-26 17:06:30,450 - INFO - 添加新植物 Sedum laxum 到数据库
+正在爬取批次（共100个植物）:  28%|██▊       | 28/100 [02:42<06:49,  5.69s/it]2025-03-26 17:06:37,228 - INFO - 添加新植物 Sedum lineare 到数据库
+植物: Sedum lineare
+中文名: 佛甲草
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 完整
+
+正在处理: Sedum litoreum
+正在爬取批次（共100个植物）:  29%|██▉       | 29/100 [02:48<07:06,  6.01s/it]2025-03-26 17:06:43,499 - INFO - 添加新植物 Sedum litoreum 到数据库
+植物: Sedum litoreum
+中文名: 海滨景天
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  30%|███       | 30/100 [02:55<07:06,  6.09s/it]
+正在处理: Sedum makinoi
+2025-03-26 17:06:48,135 - INFO - 添加新植物 Sedum makinoi 到数据库
+正在爬取批次（共100个植物）:  31%|███       | 31/100 [02:59<06:30,  5.65s/it]植物: Sedum makinoi
+中文名: 圆叶景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 完整
+
+正在处理: Sedum mexicanum
+2025-03-26 17:06:54,575 - INFO - 添加新植物 Sedum mexicanum 到数据库
+正在爬取批次（共100个植物）:  32%|███▏      | 32/100 [03:06<06:40,  5.89s/it]植物: Sedum mexicanum
+中文名: 松叶景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum montanum
+2025-03-26 17:06:57,338 - INFO - 添加新植物 Sedum montanum 到数据库
+植物: Sedum montanum
+中文名: Sedum montanum
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  33%|███▎      | 33/100 [03:09<05:31,  4.95s/it]
+正在处理: Sedum moranense
+2025-03-26 17:07:03,673 - INFO - 添加新植物 Sedum moranense 到数据库
+植物: Sedum moranense
+中文名: 莫兰景天
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sedum morganianum
+正在爬取批次（共100个植物）:  34%|███▍      | 34/100 [03:15<05:54,  5.37s/it]2025-03-26 17:07:10,790 - INFO - 添加新植物 Sedum morganianum 到数据库
+植物: Sedum morganianum
+中文名: 翡翠景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum multiceps
+正在爬取批次（共100个植物）:  35%|███▌      | 35/100 [03:22<06:23,  5.89s/it]2025-03-26 17:07:17,715 - INFO - 添加新植物 Sedum multiceps 到数据库
+植物: Sedum multiceps
+中文名: 小松绿
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum niveum
+正在爬取批次（共100个植物）:  36%|███▌      | 36/100 [03:29<06:36,  6.20s/it]2025-03-26 17:07:22,781 - INFO - 添加新植物 Sedum niveum 到数据库
+植物: Sedum niveum
+中文名: 雪白景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  37%|███▋      | 37/100 [03:34<06:09,  5.86s/it]
+正在处理: Sedum nussbaumerianum
+植物: Sedum nussbaumerianum
+中文名: 铭月
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:07:28,225 - INFO - 添加新植物 Sedum nussbaumerianum 到数据库
+正在爬取批次（共100个植物）:  38%|███▊      | 38/100 [03:39<05:55,  5.74s/it]
+正在处理: Sedum obtusatum
+2025-03-26 17:07:34,053 - INFO - 添加新植物 Sedum obtusatum 到数据库
+植物: Sedum obtusatum
+中文名: 钝叶景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  39%|███▉      | 39/100 [03:45<05:51,  5.76s/it]
+正在处理: Sedum ochroleucum
+植物: Sedum ochroleucum
+中文名: Sedum ochroleucum
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:07:39,197 - INFO - 添加新植物 Sedum ochroleucum 到数据库
+
+正在处理: Sedum oreganum
+正在爬取批次（共100个植物）:  40%|████      | 40/100 [03:50<05:34,  5.58s/it]2025-03-26 17:07:44,418 - INFO - 添加新植物 Sedum oreganum 到数据库
+植物: Sedum oreganum
+中文名:
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum pachyphyllum
+正在爬取批次（共100个植物）:  41%|████      | 41/100 [03:56<05:22,  5.47s/it]2025-03-26 17:07:49,699 - INFO - 添加新植物 Sedum pachyphyllum 到数据库
+植物: Sedum pachyphyllum
+中文名: 乙女心
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  42%|████▏     | 42/100 [04:01<05:14,  5.41s/it]
+正在处理: Sedum palmeri
+植物: Sedum palmeri
+中文名: 薄化妆
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:07:55,994 - INFO - 添加新植物 Sedum palmeri 到数据库
+正在爬取批次（共100个植物）:  43%|████▎     | 43/100 [04:07<05:23,  5.68s/it]
+正在处理: Sedum praealtum
+植物: Sedum praealtum
+中文名: 高景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum pulchellum
+2025-03-26 17:08:02,606 - INFO - 添加新植物 Sedum praealtum 到数据库
+正在爬取批次（共100个植物）:  44%|████▍     | 44/100 [04:14<05:33,  5.96s/it]2025-03-26 17:08:07,506 - INFO - 添加新植物 Sedum pulchellum 到数据库
+植物: Sedum pulchellum
+中文名: 丽景天
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sedum rubens
+正在爬取批次（共100个植物）:  45%|████▌     | 45/100 [04:19<05:10,  5.64s/it]2025-03-26 17:08:13,784 - INFO - 添加新植物 Sedum rubens 到数据库
+植物: Sedum rubens
+中文名: 淡红景天
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  46%|████▌     | 46/100 [04:25<05:14,  5.83s/it]
+正在处理: Sedum rubrotinctum
+2025-03-26 17:08:19,201 - INFO - 添加新植物 Sedum rubrotinctum 到数据库
+植物: Sedum rubrotinctum
+中文名:
+科属:  /
+数据完整性: 不完整
+
+正在处理: Sedum rupestre
+正在爬取批次（共100个植物）:  47%|████▋     | 47/100 [04:30<05:02,  5.71s/it]2025-03-26 17:08:23,771 - INFO - 添加新植物 Sedum rupestre 到数据库
+植物: Sedum rupestre
+中文名:
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum sarmentosum
+正在爬取批次（共100个植物）:  48%|████▊     | 48/100 [04:35<04:39,  5.37s/it]2025-03-26 17:08:30,650 - INFO - 添加新植物 Sedum sarmentosum 到数据库
+正在爬取批次（共100个植物）:  49%|████▉     | 49/100 [04:42<04:56,  5.82s/it]植物: Sedum sarmentosum
+中文名: 垂盆草
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 完整
+
+正在处理: Sedum sediforme
+2025-03-26 17:08:35,233 - INFO - 添加新植物 Sedum sediforme 到数据库
+植物: Sedum sediforme
+中文名: 千佛手景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+
+正在处理: Sedum sexangulare
+正在爬取批次（共100个植物）:  50%|█████     | 50/100 [04:47<04:32,  5.45s/it]2025-03-26 17:08:42,453 - INFO - 添加新植物 Sedum sexangulare 到数据库
+植物: Sedum sexangulare
+中文名: 六棱景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  51%|█████     | 51/100 [04:54<04:53,  5.98s/it]
+正在处理: Sedum spathulifolium
+2025-03-26 17:08:47,889 - INFO - 添加新植物 Sedum spathulifolium 到数据库
+植物: Sedum spathulifolium
+中文名: 白霜景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  52%|█████▏    | 52/100 [04:59<04:39,  5.82s/it]
+正在处理: Sedum ternatum
+植物: Sedum ternatum
+中文名: 林地景天
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:08:54,925 - INFO - 添加新植物 Sedum ternatum 到数据库
+正在爬取批次（共100个植物）:  53%|█████▎    | 53/100 [05:06<04:50,  6.19s/it]
+正在处理: Sedum villosum
+植物: Sedum villosum
+中文名: 毛一年草
+科属: 景天科 Crassulaceae / 景天属 Sedum
+数据完整性: 不完整
+2025-03-26 17:08:58,999 - INFO - 添加新植物 Sedum villosum 到数据库
+正在爬取批次（共100个植物）:  54%|█████▍    | 54/100 [05:10<04:15,  5.55s/it]
+正在处理: Selenicereus anthonyanus
+2025-03-26 17:09:06,125 - INFO - 添加新植物 Selenicereus anthonyanus 到数据库
+植物: Selenicereus anthonyanus
+中文名: 蛇鞭柱
+科属: 仙人掌科 Cactaceae / 蛇鞭柱属 Selenicereus
+数据完整性: 不完整
+
+正在处理: Selenicereus grandiflorus
+正在爬取批次（共100个植物）:  55%|█████▌    | 55/100 [05:17<04:31,  6.02s/it]2025-03-26 17:09:10,367 - INFO - 添加新植物 Selenicereus grandiflorus 到数据库
+植物: Selenicereus grandiflorus
+中文名: 大花蛇鞭柱
+科属: 仙人掌科 Cactaceae / 蛇鞭柱属 Selenicereus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  56%|█████▌    | 56/100 [05:22<04:01,  5.49s/it]
+正在处理: Sempervivum arachnoideum
+2025-03-26 17:09:16,829 - INFO - 添加新植物 Sempervivum arachnoideum 到数据库
+植物: Sempervivum arachnoideum
+中文名: 卷绢
+科属: 景天科 Crassulaceae / 长生草属 Sempervivum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  57%|█████▋    | 57/100 [05:28<04:08,  5.78s/it]
+正在处理: Sempervivum montanum
+2025-03-26 17:09:23,725 - INFO - 添加新植物 Sempervivum montanum 到数据库
+植物: Sempervivum montanum
+中文名: 山地长生草
+科属: 景天科 Crassulaceae / 长生草属 Sempervivum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  58%|█████▊    | 58/100 [05:35<04:17,  6.13s/it]
+正在处理: Sempervivum tectorum
+植物: Sempervivum tectorum
+中文名: 长生草
+科属: 景天科 Crassulaceae / 长生草属 Sempervivum
+数据完整性: 不完整
+2025-03-26 17:09:32,626 - INFO - 添加新植物 Sempervivum tectorum 到数据库
+
+正在处理: Senecio doronicum
+正在爬取批次（共100个植物）:  59%|█████▉    | 59/100 [05:44<04:44,  6.94s/it]2025-03-26 17:09:40,488 - INFO - 添加新植物 Senecio doronicum 到数据库
+植物: Senecio doronicum
+中文名: 多榔菊状千里光
+科属:  /
+数据完整性: 不完整
+
+正在处理: Senecio inaequidens
+正在爬取批次（共100个植物）:  60%|██████    | 60/100 [05:52<04:48,  7.22s/it]2025-03-26 17:09:50,811 - INFO - 添加新植物 Senecio inaequidens 到数据库
+植物: Senecio inaequidens
+中文名: 窄叶黄菀
+科属: 菊科 Asteraceae / 千里光属 Senecio
+数据完整性: 不完整
+
+正在处理: Senecio ovatus
+正在爬取批次（共100个植物）:  61%|██████    | 61/100 [06:02<05:17,  8.15s/it]2025-03-26 17:09:58,664 - INFO - 添加新植物 Senecio ovatus 到数据库
+正在爬取批次（共100个植物）:  62%|██████▏   | 62/100 [06:10<05:06,  8.06s/it]植物: Senecio ovatus
+中文名: 卵形千里光
+科属: 菊科 Asteraceae / 千里光属 Senecio
+数据完整性: 不完整
+
+正在处理: Senecio vulgaris
+2025-03-26 17:10:06,108 - INFO - 添加新植物 Senecio vulgaris 到数据库
+正在爬取批次（共100个植物）:  63%|██████▎   | 63/100 [06:17<04:51,  7.87s/it]植物: Senecio vulgaris
+中文名: 欧洲千里光
+科属: 菊科 Asteraceae / 千里光属 Senecio
+数据完整性: 完整
+
+正在处理: Serapias lingua
+2025-03-26 17:10:13,858 - INFO - 添加新植物 Serapias lingua 到数据库
+植物: Serapias lingua
+中文名: 长药兰
+科属:  /
+数据完整性: 不完整
+
+正在处理: Serapias vomeracea
+正在爬取批次（共100个植物）:  64%|██████▍   | 64/100 [06:25<04:42,  7.84s/it]2025-03-26 17:10:19,100 - INFO - 添加新植物 Serapias vomeracea 到数据库
+植物: Serapias vomeracea
+中文名:
+科属: 兰科 Orchidaceae / 长药兰属 Serapias
+数据完整性: 不完整
+
+正在处理: Sherardia arvensis
+正在爬取批次（共100个植物）:  65%|██████▌   | 65/100 [06:30<04:07,  7.06s/it]2025-03-26 17:10:25,182 - INFO - 添加新植物 Sherardia arvensis 到数据库
+植物: Sherardia arvensis
+中文名: 田茜
+科属: 茜草科 Rubiaceae / 田茜属 Sherardia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  66%|██████▌   | 66/100 [06:36<03:50,  6.77s/it]
+正在处理: Sideritis romana
+2025-03-26 17:10:31,352 - INFO - 添加新植物 Sideritis romana 到数据库
+植物: Sideritis romana
+中文名:
+科属: 唇形科 Lamiaceae / 毒马草属 Sideritis
+数据完整性: 不完整
+
+正在处理: Silene acaulis
+正在爬取批次（共100个植物）:  67%|██████▋   | 67/100 [06:43<03:37,  6.59s/it]2025-03-26 17:10:36,970 - INFO - 添加新植物 Silene acaulis 到数据库
+植物: Silene acaulis
+中文名: 无茎蝇子草
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 不完整
+
+正在处理: Silene baccifera
+正在爬取批次（共100个植物）:  68%|██████▊   | 68/100 [06:48<03:21,  6.30s/it]2025-03-26 17:10:42,307 - INFO - 添加新植物 Silene baccifera 到数据库
+正在爬取批次（共100个植物）:  69%|██████▉   | 69/100 [06:54<03:06,  6.00s/it]植物: Silene baccifera
+中文名: 狗筋蔓
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 完整
+
+正在处理: Silene conica
+植物: Silene conica
+中文名: 圆锥麦瓶草
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 不完整
+2025-03-26 17:10:48,105 - INFO - 添加新植物 Silene conica 到数据库
+
+正在处理: Silene dioica
+正在爬取批次（共100个植物）:  70%|███████   | 70/100 [06:59<02:58,  5.95s/it]2025-03-26 17:10:53,129 - INFO - 添加新植物 Silene dioica 到数据库
+植物: Silene dioica
+中文名: 迪奥卡蝇子草
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  71%|███████   | 71/100 [07:04<02:44,  5.67s/it]
+正在处理: Silene gallica
+植物: Silene gallica
+中文名: 蝇子草
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 完整
+
+正在处理: Silene italica
+2025-03-26 17:11:01,480 - INFO - 添加新植物 Silene gallica 到数据库
+正在爬取批次（共100个植物）:  72%|███████▏  | 72/100 [07:13<03:01,  6.47s/it]2025-03-26 17:11:08,385 - INFO - 添加新植物 Silene italica 到数据库
+植物: Silene italica
+中文名: 意大利雪轮
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  73%|███████▎  | 73/100 [07:20<02:58,  6.61s/it]
+正在处理: Silene latifolia
+植物: Silene latifolia
+中文名: 叉枝蝇子草
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:11:15,720 - INFO - 添加新植物 Silene latifolia 到数据库
+
+正在处理: Silene nutans
+正在爬取批次（共100个植物）:  74%|███████▍  | 74/100 [07:27<02:57,  6.83s/it]2025-03-26 17:11:22,063 - INFO - 添加新植物 Silene nutans 到数据库
+植物: Silene nutans
+中文名: 欧亚蝇子草
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 不完整
+
+正在处理: Silene uniflora
+正在爬取批次（共100个植物）:  75%|███████▌  | 75/100 [07:33<02:47,  6.68s/it]2025-03-26 17:11:30,187 - INFO - 添加新植物 Silene uniflora 到数据库
+植物: Silene uniflora
+中文名: 海滨蝇子草
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 不完整
+
+正在处理: Silene vulgaris
+正在爬取批次（共100个植物）:  76%|███████▌  | 76/100 [07:50<03:49,  9.56s/it]2025-03-26 17:11:43,734 - INFO - 添加新植物 Silene vulgaris 到数据库
+正在爬取批次（共100个植物）:  77%|███████▋  | 77/100 [07:55<03:10,  8.30s/it]植物: Silene vulgaris
+中文名: 白玉草
+科属: 石竹科 Caryophyllaceae / 蝇子草属 Silene
+数据完整性: 完整
+
+正在处理: Silybum marianum
+2025-03-26 17:11:52,307 - INFO - 添加新植物 Silybum marianum 到数据库
+正在爬取批次（共100个植物）:  78%|███████▊  | 78/100 [08:04<03:04,  8.38s/it]植物: Silybum marianum
+中文名: 水飞蓟
+科属: 菊科 Asteraceae / 水飞蓟属 Silybum
+数据完整性: 完整
+
+正在处理: Sinapis arvensis
+植物: Sinapis arvensis
+中文名:
+科属: 十字花科 Brassicaceae / 白芥属 Sinapis
+数据完整性: 不完整
+2025-03-26 17:11:56,534 - INFO - 添加新植物 Sinapis arvensis 到数据库
+正在爬取批次（共100个植物）:  79%|███████▉  | 79/100 [08:08<02:30,  7.14s/it]
+正在处理: Sisymbrium irio
+2025-03-26 17:12:02,903 - INFO - 添加新植物 Sisymbrium irio 到数据库
+正在爬取批次（共100个植物）:  80%|████████  | 80/100 [08:14<02:18,  6.90s/it]植物: Sisymbrium irio
+中文名: 水蒜芥
+科属: 十字花科 Brassicaceae / 大蒜芥属 Sisymbrium
+数据完整性: 完整
+
+正在处理: Sisymbrium officinale
+2025-03-26 17:12:09,677 - INFO - 添加新植物 Sisymbrium officinale 到数据库
+正在爬取批次（共100个植物）:  81%|████████  | 81/100 [08:21<02:10,  6.87s/it]植物: Sisymbrium officinale
+中文名: 钻果大蒜芥
+科属: 十字花科 Brassicaceae / 大蒜芥属 Sisymbrium
+数据完整性: 完整
+
+正在处理: Smilax anceps
+2025-03-26 17:12:13,549 - INFO - 添加新植物 Smilax anceps 到数据库
+正在爬取批次（共100个植物）:  82%|████████▏ | 82/100 [08:25<01:47,  5.97s/it]植物: Smilax anceps
+中文名:
+科属: 菝葜科 Smilacaceae / 菝葜属 Smilax
+数据完整性: 不完整
+
+正在处理: Smilax aspera
+植物: Smilax aspera
+中文名: 穗菝葜
+科属: 菝葜科 Smilacaceae / 菝葜属 Smilax
+数据完整性: 完整
+
+正在处理: Smilax bona-nox
+2025-03-26 17:12:19,486 - INFO - 添加新植物 Smilax aspera 到数据库
+正在爬取批次（共100个植物）:  83%|████████▎ | 83/100 [08:31<01:41,  5.96s/it]2025-03-26 17:12:25,541 - INFO - 添加新植物 Smilax bona-nox 到数据库
+正在爬取批次（共100个植物）:  84%|████████▍ | 84/100 [08:37<01:35,  5.99s/it]植物: Smilax bona-nox
+中文名:
+科属: 菝葜科 Smilacaceae / 菝葜属 Smilax
+数据完整性: 不完整
+
+正在处理: Smilax china
+植物: Smilax china
+中文名: 菝葜
+科属: 菝葜科 Smilacaceae / 菝葜属 Smilax
+数据完整性: 完整
+
+正在处理: Smilax excelsa
+2025-03-26 17:12:31,990 - INFO - 添加新植物 Smilax china 到数据库
+正在爬取批次（共100个植物）:  85%|████████▌ | 85/100 [08:43<01:31,  6.12s/it]2025-03-26 17:12:38,455 - INFO - 添加新植物 Smilax excelsa 到数据库
+植物: Smilax excelsa
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  86%|████████▌ | 86/100 [08:50<01:27,  6.23s/it]
+正在处理: Smilax glauca
+2025-03-26 17:12:43,838 - INFO - 添加新植物 Smilax glauca 到数据库
+植物: Smilax glauca
+中文名: 粉叶拔葜
+科属:  /
+数据完整性: 不完整
+
+正在处理: Smilax herbacea
+正在爬取批次（共100个植物）:  87%|████████▋ | 87/100 [08:55<01:17,  5.98s/it]2025-03-26 17:12:51,085 - INFO - 添加新植物 Smilax herbacea 到数据库
+植物: Smilax herbacea
+中文名: 臭牛尾菜
+科属: 菝葜科 Smilacaceae / 菝葜属 Smilax
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  88%|████████▊ | 88/100 [09:02<01:16,  6.36s/it]
+正在处理: Smilax laurifolia
+2025-03-26 17:12:56,520 - INFO - 添加新植物 Smilax laurifolia 到数据库
+植物: Smilax laurifolia
+中文名:
+科属: 菝葜科 Smilacaceae / 菝葜属 Smilax
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  89%|████████▉ | 89/100 [09:08<01:06,  6.08s/it]
+正在处理: Smilax rotundifolia
+2025-03-26 17:13:02,180 - INFO - 添加新植物 Smilax rotundifolia 到数据库
+植物: Smilax rotundifolia
+中文名:
+科属: 菝葜科 Smilacaceae / 菝葜属 Smilax
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  90%|█████████ | 90/100 [09:13<00:59,  5.95s/it]
+正在处理: Smilax tamnoides
+植物: Smilax tamnoides
+中文名:
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:13:07,399 - INFO - 添加新植物 Smilax tamnoides 到数据库
+
+正在处理: Smyrnium olusatrum
+正在爬取批次（共100个植物）:  91%|█████████ | 91/100 [09:19<00:51,  5.73s/it]2025-03-26 17:13:13,548 - INFO - 添加新植物 Smyrnium olusatrum 到数据库
+植物: Smyrnium olusatrum
+中文名: 马芹
+科属: 伞形科 Apiaceae / 马芹属 Smyrnium
+数据完整性: 不完整
+
+正在处理: Solanum dulcamara
+正在爬取批次（共100个植物）:  92%|█████████▏| 92/100 [09:25<00:46,  5.86s/it]2025-03-26 17:13:20,079 - INFO - 添加新植物 Solanum dulcamara 到数据库
+植物: Solanum dulcamara
+中文名: 欧白英
+科属:  /
+数据完整性: 不完整
+
+正在处理: Solanum nigrum
+正在爬取批次（共100个植物）:  93%|█████████▎| 93/100 [09:31<00:42,  6.06s/it]2025-03-26 17:13:27,390 - INFO - 添加新植物 Solanum nigrum 到数据库
+植物: Solanum nigrum
+中文名: 龙葵
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  94%|█████████▍| 94/100 [09:39<00:38,  6.44s/it]
+正在处理: Soldanella alpina
+2025-03-26 17:13:34,171 - INFO - 添加新植物 Soldanella alpina 到数据库
+植物: Soldanella alpina
+中文名: 雪铃花
+科属: 报春花科 Primulaceae / 雪铃花属 Soldanella
+数据完整性: 不完整
+
+正在处理: Solidago virgaurea
+正在爬取批次（共100个植物）:  95%|█████████▌| 95/100 [09:45<00:32,  6.54s/it]2025-03-26 17:13:40,748 - INFO - 添加新植物 Solidago virgaurea 到数据库
+正在爬取批次（共100个植物）:  96%|█████████▌| 96/100 [09:52<00:26,  6.55s/it]植物: Solidago virgaurea
+中文名: 毛果一枝黄花
+科属: 菊科 Asteraceae / 一枝黄花属 Solidago
+数据完整性: 完整
+
+正在处理: Sonchus asper
+2025-03-26 17:13:48,882 - INFO - 添加新植物 Sonchus asper 到数据库
+正在爬取批次（共100个植物）:  97%|█████████▋| 97/100 [10:00<00:21,  7.02s/it]植物: Sonchus asper
+中文名: 续断菊
+科属: 菊科 Asteraceae / 苦苣菜属 Sonchus
+数据完整性: 完整
+
+正在处理: Sonchus tenerrimus
+植物: Sonchus tenerrimus
+中文名: 柔叶苦苣
+科属: 菊科 Asteraceae / 苦苣菜属 Sonchus
+数据完整性: 不完整
+2025-03-26 17:13:54,758 - INFO - 添加新植物 Sonchus tenerrimus 到数据库
+
+正在处理: Sophora japonica
+正在爬取批次（共100个植物）:  98%|█████████▊| 98/100 [10:06<00:13,  6.68s/it]2025-03-26 17:14:00,609 - INFO - 添加新植物 Sophora japonica 到数据库
+植物: Sophora japonica
+中文名:
+科属: 豆科 Fabaceae / 苦参属 Sophora
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  99%|█████████▉| 99/100 [10:12<00:06,  6.44s/it]
+正在处理: Sorbus aria
+2025-03-26 17:14:06,939 - INFO - 添加新植物 Sorbus aria 到数据库
+植物: Sorbus aria
+中文名:
+科属: 蔷薇科 Rosaceae / 花楸属 Sorbus
+数据完整性: 不完整
+正在爬取批次（共100个植物）: 100%|██████████| 100/100 [10:18<00:00,  6.19s/it]
+2025-03-26 17:14:09,208 - INFO - 批次完成，等待 0.9 分钟后开始下一批次...
+2025-03-26 17:15:05,284 - INFO - 开始处理第 4/6 批次，共 100 个植物
+2025-03-26 17:15:05,285 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:9...
+2025-03-26 17:15:05,285 - INFO - ====== WebDriver manager ======
+2025-03-26 17:15:08,717 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:15:09,767 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:15:10,905 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+正在爬取批次（共100个植物）:   0%|          | 0/100 [00:00<?, ?it/s]
+正在处理: Sorbus aucuparia
+植物: Sorbus aucuparia
+中文名: 北欧花楸
+科属: 蔷薇科 Rosaceae / 花楸属 Sorbus
+数据完整性: 不完整
+2025-03-26 17:15:21,624 - INFO - 添加新植物 Sorbus aucuparia 到数据库
+
+正在处理: Sorbus domestica
+正在爬取批次（共100个植物）:   1%|          | 1/100 [00:09<15:25,  9.35s/it]2025-03-26 17:15:28,631 - INFO - 添加新植物 Sorbus domestica 到数据库
+植物: Sorbus domestica
+中文名:
+科属: 蔷薇科 Rosaceae / 花楸属 Sorbus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:   2%|▏         | 2/100 [00:16<13:01,  7.97s/it]
+正在处理: Sorbus intermedia
+植物: Sorbus intermedia
+中文名: Sorbus intermedia
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:15:33,939 - INFO - 添加新植物 Sorbus intermedia 到数据库
+正在爬取批次（共100个植物）:   3%|▎         | 3/100 [00:21<10:55,  6.76s/it]
+正在处理: Sorbus torminalis
+2025-03-26 17:15:38,671 - INFO - 添加新植物 Sorbus torminalis 到数据库
+正在爬取批次（共100个植物）:   4%|▍         | 4/100 [00:26<09:31,  5.96s/it]植物: Sorbus torminalis
+中文名:
+科属: 蔷薇科 Rosaceae / 花楸属 Sorbus
+数据完整性: 不完整
+
+正在处理: Spartium junceum
+2025-03-26 17:15:45,001 - INFO - 添加新植物 Spartium junceum 到数据库
+正在爬取批次（共100个植物）:   5%|▌         | 5/100 [00:32<09:38,  6.09s/it]植物: Spartium junceum
+中文名: 鹰爪豆
+科属: 豆科 Fabaceae / 鹰爪豆属 Spartium
+数据完整性: 完整
+
+正在处理: Spergula arvensis
+2025-03-26 17:15:51,366 - INFO - 添加新植物 Spergula arvensis 到数据库
+正在爬取批次（共100个植物）:   6%|▌         | 6/100 [00:39<09:40,  6.18s/it]植物: Spergula arvensis
+中文名: 大爪草
+科属: 石竹科 Caryophyllaceae / 大爪草属 Spergula
+数据完整性: 完整
+
+正在处理: Spergula media
+2025-03-26 17:15:57,382 - INFO - 添加新植物 Spergula media 到数据库
+植物: Spergula media
+中文名: Spergula media
+科属:  /
+数据完整性: 不完整
+
+正在处理: Spergularia rubra
+正在爬取批次（共100个植物）:   7%|▋         | 7/100 [00:45<09:30,  6.13s/it]2025-03-26 17:16:04,496 - INFO - 添加新植物 Spergularia rubra 到数据库
+正在爬取批次（共100个植物）:   8%|▊         | 8/100 [00:52<09:52,  6.44s/it]植物: Spergularia rubra
+中文名: 田野牛漆姑
+科属: 石竹科 Caryophyllaceae / 牛漆姑属 Spergularia
+数据完整性: 完整
+
+正在处理: Spiranthes spiralis
+2025-03-26 17:16:09,385 - INFO - 添加新植物 Spiranthes spiralis 到数据库
+植物: Spiranthes spiralis
+中文名: 欧亚绶草
+科属: 兰科 Orchidaceae / 绶草属 Spiranthes
+数据完整性: 不完整
+
+正在处理: Stachys recta
+正在爬取批次（共100个植物）:   9%|▉         | 9/100 [00:57<09:02,  5.96s/it]2025-03-26 17:16:15,105 - INFO - 添加新植物 Stachys recta 到数据库
+植物: Stachys recta
+中文名:
+科属:  /
+数据完整性: 不完整
+
+正在处理: Stachys sylvatica
+正在爬取批次（共100个植物）:  10%|█         | 10/100 [01:02<08:49,  5.89s/it]2025-03-26 17:16:19,451 - INFO - 添加新植物 Stachys sylvatica 到数据库
+植物: Stachys sylvatica
+中文名: 林地水苏
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  11%|█         | 11/100 [01:07<08:01,  5.41s/it]
+正在处理: Staehelina dubia
+植物: Staehelina dubia
+中文名:
+科属: 菊科 Asteraceae / 迷迭菊属 Staehelina
+数据完整性: 不完整
+2025-03-26 17:16:26,856 - INFO - 添加新植物 Staehelina dubia 到数据库
+
+正在处理: Stanleya pinnata
+正在爬取批次（共100个植物）:  12%|█▏        | 12/100 [01:14<08:49,  6.02s/it]2025-03-26 17:16:32,115 - INFO - 添加新植物 Stanleya pinnata 到数据库
+植物: Stanleya pinnata
+中文名:
+科属: 十字花科 Brassicaceae /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  13%|█▎        | 13/100 [01:19<08:23,  5.79s/it]
+正在处理: Stellaria holostea
+植物: Stellaria holostea
+中文名:
+科属: 石竹科 Caryophyllaceae / 繁缕属 Stellaria
+数据完整性: 不完整
+2025-03-26 17:16:40,191 - INFO - 添加新植物 Stellaria holostea 到数据库
+正在爬取批次（共100个植物）:  14%|█▍        | 14/100 [01:27<09:17,  6.48s/it]
+正在处理: Stellaria media
+植物: Stellaria media
+中文名: 繁缕
+科属: 石竹科 Caryophyllaceae / 繁缕属 Stellaria
+数据完整性: 完整
+
+正在处理: Stemodia verticillata
+2025-03-26 17:16:47,192 - INFO - 添加新植物 Stellaria media 到数据库
+正在爬取批次（共100个植物）:  15%|█▌        | 15/100 [01:34<09:23,  6.63s/it]2025-03-26 17:16:54,261 - INFO - 添加新植物 Stemodia verticillata 到数据库
+植物: Stemodia verticillata
+中文名: 轮叶离药草
+科属: 车前科 Plantaginaceae / 离药草属 Stemodia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  16%|█▌        | 16/100 [01:41<09:28,  6.77s/it]
+正在处理: Stenanona costaricensis
+2025-03-26 17:16:58,393 - INFO - 添加新植物 Stenanona costaricensis 到数据库
+植物: Stenanona costaricensis
+中文名:
+科属: 番荔枝科 Annonaceae / 狭瓣花属 Stenanona
+数据完整性: 不完整
+
+正在处理: Stenocactus multicostatus
+正在爬取批次（共100个植物）:  17%|█▋        | 17/100 [01:46<08:16,  5.98s/it]2025-03-26 17:17:05,079 - INFO - 添加新植物 Stenocactus multicostatus 到数据库
+植物: Stenocactus multicostatus
+中文名: 多棱玉
+科属: 仙人掌科 Cactaceae / 薄棱玉属 Stenocactus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  18%|█▊        | 18/100 [01:52<08:27,  6.19s/it]
+正在处理: Stoebe passerinoides
+2025-03-26 17:17:09,979 - INFO - 添加新植物 Stoebe passerinoides 到数据库
+植物: Stoebe passerinoides
+中文名: Stoebe passerinoides
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  19%|█▉        | 19/100 [01:57<07:50,  5.81s/it]
+正在处理: Striga asiatica
+植物: Striga asiatica
+中文名: 独脚金
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:17:16,609 - INFO - 添加新植物 Striga asiatica 到数据库
+正在爬取批次（共100个植物）:  20%|██        | 20/100 [02:04<08:04,  6.05s/it]
+正在处理: Strongylodon macrobotrys
+植物: Strongylodon macrobotrys
+中文名: 翡翠葛
+科属: 豆科 Fabaceae / 翡翠葛属 Strongylodon
+数据完整性: 不完整
+2025-03-26 17:17:23,954 - INFO - 添加新植物 Strongylodon macrobotrys 到数据库
+
+正在处理: Succisa pratensis
+正在爬取批次（共100个植物）:  21%|██        | 21/100 [02:11<08:28,  6.44s/it]2025-03-26 17:17:32,839 - INFO - 添加新植物 Succisa pratensis 到数据库
+植物: Succisa pratensis
+中文名: 魔噬花
+科属: 忍冬科 Caprifoliaceae / 魔噬花属 Succisa
+数据完整性: 不完整
+
+正在处理: Symphytum officinale
+正在爬取批次（共100个植物）:  22%|██▏       | 22/100 [02:20<09:19,  7.17s/it]2025-03-26 17:17:43,491 - INFO - 添加新植物 Symphytum officinale 到数据库
+正在爬取批次（共100个植物）:  23%|██▎       | 23/100 [02:31<10:32,  8.21s/it]植物: Symphytum officinale
+中文名: 聚合草
+科属: 紫草科 Boraginaceae / 聚合草属 Symphytum
+数据完整性: 完整
+
+正在处理: Symphytum tuberosum
+2025-03-26 17:17:49,283 - INFO - 添加新植物 Symphytum tuberosum 到数据库
+植物: Symphytum tuberosum
+中文名: 块茎聚合草
+科属: 紫草科 Boraginaceae / 聚合草属 Symphytum
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  24%|██▍       | 24/100 [02:37<09:29,  7.49s/it]
+正在处理: Syringa vulgaris
+2025-03-26 17:17:57,390 - INFO - 添加新植物 Syringa vulgaris 到数据库
+正在爬取批次（共100个植物）:  25%|██▌       | 25/100 [02:45<09:35,  7.67s/it]植物: Syringa vulgaris
+中文名: 欧丁香
+科属: 木樨科 Oleaceae / 丁香属 Syringa
+数据完整性: 完整
+
+正在处理: Tagetes erecta
+2025-03-26 17:18:01,967 - INFO - 添加新植物 Tagetes erecta 到数据库
+正在爬取批次（共100个植物）:  26%|██▌       | 26/100 [02:49<08:18,  6.74s/it]植物: Tagetes erecta
+中文名: 万寿菊
+科属: 菊科 Asteraceae / 万寿菊属 Tagetes
+数据完整性: 完整
+
+正在处理: Tagetes lemmonii
+2025-03-26 17:18:07,110 - INFO - 添加新植物 Tagetes lemmonii 到数据库
+植物: Tagetes lemmonii
+中文名: 芳香万寿菊
+科属: 菊科 Asteraceae / 万寿菊属 Tagetes
+数据完整性: 不完整
+
+正在处理: Tagetes lucida
+正在爬取批次（共100个植物）:  27%|██▋       | 27/100 [02:54<07:37,  6.27s/it]2025-03-26 17:18:16,455 - INFO - 添加新植物 Tagetes lucida 到数据库
+植物: Tagetes lucida
+中文名: 香万寿菊
+科属: 菊科 Asteraceae / 万寿菊属 Tagetes
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  28%|██▊       | 28/100 [03:04<08:37,  7.19s/it]
+正在处理: Tagetes lunulata
+2025-03-26 17:18:21,617 - INFO - 添加新植物 Tagetes lunulata 到数据库
+正在爬取批次（共100个植物）:  29%|██▉       | 29/100 [03:09<07:47,  6.58s/it]植物: Tagetes lunulata
+中文名: 矮万寿菊
+科属: 菊科 Asteraceae / 万寿菊属 Tagetes
+数据完整性: 不完整
+
+正在处理: Tagetes minuta
+植物: Tagetes minuta
+中文名: 印加孔雀草
+科属: 菊科 Asteraceae / 万寿菊属 Tagetes
+数据完整性: 不完整
+2025-03-26 17:18:31,721 - INFO - 添加新植物 Tagetes minuta 到数据库
+正在爬取批次（共100个植物）:  30%|███       | 30/100 [03:19<08:54,  7.64s/it]
+正在处理: Tagetes patula
+2025-03-26 17:18:36,867 - INFO - 添加新植物 Tagetes patula 到数据库
+植物: Tagetes patula
+中文名:
+科属: 菊科 Asteraceae / 万寿菊属 Tagetes
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  31%|███       | 31/100 [03:24<07:55,  6.89s/it]
+正在处理: Tagetes tenuifolia
+2025-03-26 17:18:42,306 - INFO - 添加新植物 Tagetes tenuifolia 到数据库
+植物: Tagetes tenuifolia
+中文名:
+科属: 菊科 Asteraceae / 万寿菊属 Tagetes
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  32%|███▏      | 32/100 [03:30<07:18,  6.45s/it]
+正在处理: Tanacetum vulgare
+2025-03-26 17:18:50,199 - INFO - 添加新植物 Tanacetum vulgare 到数据库
+正在爬取批次（共100个植物）:  33%|███▎      | 33/100 [03:37<07:41,  6.88s/it]植物: Tanacetum vulgare
+中文名: 菊蒿
+科属: 菊科 Asteraceae / 菊蒿属 Tanacetum
+数据完整性: 完整
+
+正在处理: Taraxacum campylodes
+2025-03-26 17:18:56,332 - INFO - 添加新植物 Taraxacum campylodes 到数据库
+正在爬取批次（共100个植物）:  34%|███▍      | 34/100 [03:44<07:19,  6.66s/it]植物: Taraxacum campylodes
+中文名:
+科属:  /
+数据完整性: 不完整
+
+正在处理: Taraxacum officinale
+2025-03-26 17:19:05,872 - INFO - 添加新植物 Taraxacum officinale 到数据库
+正在爬取批次（共100个植物）:  35%|███▌      | 35/100 [03:53<08:08,  7.52s/it]植物: Taraxacum officinale
+中文名: 药用蒲公英
+科属: 菊科 Asteraceae / 蒲公英属 Taraxacum
+数据完整性: 完整
+
+正在处理: Taxus baccata
+2025-03-26 17:19:12,328 - INFO - 添加新植物 Taxus baccata 到数据库
+植物: Taxus baccata
+中文名: 欧洲红豆杉
+科属: 红豆杉科 Taxaceae / 红豆杉属 Taxus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  36%|███▌      | 36/100 [04:00<07:41,  7.21s/it]
+正在处理: Telekia speciosa
+植物: Telekia speciosa
+中文名: 蒂立菊
+科属: 菊科 Asteraceae / 蒂立菊属 Telekia
+数据完整性: 不完整
+2025-03-26 17:19:17,363 - INFO - 添加新植物 Telekia speciosa 到数据库
+正在爬取批次（共100个植物）:  37%|███▋      | 37/100 [04:05<06:52,  6.55s/it]
+正在处理: Tephrocactus geometricus
+植物: Tephrocactus geometricus
+中文名:
+科属: 仙人掌科 Cactaceae / 武士掌属 Tephrocactus
+数据完整性: 不完整
+2025-03-26 17:19:22,683 - INFO - 添加新植物 Tephrocactus geometricus 到数据库
+正在爬取批次（共100个植物）:  38%|███▊      | 38/100 [04:10<06:23,  6.18s/it]
+正在处理: Tetraclinis articulata
+2025-03-26 17:19:29,123 - INFO - 添加新植物 Tetraclinis articulata 到数据库
+植物: Tetraclinis articulata
+中文名: 香漆柏
+科属: 柏科 Cupressaceae / 香漆柏属 Tetraclinis
+数据完整性: 不完整
+
+正在处理: Teucrium chamaedrys
+正在爬取批次（共100个植物）:  39%|███▉      | 39/100 [04:16<06:22,  6.26s/it]2025-03-26 17:19:37,057 - INFO - 添加新植物 Teucrium chamaedrys 到数据库
+正在爬取批次（共100个植物）:  40%|████      | 40/100 [04:24<06:45,  6.76s/it]植物: Teucrium chamaedrys
+中文名: 石蚕
+科属: 唇形科 Lamiaceae / 香科科属 Teucrium
+数据完整性: 不完整
+
+正在处理: Teucrium flavum
+2025-03-26 17:19:43,604 - INFO - 添加新植物 Teucrium flavum 到数据库
+植物: Teucrium flavum
+中文名:
+科属:  /
+数据完整性: 不完整
+
+正在处理: Teucrium fruticans
+正在爬取批次（共100个植物）:  41%|████      | 41/100 [04:31<06:35,  6.70s/it]2025-03-26 17:19:48,149 - INFO - 添加新植物 Teucrium fruticans 到数据库
+植物: Teucrium fruticans
+中文名: 水果蓝
+科属: 唇形科 Lamiaceae / 香科科属 Teucrium
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  42%|████▏     | 42/100 [04:35<05:51,  6.05s/it]
+正在处理: Teucrium montanum
+植物: Teucrium montanum
+中文名: 山地香科科
+科属: 唇形科 Lamiaceae / 香科科属 Teucrium
+数据完整性: 不完整
+2025-03-26 17:20:00,095 - INFO - 添加新植物 Teucrium montanum 到数据库
+正在爬取批次（共100个植物）:  43%|████▎     | 43/100 [04:47<07:25,  7.82s/it]
+正在处理: Teucrium scorodonia
+2025-03-26 17:20:06,550 - INFO - 添加新植物 Teucrium scorodonia 到数据库
+植物: Teucrium scorodonia
+中文名:
+科属: 唇形科 Lamiaceae / 香科科属 Teucrium
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  44%|████▍     | 44/100 [04:54<06:55,  7.41s/it]
+正在处理: Thalictrum aquilegiifolium
+2025-03-26 17:20:13,458 - INFO - 添加新植物 Thalictrum aquilegiifolium 到数据库
+正在爬取批次（共100个植物）:  45%|████▌     | 45/100 [05:01<06:39,  7.26s/it]植物: Thalictrum aquilegiifolium
+中文名: 欧洲唐松草
+科属: 毛茛科 Ranunculaceae / 唐松草属 Thalictrum
+数据完整性: 完整
+
+正在处理: Thapsia garganica
+2025-03-26 17:20:22,212 - INFO - 添加新植物 Thapsia garganica 到数据库
+植物: Thapsia garganica
+中文名: 毒伞芹
+科属: 伞形科 Apiaceae / 金毒芹属 Thapsia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  46%|████▌     | 46/100 [05:09<06:56,  7.71s/it]
+正在处理: Thapsia villosa
+植物: Thapsia villosa
+中文名:
+科属: 伞形科 Apiaceae / 金毒芹属 Thapsia
+数据完整性: 不完整
+2025-03-26 17:20:29,833 - INFO - 添加新植物 Thapsia villosa 到数据库
+
+正在处理: Thesium alpinum
+正在爬取批次（共100个植物）:  47%|████▋     | 47/100 [05:17<06:47,  7.69s/it]2025-03-26 17:20:37,239 - INFO - 添加新植物 Thesium alpinum 到数据库
+植物: Thesium alpinum
+中文名: 高山百蕊草
+科属: 檀香科 Santalaceae / 百蕊草属 Thesium
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  48%|████▊     | 48/100 [05:24<06:35,  7.60s/it]
+正在处理: Thesium humifusum
+2025-03-26 17:20:44,710 - INFO - 添加新植物 Thesium humifusum 到数据库
+植物: Thesium humifusum
+中文名:
+科属: 檀香科 Santalaceae / 百蕊草属 Thesium
+数据完整性: 不完整
+
+正在处理: Thesium linophyllon
+正在爬取批次（共100个植物）:  49%|████▉     | 49/100 [05:32<06:25,  7.57s/it]2025-03-26 17:20:51,771 - INFO - 添加新植物 Thesium linophyllon 到数据库
+植物: Thesium linophyllon
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  50%|█████     | 50/100 [05:39<06:10,  7.41s/it]
+正在处理: Thesium pyrenaicum
+植物: Thesium pyrenaicum
+中文名:
+科属: 檀香科 Santalaceae / 百蕊草属 Thesium
+数据完整性: 不完整
+2025-03-26 17:20:58,822 - INFO - 添加新植物 Thesium pyrenaicum 到数据库
+正在爬取批次（共100个植物）:  51%|█████     | 51/100 [05:46<05:57,  7.30s/it]
+正在处理: Thymus serpyllum
+2025-03-26 17:21:05,756 - INFO - 添加新植物 Thymus serpyllum 到数据库
+植物: Thymus serpyllum
+中文名: 亚洲百里香
+科属: 唇形科 Lamiaceae / 百里香属 Thymus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  52%|█████▏    | 52/100 [05:53<05:45,  7.19s/it]
+正在处理: Thymus vulgaris
+2025-03-26 17:21:12,752 - INFO - 添加新植物 Thymus vulgaris 到数据库
+植物: Thymus vulgaris
+中文名: 普通百里香
+科属: 唇形科 Lamiaceae / 百里香属 Thymus
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  53%|█████▎    | 53/100 [06:00<05:35,  7.13s/it]
+正在处理: Tilia cordata
+植物: Tilia cordata
+中文名: 心叶椴
+科属: 锦葵科 Malvaceae / 椴属 Tilia
+数据完整性: 不完整
+2025-03-26 17:21:19,144 - INFO - 添加新植物 Tilia cordata 到数据库
+正在爬取批次（共100个植物）:  54%|█████▍    | 54/100 [06:06<05:17,  6.91s/it]
+正在处理: Tilia dasystyla
+植物: Tilia dasystyla
+中文名: 毛柱椴
+科属: 锦葵科 Malvaceae / 椴属 Tilia
+数据完整性: 不完整
+2025-03-26 17:21:24,882 - INFO - 添加新植物 Tilia dasystyla 到数据库
+
+正在处理: Tilia platyphyllos
+正在爬取批次（共100个植物）:  55%|█████▌    | 55/100 [06:12<04:55,  6.56s/it]2025-03-26 17:21:29,268 - INFO - 添加新植物 Tilia platyphyllos 到数据库
+正在爬取批次（共100个植物）:  56%|█████▌    | 56/100 [06:16<04:19,  5.91s/it]植物: Tilia platyphyllos
+中文名: 宽叶椴
+科属: 锦葵科 Malvaceae / 椴属 Tilia
+数据完整性: 不完整
+
+正在处理: Tordylium apulum
+植物: Tordylium apulum
+中文名:
+科属: 伞形科 Apiaceae / 环翅芹属 Tordylium
+数据完整性: 不完整
+2025-03-26 17:21:33,118 - INFO - 添加新植物 Tordylium apulum 到数据库
+
+正在处理: Tordylium maximum
+正在爬取批次（共100个植物）:  57%|█████▋    | 57/100 [06:20<03:47,  5.29s/it]2025-03-26 17:21:39,106 - INFO - 添加新植物 Tordylium maximum 到数据库
+植物: Tordylium maximum
+中文名:
+科属: 伞形科 Apiaceae / 环翅芹属 Tordylium
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  58%|█████▊    | 58/100 [06:26<03:50,  5.50s/it]
+正在处理: Torilis arvensis
+植物: Torilis arvensis
+中文名:
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:21:43,677 - INFO - 添加新植物 Torilis arvensis 到数据库
+正在爬取批次（共100个植物）:  59%|█████▉    | 59/100 [06:31<03:34,  5.22s/it]
+正在处理: Tozzia alpina
+植物: Tozzia alpina
+中文名:
+科属: 列当科 Orobanchaceae /
+数据完整性: 不完整
+2025-03-26 17:21:49,645 - INFO - 添加新植物 Tozzia alpina 到数据库
+
+正在处理: Trachelospermum asiaticum
+正在爬取批次（共100个植物）:  60%|██████    | 60/100 [06:37<03:37,  5.44s/it]2025-03-26 17:21:55,116 - INFO - 添加新植物 Trachelospermum asiaticum 到数据库
+正在爬取批次（共100个植物）:  61%|██████    | 61/100 [06:42<03:32,  5.45s/it]植物: Trachelospermum asiaticum
+中文名: 亚洲络石
+科属: 夹竹桃科 Apocynaceae / 络石属 Trachelospermum
+数据完整性: 完整
+
+正在处理: Trachelospermum jasminoides
+植物: Trachelospermum jasminoides
+中文名: 络石
+科属: 夹竹桃科 Apocynaceae / 络石属 Trachelospermum
+数据完整性: 完整
+
+正在处理: Tractema lilio-hyacinthus
+2025-03-26 17:22:00,083 - INFO - 添加新植物 Trachelospermum jasminoides 到数据库
+正在爬取批次（共100个植物）:  62%|██████▏   | 62/100 [06:47<03:21,  5.30s/it]2025-03-26 17:22:04,745 - INFO - 添加新植物 Tractema lilio-hyacinthus 到数据库
+植物: Tractema lilio-hyacinthus
+中文名: Tractema lilio-hyacinthus
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  63%|██████▎   | 63/100 [06:52<03:09,  5.12s/it]
+正在处理: Tractema verna
+植物: Tractema verna
+中文名: Tractema verna
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:22:07,457 - INFO - 添加新植物 Tractema verna 到数据库
+正在爬取批次（共100个植物）:  64%|██████▍   | 64/100 [06:55<02:38,  4.39s/it]
+正在处理: Tradescantia cerinthoides
+植物: Tradescantia cerinthoides
+中文名: 毛花紫露草
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 不完整
+2025-03-26 17:22:12,272 - INFO - 添加新植物 Tradescantia cerinthoides 到数据库
+
+正在处理: Tradescantia crassifolia
+正在爬取批次（共100个植物）:  65%|██████▌   | 65/100 [06:59<02:38,  4.52s/it]2025-03-26 17:22:17,925 - INFO - 添加新植物 Tradescantia crassifolia 到数据库
+植物: Tradescantia crassifolia
+中文名:
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  66%|██████▌   | 66/100 [07:05<02:45,  4.86s/it]
+正在处理: Tradescantia fluminensis
+2025-03-26 17:22:23,571 - INFO - 添加新植物 Tradescantia fluminensis 到数据库
+植物: Tradescantia fluminensis
+中文名: 白花紫露草
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  67%|██████▋   | 67/100 [07:11<02:48,  5.10s/it]
+正在处理: Tradescantia occidentalis
+2025-03-26 17:22:28,888 - INFO - 添加新植物 Tradescantia occidentalis 到数据库
+正在爬取批次（共100个植物）:  68%|██████▊   | 68/100 [07:16<02:45,  5.16s/it]植物: Tradescantia occidentalis
+中文名:
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 不完整
+
+正在处理: Tradescantia ohiensis
+2025-03-26 17:22:35,422 - INFO - 添加新植物 Tradescantia ohiensis 到数据库
+植物: Tradescantia ohiensis
+中文名: 紫露草
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  69%|██████▉   | 69/100 [07:23<02:52,  5.57s/it]
+正在处理: Tradescantia pallida
+2025-03-26 17:22:41,847 - INFO - 添加新植物 Tradescantia pallida 到数据库
+正在爬取批次（共100个植物）:  70%|███████   | 70/100 [07:29<02:54,  5.83s/it]植物: Tradescantia pallida
+中文名: 紫竹梅
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 完整
+
+正在处理: Tradescantia sillamontana
+2025-03-26 17:22:49,103 - INFO - 添加新植物 Tradescantia sillamontana 到数据库
+正在爬取批次（共100个植物）:  71%|███████   | 71/100 [07:36<03:01,  6.25s/it]植物: Tradescantia sillamontana
+中文名: 白雪姬
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 完整
+
+正在处理: Tradescantia spathacea
+2025-03-26 17:22:53,851 - INFO - 添加新植物 Tradescantia spathacea 到数据库
+正在爬取批次（共100个植物）:  72%|███████▏  | 72/100 [07:41<02:42,  5.80s/it]植物: Tradescantia spathacea
+中文名: 紫背万年青
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 完整
+
+正在处理: Tradescantia subaspera
+2025-03-26 17:23:00,098 - INFO - 添加新植物 Tradescantia subaspera 到数据库
+植物: Tradescantia subaspera
+中文名:
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  73%|███████▎  | 73/100 [07:47<02:40,  5.94s/it]
+正在处理: Tradescantia virginiana
+2025-03-26 17:23:07,375 - INFO - 添加新植物 Tradescantia virginiana 到数据库
+植物: Tradescantia virginiana
+中文名: 无毛紫露草
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  74%|███████▍  | 74/100 [07:55<02:44,  6.34s/it]
+正在处理: Tradescantia x andersoniana
+2025-03-26 17:23:12,526 - INFO - 添加新植物 Tradescantia x andersoniana 到数据库
+植物: Tradescantia x andersoniana
+中文名: Tradescantia x andersoniana
+科属:  /
+数据完整性: 不完整
+
+正在处理: Tradescantia zebrina
+正在爬取批次（共100个植物）:  75%|███████▌  | 75/100 [08:00<02:29,  5.99s/it]2025-03-26 17:23:18,177 - INFO - 添加新植物 Tradescantia zebrina 到数据库
+植物: Tradescantia zebrina
+中文名: 吊竹梅
+科属: 鸭跖草科 Commelinaceae / 紫露草属 Tradescantia
+数据完整性: 完整
+
+正在处理: Tragopogon porrifolius
+正在爬取批次（共100个植物）:  76%|███████▌  | 76/100 [08:05<02:21,  5.88s/it]2025-03-26 17:23:25,240 - INFO - 添加新植物 Tragopogon porrifolius 到数据库
+植物: Tragopogon porrifolius
+中文名: 蒜叶婆罗门参
+科属: 菊科 Asteraceae / 婆罗门参属 Tragopogon
+数据完整性: 完整
+
+正在处理: Tragopogon pratensis
+正在爬取批次（共100个植物）:  77%|███████▋  | 77/100 [08:12<02:23,  6.23s/it]2025-03-26 17:23:32,908 - INFO - 添加新植物 Tragopogon pratensis 到数据库
+正在爬取批次（共100个植物）:  78%|███████▊  | 78/100 [08:20<02:26,  6.66s/it]植物: Tragopogon pratensis
+中文名: 婆罗门参
+科属: 菊科 Asteraceae / 婆罗门参属 Tragopogon
+数据完整性: 完整
+
+正在处理: Triadica sebifera
+2025-03-26 17:23:39,196 - INFO - 添加新植物 Triadica sebifera 到数据库
+正在爬取批次（共100个植物）:  79%|███████▉  | 79/100 [08:26<02:17,  6.55s/it]植物: Triadica sebifera
+中文名: 乌桕
+科属: 大戟科 Euphorbiaceae / 乌桕属 Triadica
+数据完整性: 完整
+
+正在处理: Tribulus terrestris
+2025-03-26 17:23:47,497 - INFO - 添加新植物 Tribulus terrestris 到数据库
+正在爬取批次（共100个植物）:  80%|████████  | 80/100 [08:35<02:21,  7.08s/it]植物: Tribulus terrestris
+中文名: 蒺藜
+科属: 蒺藜科 Zygophyllaceae / 蒺藜属 Tribulus
+数据完整性: 完整
+
+正在处理: Trifolium alexandrinum
+2025-03-26 17:23:54,732 - INFO - 添加新植物 Trifolium alexandrinum 到数据库
+正在爬取批次（共100个植物）:  81%|████████  | 81/100 [08:42<02:15,  7.12s/it]植物: Trifolium alexandrinum
+中文名: 埃及车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 完整
+
+正在处理: Trifolium alpestre
+植物: Trifolium alpestre
+中文名: 山野车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+2025-03-26 17:23:59,939 - INFO - 添加新植物 Trifolium alpestre 到数据库
+
+正在处理: Trifolium alpinum
+正在爬取批次（共100个植物）:  82%|████████▏ | 82/100 [08:47<01:57,  6.55s/it]2025-03-26 17:24:05,168 - INFO - 添加新植物 Trifolium alpinum 到数据库
+植物: Trifolium alpinum
+中文名: 高山车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+
+正在处理: Trifolium angustifolium
+正在爬取批次（共100个植物）:  83%|████████▎ | 83/100 [08:52<01:44,  6.16s/it]2025-03-26 17:24:12,200 - INFO - 添加新植物 Trifolium angustifolium 到数据库
+植物: Trifolium angustifolium
+中文名:
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+
+正在处理: Trifolium arvense
+正在爬取批次（共100个植物）:  84%|████████▍ | 84/100 [08:59<01:42,  6.42s/it]2025-03-26 17:24:17,157 - INFO - 添加新植物 Trifolium arvense 到数据库
+植物: Trifolium arvense
+中文名: 田车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  85%|████████▌ | 85/100 [09:04<01:29,  5.98s/it]
+正在处理: Trifolium aureum
+植物: Trifolium aureum
+中文名: 金黄车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 完整
+
+正在处理: Trifolium badium
+2025-03-26 17:24:23,205 - INFO - 添加新植物 Trifolium aureum 到数据库
+正在爬取批次（共100个植物）:  86%|████████▌ | 86/100 [09:10<01:23,  5.99s/it]2025-03-26 17:24:29,851 - INFO - 添加新植物 Trifolium badium 到数据库
+植物: Trifolium badium
+中文名: 栗褐车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  87%|████████▋ | 87/100 [09:17<01:20,  6.20s/it]
+正在处理: Trifolium campestre
+植物: Trifolium campestre
+中文名: 草原车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 完整
+
+正在处理: Trifolium cherleri
+2025-03-26 17:24:35,034 - INFO - 添加新植物 Trifolium campestre 到数据库
+正在爬取批次（共100个植物）:  88%|████████▊ | 88/100 [09:22<01:10,  5.89s/it]2025-03-26 17:24:42,164 - INFO - 添加新植物 Trifolium cherleri 到数据库
+植物: Trifolium cherleri
+中文名:
+科属:  /
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  89%|████████▉ | 89/100 [09:29<01:08,  6.26s/it]
+正在处理: Trifolium dubium
+植物: Trifolium dubium
+中文名: 钝叶车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 完整
+
+正在处理: Trifolium fragiferum
+2025-03-26 17:24:49,595 - INFO - 添加新植物 Trifolium dubium 到数据库
+正在爬取批次（共100个植物）:  90%|█████████ | 90/100 [09:37<01:06,  6.61s/it]2025-03-26 17:24:55,070 - INFO - 添加新植物 Trifolium fragiferum 到数据库
+正在爬取批次（共100个植物）:  91%|█████████ | 91/100 [09:42<00:56,  6.27s/it]植物: Trifolium fragiferum
+中文名: 草莓车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 完整
+
+正在处理: Trifolium glomeratum
+植物: Trifolium glomeratum
+中文名: 团花车轴草
+科属:  /
+数据完整性: 不完整
+2025-03-26 17:25:01,349 - INFO - 添加新植物 Trifolium glomeratum 到数据库
+
+正在处理: Trifolium hirtum
+正在爬取批次（共100个植物）:  92%|█████████▏| 92/100 [09:49<00:50,  6.28s/it]2025-03-26 17:25:06,063 - INFO - 添加新植物 Trifolium hirtum 到数据库
+植物: Trifolium hirtum
+中文名: 硬毛车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  93%|█████████▎| 93/100 [09:53<00:40,  5.81s/it]
+正在处理: Trifolium hybridum
+2025-03-26 17:25:13,253 - INFO - 添加新植物 Trifolium hybridum 到数据库
+正在爬取批次（共100个植物）:  94%|█████████▍| 94/100 [10:00<00:37,  6.22s/it]植物: Trifolium hybridum
+中文名: 杂种车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 完整
+
+正在处理: Trifolium incarnatum
+植物: Trifolium incarnatum
+中文名: 绛车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 完整
+
+正在处理: Trifolium lappaceum
+2025-03-26 17:25:20,701 - INFO - 添加新植物 Trifolium incarnatum 到数据库
+正在爬取批次（共100个植物）:  95%|█████████▌| 95/100 [10:08<00:32,  6.59s/it]2025-03-26 17:25:25,588 - INFO - 添加新植物 Trifolium lappaceum 到数据库
+植物: Trifolium lappaceum
+中文名: 芒刺车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+
+正在处理: Trifolium medium
+正在爬取批次（共100个植物）:  96%|█████████▌| 96/100 [10:13<00:24,  6.08s/it]2025-03-26 17:25:32,149 - INFO - 添加新植物 Trifolium medium 到数据库
+正在爬取批次（共100个植物）:  97%|█████████▋| 97/100 [10:19<00:18,  6.22s/it]植物: Trifolium medium
+中文名: 中间车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 完整
+
+正在处理: Trifolium michelianum
+植物: Trifolium michelianum
+中文名: 巴兰萨车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+2025-03-26 17:25:36,972 - INFO - 添加新植物 Trifolium michelianum 到数据库
+
+正在处理: Trifolium micranthum
+正在爬取批次（共100个植物）:  98%|█████████▊| 98/100 [10:24<00:11,  5.81s/it]2025-03-26 17:25:42,841 - INFO - 添加新植物 Trifolium micranthum 到数据库
+植物: Trifolium micranthum
+中文名:
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+正在爬取批次（共100个植物）:  99%|█████████▉| 99/100 [10:30<00:05,  5.83s/it]
+正在处理: Trifolium montanum
+2025-03-26 17:25:47,422 - INFO - 添加新植物 Trifolium montanum 到数据库
+植物: Trifolium montanum
+中文名: 山地车轴草
+科属: 豆科 Fabaceae / 车轴草属 Trifolium
+数据完整性: 不完整
+正在爬取批次（共100个植物）: 100%|██████████| 100/100 [10:35<00:00,  6.35s/it]
+2025-03-26 17:25:49,859 - INFO - 批次完成，等待 0.7 分钟后开始下一批次...
+2025-03-26 17:26:29,127 - INFO - 开始处理第 5/6 批次，共 100 个植物
+2025-03-26 17:26:29,128 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0)...
+2025-03-26 17:26:29,129 - INFO - ====== WebDriver manager ======
+2025-03-26 17:26:35,491 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:26:36,487 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:26:37,425 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+正在爬取批次（共100个植物）:   0%|          | 0/100 [00:00<?, ?it/s]
+正在处理: Trifolium nigrescens
+2025-03-26 17:26:42,730 - WARNING - 检测到弹窗: 今日匿名访问次数已超
+2025-03-26 17:26:42,738 - WARNING - 检测到访问限制: 网站访问受限，可能已达到每日访问限制，本批次中断
+正在爬取批次（共100个植物）:   0%|          | 0/100 [00:03<?, ?it/s]
+2025-03-26 17:26:44,944 - WARNING - 批次因访问限制中断，等待 1.8 分钟后继续...
+2025-03-26 17:28:32,358 - INFO - 开始处理第 6/6 批次，共 8 个植物
+2025-03-26 17:28:32,359 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-03-26 17:28:32,359 - INFO - ====== WebDriver manager ======
+2025-03-26 17:28:34,436 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:28:39,164 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:28:39,933 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+正在爬取批次（共8个植物）:   0%|          | 0/8 [00:00<?, ?it/s]
+正在处理: Xylopia frutescens
+2025-03-26 17:28:45,839 - INFO - 添加新植物 Xylopia frutescens 到数据库
+正在爬取批次（共8个植物）:  12%|█▎        | 1/8 [00:04<00:33,  4.76s/it]植物: Xylopia frutescens
+中文名:
+科属: 番荔枝科 Annonaceae / 木瓣树属 Xylopia
+数据完整性: 不完整
+
+正在处理: Xylopia nitida
+2025-03-26 17:28:51,528 - INFO - 添加新植物 Xylopia nitida 到数据库
+植物: Xylopia nitida
+中文名:
+科属: 番荔枝科 Annonaceae / 木瓣树属 Xylopia
+数据完整性: 不完整
+
+正在处理: Xylopia sericea
+正在爬取批次（共8个植物）:  25%|██▌       | 2/8 [00:10<00:31,  5.30s/it]2025-03-26 17:28:56,716 - INFO - 添加新植物 Xylopia sericea 到数据库
+植物: Xylopia sericea
+中文名:
+科属: 番荔枝科 Annonaceae / 木瓣树属 Xylopia
+数据完整性: 不完整
+正在爬取批次（共8个植物）:  38%|███▊      | 3/8 [00:15<00:26,  5.25s/it]
+正在处理: Zaleya pentandra
+植物: Zaleya pentandra
+中文名:
+科属: 番杏科 Aizoaceae / 裂盖马齿属 Zaleya
+数据完整性: 不完整
+2025-03-26 17:29:02,898 - INFO - 添加新植物 Zaleya pentandra 到数据库
+
+正在处理: Zamia furfuracea
+正在爬取批次（共8个植物）:  50%|█████     | 4/8 [00:21<00:22,  5.62s/it]2025-03-26 17:29:08,203 - INFO - 添加新植物 Zamia furfuracea 到数据库
+植物: Zamia furfuracea
+中文名: 鳞粃泽米铁
+科属: 泽米铁科 Zamiaceae / 泽米铁属 Zamia
+数据完整性: 完整
+
+正在处理: Zamia pumila
+正在爬取批次（共8个植物）:  62%|██████▎   | 5/8 [00:27<00:16,  5.50s/it]2025-03-26 17:29:14,895 - INFO - 添加新植物 Zamia pumila 到数据库
+植物: Zamia pumila
+中文名: 泽米铁
+科属: 泽米铁科 Zamiaceae / 泽米铁属 Zamia
+数据完整性: 不完整
+正在爬取批次（共8个植物）:  75%|███████▌  | 6/8 [00:33<00:11,  5.91s/it]
+正在处理: Zamioculcas zamiifolia
+2025-03-26 17:29:19,325 - INFO - 添加新植物 Zamioculcas zamiifolia 到数据库
+正在爬取批次（共8个植物）:  88%|████████▊ | 7/8 [00:38<00:05,  5.42s/it]植物: Zamioculcas zamiifolia
+中文名: 雪铁芋
+科属: 天南星科 Araceae / 雪铁芋属 Zamioculcas
+数据完整性: 完整
+
+正在处理: Zannichellia palustris
+植物: Zannichellia palustris
+中文名: 角果藻
+科属: 眼子菜科 Potamogetonaceae / 角果藻属 Zannichellia
+数据完整性: 完整
+2025-03-26 17:29:24,021 - INFO - 添加新植物 Zannichellia palustris 到数据库
+正在爬取批次（共8个植物）: 100%|██████████| 8/8 [00:42<00:00,  5.37s/it]
+2025-03-26 17:29:26,130 - INFO - 批次完成，等待 0.6 分钟后开始下一批次...
+2025-03-26 17:30:00,753 - INFO - 数据库连接已关闭
+
+进程已结束,退出代码0

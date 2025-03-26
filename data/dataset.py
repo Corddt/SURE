@@ -56,8 +56,6 @@ def TestDataLoader(img_dir, transform_test, batch_size):
     return test_loader
 
 def get_loader(dataset, train_dir, val_dir, test_dir, batch_size, imb_factor, model_name):
-
-
     if dataset in ['cifar10','cifar10_LT']:
         if model_name == 'deit':
             norm_mean, norm_std = (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
@@ -76,22 +74,21 @@ def get_loader(dataset, train_dir, val_dir, test_dir, batch_size, imb_factor, mo
         else:
             norm_mean, norm_std = (0.5071, 0.4867, 0.4408), (0.2675, 0.2565, 0.2761)
         nb_cls = 196
-    
     elif dataset == 'iN2019':
         if model_name == 'deit':
             norm_mean, norm_std = (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
         else:
             norm_mean, norm_std = (0.5071, 0.4867, 0.4408), (0.2675, 0.2565, 0.2761)
         nb_cls = 1010
-    
     elif dataset == 'iN2018':
         if model_name == 'deit':
             norm_mean, norm_std = (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
         else:
             norm_mean, norm_std = (0.5071, 0.4867, 0.4408), (0.2675, 0.2565, 0.2761)
         nb_cls = 8142
-    
-    
+    elif dataset == 'PlantImage_Balanced_Split':
+        norm_mean, norm_std = (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
+        nb_cls = 1908  # 根据您的数据集调整此值
     elif dataset == 'Animal10N':
         norm_mean, norm_std = (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
         nb_cls = 10
@@ -138,7 +135,7 @@ def get_loader(dataset, train_dir, val_dir, test_dir, batch_size, imb_factor, mo
         # transformation of the test set
         transform_test = torchvision.transforms.Compose([torchvision.transforms.ToTensor(),
                                                         torchvision.transforms.Normalize(norm_mean, norm_std)])
-    elif dataset in ['Clothing1M', 'Food101N']:
+    elif dataset in ['Clothing1M', 'Food101N', 'PlantImage_Balanced_Split']:
         transform_train = torchvision.transforms.Compose([
                                                         torchvision.transforms.RandomResizedCrop(224),
                                                         torchvision.transforms.RandomHorizontalFlip(),
@@ -167,4 +164,3 @@ def get_loader(dataset, train_dir, val_dir, test_dir, batch_size, imb_factor, mo
     test_loader = TestDataLoader(test_dir, transform_test, batch_size)
 
     return train_loader, val_loader, test_loader, nb_cls
-

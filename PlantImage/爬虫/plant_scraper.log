@@ -215,3 +215,2297 @@
 2025-03-26 12:10:17,894 - INFO - 添加新植物 Aquilegia vulgaris 到数据库
 2025-03-26 12:10:22,274 - INFO - 添加新植物 Arabidopsis thaliana 到数据库
 2025-03-26 12:10:24,480 - INFO - 批次完成，等待 1.0 分钟后开始下一批次...
+2025-03-26 12:11:23,125 - INFO - 开始处理第 3/20 批次，共 100 个植物
+2025-03-26 12:11:23,126 - INFO - 使用新的User-Agent: Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWeb...
+2025-03-26 12:11:23,126 - INFO - ====== WebDriver manager ======
+2025-03-26 12:11:25,384 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:11:26,082 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:11:26,759 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 12:11:34,518 - INFO - 添加新植物 Aralia californica 到数据库
+2025-03-26 12:11:40,609 - INFO - 添加新植物 Aralia elata 到数据库
+2025-03-26 12:11:45,392 - INFO - 添加新植物 Aralia hispida 到数据库
+2025-03-26 12:11:51,897 - INFO - 添加新植物 Aralia nudicaulis 到数据库
+2025-03-26 12:11:57,002 - INFO - 添加新植物 Aralia racemosa 到数据库
+2025-03-26 12:12:02,643 - INFO - 添加新植物 Aralia spinosa 到数据库
+2025-03-26 12:12:09,553 - INFO - 添加新植物 Arbutus unedo 到数据库
+2025-03-26 12:12:16,426 - INFO - 添加新植物 Arctium lappa 到数据库
+2025-03-26 12:12:22,876 - INFO - 添加新植物 Arctium minus 到数据库
+2025-03-26 12:12:26,788 - INFO - 添加新植物 Argyrolobium zanonii 到数据库
+2025-03-26 12:12:31,325 - INFO - 添加新植物 Aristea abyssinica 到数据库
+2025-03-26 12:12:35,691 - INFO - 添加新植物 Aristea ecklonii 到数据库
+2025-03-26 12:12:42,247 - INFO - 添加新植物 Aristolochia clematitis 到数据库
+2025-03-26 12:12:45,937 - INFO - 添加新植物 Aristolochia pistolochia 到数据库
+2025-03-26 12:12:50,958 - INFO - 添加新植物 Aristolochia rotunda 到数据库
+2025-03-26 12:12:57,468 - INFO - 添加新植物 Armeria alpina 到数据库
+2025-03-26 12:13:01,889 - INFO - 添加新植物 Armeria arenaria 到数据库
+2025-03-26 12:13:08,080 - INFO - 添加新植物 Armeria maritima 到数据库
+2025-03-26 12:13:13,416 - INFO - 添加新植物 Arnica montana 到数据库
+2025-03-26 12:13:21,205 - INFO - 添加新植物 Artemisia vulgaris 到数据库
+2025-03-26 12:13:26,852 - INFO - 添加新植物 Arthraxon hispidus 到数据库
+2025-03-26 12:13:31,833 - INFO - 添加新植物 Arum italicum 到数据库
+2025-03-26 12:13:39,291 - INFO - 添加新植物 Arum maculatum 到数据库
+2025-03-26 12:13:46,161 - INFO - 添加新植物 Arundo donax 到数据库
+2025-03-26 12:13:52,075 - INFO - 添加新植物 Asparagus acutifolius 到数据库
+2025-03-26 12:13:58,901 - INFO - 添加新植物 Asparagus officinalis 到数据库
+2025-03-26 12:14:05,386 - INFO - 添加新植物 Asphodelus albus 到数据库
+2025-03-26 12:14:09,398 - INFO - 添加新植物 Asphodelus cerasiferus 到数据库
+2025-03-26 12:14:13,987 - INFO - 添加新植物 Asphodelus ramosus 到数据库
+2025-03-26 12:14:19,018 - INFO - 添加新植物 Aspilia mossambicensis 到数据库
+2025-03-26 12:14:24,162 - INFO - 添加新植物 Aspilia pluriseta 到数据库
+2025-03-26 12:14:30,607 - INFO - 添加新植物 Asplenium adiantum-nigrum 到数据库
+2025-03-26 12:14:35,095 - INFO - 添加新植物 Asplenium ceterach 到数据库
+2025-03-26 12:14:40,318 - INFO - 添加新植物 Asplenium ruta-muraria 到数据库
+2025-03-26 12:14:45,797 - INFO - 添加新植物 Asplenium scolopendrium 到数据库
+2025-03-26 12:14:52,277 - INFO - 添加新植物 Asplenium trichomanes 到数据库
+2025-03-26 12:14:58,823 - INFO - 添加新植物 Aster alpinus 到数据库
+2025-03-26 12:15:04,602 - INFO - 添加新植物 Astragalus glycyphyllos 到数据库
+2025-03-26 12:15:08,193 - INFO - 添加新植物 Astragalus hamosus 到数据库
+2025-03-26 12:15:15,568 - INFO - 添加新植物 Astragalus monspessulanus 到数据库
+2025-03-26 12:15:20,364 - INFO - 添加新植物 Astrantia major 到数据库
+2025-03-26 12:15:25,091 - INFO - 添加新植物 Astrantia minor 到数据库
+2025-03-26 12:15:30,808 - INFO - 添加新植物 Astydamia latifolia 到数据库
+2025-03-26 12:15:35,018 - INFO - 添加新植物 Asystasia charmian 到数据库
+2025-03-26 12:15:41,013 - INFO - 添加新植物 Asystasia gangetica 到数据库
+2025-03-26 12:15:46,309 - INFO - 添加新植物 Asystasia mysorensis 到数据库
+2025-03-26 12:15:50,248 - INFO - 添加新植物 Asystasia riparia 到数据库
+2025-03-26 12:15:54,773 - INFO - 添加新植物 Athyrium filix-femina 到数据库
+2025-03-26 12:16:00,359 - INFO - 添加新植物 Atocion rupestre 到数据库
+2025-03-26 12:16:04,678 - INFO - 添加新植物 Atractocarpus platyxylon 到数据库
+2025-03-26 12:16:08,649 - INFO - 添加新植物 Atriplex prostrata 到数据库
+2025-03-26 12:16:15,443 - INFO - 添加新植物 Atropa belladonna 到数据库
+2025-03-26 12:16:22,031 - INFO - 添加新植物 Aucuba japonica 到数据库
+2025-03-26 12:16:28,549 - INFO - 添加新植物 Ballota nigra 到数据库
+2025-03-26 12:16:34,123 - INFO - 添加新植物 Balsamorhiza sagittata 到数据库
+2025-03-26 12:16:39,404 - INFO - 添加新植物 Barbarea intermedia 到数据库
+2025-03-26 12:16:45,559 - INFO - 添加新植物 Barbarea orthoceras 到数据库
+2025-03-26 12:16:50,104 - INFO - 添加新植物 Barbarea rupicola 到数据库
+2025-03-26 12:16:55,792 - INFO - 添加新植物 Barbarea verna 到数据库
+2025-03-26 12:17:01,043 - INFO - 添加新植物 Barbarea vulgaris 到数据库
+2025-03-26 12:17:06,504 - INFO - 添加新植物 Barringtonia acutangula 到数据库
+2025-03-26 12:17:14,117 - INFO - 添加新植物 Barringtonia asiatica 到数据库
+2025-03-26 12:17:20,482 - INFO - 添加新植物 Bartsia alpina 到数据库
+2025-03-26 12:17:25,700 - INFO - 添加新植物 Bartsia trixago 到数据库
+2025-03-26 12:17:30,664 - INFO - 添加新植物 Bellevalia romana 到数据库
+2025-03-26 12:17:36,572 - INFO - 添加新植物 Bellis perennis 到数据库
+2025-03-26 12:17:41,024 - INFO - 添加新植物 Bellium bellidioides 到数据库
+2025-03-26 12:17:46,959 - INFO - 添加新植物 Berardia lanuginosa 到数据库
+2025-03-26 12:17:52,759 - INFO - 添加新植物 Berberis japonica 到数据库
+2025-03-26 12:17:57,646 - INFO - 添加新植物 Berberis vulgaris 到数据库
+2025-03-26 12:18:05,259 - INFO - 添加新植物 Berteroa incana 到数据库
+2025-03-26 12:18:11,630 - INFO - 添加新植物 Berula erecta 到数据库
+2025-03-26 12:18:19,818 - INFO - 添加新植物 Beta vulgaris 到数据库
+2025-03-26 12:18:26,115 - INFO - 添加新植物 Betonica officinalis 到数据库
+2025-03-26 12:18:33,272 - INFO - 添加新植物 Betula pendula 到数据库
+2025-03-26 12:18:40,533 - INFO - 添加新植物 Betula pubescens 到数据库
+2025-03-26 12:18:46,099 - INFO - 添加新植物 Betula utilis 到数据库
+2025-03-26 12:18:53,582 - INFO - 添加新植物 Bidens pilosa 到数据库
+2025-03-26 12:19:00,464 - INFO - 添加新植物 Bismarckia nobilis 到数据库
+2025-03-26 12:19:05,247 - INFO - 添加新植物 Bistorta officinalis 到数据库
+2025-03-26 12:19:09,612 - INFO - 添加新植物 Bituminaria bituminosa 到数据库
+2025-03-26 12:19:14,592 - INFO - 添加新植物 Blackstonia imperfoliata 到数据库
+2025-03-26 12:19:20,548 - INFO - 添加新植物 Blackstonia perfoliata 到数据库
+2025-03-26 12:19:24,978 - INFO - 添加新植物 Blechnum spicant 到数据库
+2025-03-26 12:19:29,719 - INFO - 添加新植物 Bocoa prouacensis 到数据库
+2025-03-26 12:19:32,179 - INFO - 添加新植物 Bonafousia undulata 到数据库
+2025-03-26 12:19:37,258 - INFO - 添加新植物 Borago officinalis 到数据库
+2025-03-26 12:19:41,049 - INFO - 添加新植物 Boscia angustifolia 到数据库
+2025-03-26 12:19:46,282 - INFO - 添加新植物 Boscia coriacea 到数据库
+2025-03-26 12:19:52,079 - INFO - 添加新植物 Boscia mossambicensis 到数据库
+2025-03-26 12:19:55,708 - INFO - 添加新植物 Bourreria andrieuxii 到数据库
+2025-03-26 12:20:01,278 - INFO - 添加新植物 Bourreria costaricensis 到数据库
+2025-03-26 12:20:07,078 - INFO - 添加新植物 Bourreria succulenta 到数据库
+2025-03-26 12:20:12,584 - INFO - 添加新植物 Brassica napus 到数据库
+2025-03-26 12:20:18,140 - INFO - 添加新植物 Breynia disticha 到数据库
+2025-03-26 12:20:25,411 - INFO - 添加新植物 Breynia vitis-idaea 到数据库
+2025-03-26 12:20:29,976 - INFO - 添加新植物 Brodiaea elegans 到数据库
+2025-03-26 12:20:35,794 - INFO - 添加新植物 Broussonetia papyrifera 到数据库
+2025-03-26 12:20:42,808 - INFO - 添加新植物 Browallia americana 到数据库
+2025-03-26 12:20:48,007 - INFO - 添加新植物 Browallia speciosa 到数据库
+2025-03-26 12:20:50,149 - INFO - 批次完成，等待 1.0 分钟后开始下一批次...
+2025-03-26 12:21:48,271 - INFO - 开始处理第 4/20 批次，共 100 个植物
+2025-03-26 12:21:48,271 - INFO - 使用新的User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...
+2025-03-26 12:21:48,272 - INFO - ====== WebDriver manager ======
+2025-03-26 12:21:50,445 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:21:51,136 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:21:51,808 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 12:22:01,810 - INFO - 添加新植物 Bryonia cretica 到数据库
+2025-03-26 12:22:06,726 - INFO - 添加新植物 Buddleja davidii 到数据库
+2025-03-26 12:22:15,421 - INFO - 添加新植物 Buglossoides purpurocaerulea 到数据库
+2025-03-26 12:22:22,637 - INFO - 添加新植物 Bupleurum fruticosum 到数据库
+2025-03-26 12:22:27,817 - INFO - 添加新植物 Bupleurum ranunculoides 到数据库
+2025-03-26 12:22:32,762 - INFO - 添加新植物 Butomus umbellatus 到数据库
+2025-03-26 12:22:40,022 - INFO - 添加新植物 Buxus sempervirens 到数据库
+2025-03-26 12:22:45,157 - INFO - 添加新植物 Cakile maritima 到数据库
+2025-03-26 12:22:52,829 - INFO - 添加新植物 Calendula arvensis 到数据库
+2025-03-26 12:22:58,511 - INFO - 添加新植物 Calendula officinalis 到数据库
+2025-03-26 12:23:04,735 - INFO - 添加新植物 Calendula stellata 到数据库
+2025-03-26 12:23:09,791 - INFO - 添加新植物 Calluna vulgaris 到数据库
+2025-03-26 12:23:14,561 - INFO - 添加新植物 Calochortus eurycarpus 到数据库
+2025-03-26 12:23:20,386 - INFO - 添加新植物 Calochortus gunnisonii 到数据库
+2025-03-26 12:23:26,186 - INFO - 添加新植物 Calochortus leichtlinii 到数据库
+2025-03-26 12:23:31,671 - INFO - 添加新植物 Calochortus luteus 到数据库
+2025-03-26 12:23:36,079 - INFO - 添加新植物 Calochortus macrocarpus 到数据库
+2025-03-26 12:23:40,711 - INFO - 添加新植物 Calochortus splendens 到数据库
+2025-03-26 12:23:46,631 - INFO - 添加新植物 Calochortus tolmiei 到数据库
+2025-03-26 12:23:51,276 - INFO - 添加新植物 Calodendrum capense 到数据库
+2025-03-26 12:23:58,242 - INFO - 添加新植物 Caltha palustris 到数据库
+2025-03-26 12:24:03,366 - INFO - 添加新植物 Calycanthus floridus 到数据库
+2025-03-26 12:24:09,807 - INFO - 添加新植物 Calycanthus occidentalis 到数据库
+2025-03-26 12:24:14,977 - INFO - 添加新植物 Calylophus hartwegii 到数据库
+2025-03-26 12:24:21,899 - INFO - 添加新植物 Campanula glomerata 到数据库
+2025-03-26 12:24:27,686 - INFO - 添加新植物 Campanula latifolia 到数据库
+2025-03-26 12:24:32,066 - INFO - 添加新植物 Campanula medium 到数据库
+2025-03-26 12:24:37,019 - INFO - 添加新植物 Campanula patula 到数据库
+2025-03-26 12:24:45,153 - INFO - 添加新植物 Campanula persicifolia 到数据库
+2025-03-26 12:24:51,084 - INFO - 添加新植物 Campanula rapunculus 到数据库
+2025-03-26 12:24:56,052 - INFO - 添加新植物 Campanula rhomboidalis 到数据库
+2025-03-26 12:25:00,478 - INFO - 添加新植物 Campanula rotundifolia 到数据库
+2025-03-26 12:25:06,236 - INFO - 添加新植物 Campanula scheuchzeri 到数据库
+2025-03-26 12:25:12,068 - INFO - 添加新植物 Campanula trachelium 到数据库
+2025-03-26 12:25:17,648 - INFO - 添加新植物 Canna indica 到数据库
+2025-03-26 12:25:24,762 - INFO - 添加新植物 Capparis spinosa 到数据库
+2025-03-26 12:25:30,414 - INFO - 添加新植物 Capsella bursa-pastoris 到数据库
+2025-03-26 12:25:34,803 - INFO - 添加新植物 Caraipa densifolia 到数据库
+2025-03-26 12:25:40,600 - INFO - 添加新植物 Caraipa punctulata 到数据库
+2025-03-26 12:25:46,189 - INFO - 添加新植物 Cardamine amara 到数据库
+2025-03-26 12:25:52,237 - INFO - 添加新植物 Cardamine flexuosa 到数据库
+2025-03-26 12:25:58,822 - INFO - 添加新植物 Cardamine heptaphylla 到数据库
+2025-03-26 12:26:03,011 - INFO - 添加新植物 Cardamine pratensis 到数据库
+2025-03-26 12:26:14,348 - INFO - 添加新植物 Carduus acanthoides 到数据库
+2025-03-26 12:26:19,312 - INFO - 添加新植物 Carduus carlinoides 到数据库
+2025-03-26 12:26:24,497 - INFO - 添加新植物 Carduus defloratus 到数据库
+2025-03-26 12:26:28,537 - INFO - 添加新植物 Carduus nigrescens 到数据库
+2025-03-26 12:26:34,732 - INFO - 添加新植物 Carduus nutans 到数据库
+2025-03-26 12:26:39,947 - INFO - 添加新植物 Carduus pycnocephalus 到数据库
+2025-03-26 12:26:45,972 - INFO - 添加新植物 Carex flacca 到数据库
+2025-03-26 12:26:50,622 - INFO - 添加新植物 Carex otrubae 到数据库
+2025-03-26 12:26:56,482 - INFO - 添加新植物 Carex riparia 到数据库
+2025-03-26 12:27:05,397 - INFO - 添加新植物 Carica papaya 到数据库
+2025-03-26 12:27:10,770 - INFO - 添加新植物 Carlina acanthifolia 到数据库
+2025-03-26 12:27:16,876 - INFO - 添加新植物 Carlina acaulis 到数据库
+2025-03-26 12:27:20,954 - INFO - 添加新植物 Carlina corymbosa 到数据库
+2025-03-26 12:27:26,821 - INFO - 添加新植物 Carpinus betulus 到数据库
+2025-03-26 12:27:33,997 - INFO - 添加新植物 Carpobrotus edulis 到数据库
+2025-03-26 12:27:39,505 - INFO - 添加新植物 Carthamus caeruleus 到数据库
+2025-03-26 12:27:44,643 - INFO - 添加新植物 Carthamus carduncellus 到数据库
+2025-03-26 12:27:49,835 - INFO - 添加新植物 Carthamus lanatus 到数据库
+2025-03-26 12:27:53,748 - INFO - 添加新植物 Carthamus mitissimus 到数据库
+2025-03-26 12:28:00,648 - INFO - 添加新植物 Carthamus tinctorius 到数据库
+2025-03-26 12:28:07,943 - INFO - 添加新植物 Castanea sativa 到数据库
+2025-03-26 12:28:13,894 - INFO - 添加新植物 Casuarina cunninghamiana 到数据库
+2025-03-26 12:28:18,308 - INFO - 添加新植物 Casuarina equisetifolia 到数据库
+2025-03-26 12:28:23,294 - INFO - 添加新植物 Catalpa bignonioides 到数据库
+2025-03-26 12:28:30,302 - INFO - 添加新植物 Catananche caerulea 到数据库
+2025-03-26 12:28:35,175 - INFO - 添加新植物 Cedrela fissilis 到数据库
+2025-03-26 12:28:41,955 - INFO - 添加新植物 Cedrela odorata 到数据库
+2025-03-26 12:28:48,622 - INFO - 添加新植物 Cedrus atlantica 到数据库
+2025-03-26 12:28:54,815 - INFO - 添加新植物 Celtis australis 到数据库
+2025-03-26 12:29:01,412 - INFO - 添加新植物 Cenchrus ciliaris 到数据库
+2025-03-26 12:29:05,818 - INFO - 添加新植物 Cenchrus clandestinus 到数据库
+2025-03-26 12:29:11,577 - INFO - 添加新植物 Cenchrus echinatus 到数据库
+2025-03-26 12:29:17,062 - INFO - 添加新植物 Cenchrus longisetus 到数据库
+2025-03-26 12:29:22,603 - INFO - 添加新植物 Cenchrus longispinus 到数据库
+2025-03-26 12:29:30,193 - INFO - 添加新植物 Cenchrus purpureus 到数据库
+2025-03-26 12:29:35,135 - INFO - 添加新植物 Cenchrus setaceus 到数据库
+2025-03-26 12:29:40,583 - INFO - 添加新植物 Centaurea aspera 到数据库
+2025-03-26 12:29:45,673 - INFO - 添加新植物 Centaurea calcitrapa 到数据库
+2025-03-26 12:29:52,151 - INFO - 添加新植物 Centaurea corymbosa 到数据库
+2025-03-26 12:29:55,819 - INFO - 添加新植物 Centaurea decipiens 到数据库
+2025-03-26 12:30:02,588 - INFO - 添加新植物 Centaurea jacea 到数据库
+2025-03-26 12:30:09,378 - INFO - 添加新植物 Centaurea nigra 到数据库
+2025-03-26 12:30:13,149 - INFO - 添加新植物 Centaurea paniculata 到数据库
+2025-03-26 12:30:18,847 - INFO - 添加新植物 Centaurea pectinata 到数据库
+2025-03-26 12:30:22,897 - INFO - 添加新植物 Centaurea scabiosa 到数据库
+2025-03-26 12:30:29,759 - INFO - 添加新植物 Centaurium erythraea 到数据库
+2025-03-26 12:30:34,919 - INFO - 添加新植物 Centaurium maritimum 到数据库
+2025-03-26 12:30:39,424 - INFO - 添加新植物 Centella asiatica 到数据库
+2025-03-26 12:30:42,300 - INFO - 添加新植物 Centranthus angustifolius 到数据库
+2025-03-26 12:30:47,139 - INFO - 添加新植物 Centranthus calcitrapae 到数据库
+2025-03-26 12:30:50,604 - INFO - 添加新植物 Centranthus lecoqii 到数据库
+2025-03-26 12:30:57,054 - INFO - 添加新植物 Centranthus ruber 到数据库
+2025-03-26 12:31:02,594 - INFO - 添加新植物 Cephalanthera longifolia 到数据库
+2025-03-26 12:31:07,954 - INFO - 添加新植物 Cephalanthera rubra 到数据库
+2025-03-26 12:31:11,574 - INFO - 添加新植物 Cephalaria leucantha 到数据库
+2025-03-26 12:31:17,629 - INFO - 添加新植物 Cerastium glomeratum 到数据库
+2025-03-26 12:31:24,733 - INFO - 添加新植物 Ceratonia siliqua 到数据库
+2025-03-26 12:31:26,876 - INFO - 批次完成，等待 0.6 分钟后开始下一批次...
+2025-03-26 12:32:00,384 - INFO - 开始处理第 5/20 批次，共 100 个植物
+2025-03-26 12:32:00,384 - INFO - 使用新的User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...
+2025-03-26 12:32:00,385 - INFO - ====== WebDriver manager ======
+2025-03-26 12:32:04,328 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:32:09,200 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:32:09,952 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 12:32:17,402 - INFO - 添加新植物 Cerbera manghas 到数据库
+2025-03-26 12:32:22,133 - INFO - 添加新植物 Cercis siliquastrum 到数据库
+2025-03-26 12:32:26,505 - INFO - 添加新植物 Cereus forbesii 到数据库
+2025-03-26 12:32:30,824 - INFO - 添加新植物 Cereus hexagonus 到数据库
+2025-03-26 12:32:36,062 - INFO - 添加新植物 Cereus hildmannianus 到数据库
+2025-03-26 12:32:42,863 - INFO - 添加新植物 Cereus jamacaru 到数据库
+2025-03-26 12:32:48,049 - INFO - 添加新植物 Cereus repandus 到数据库
+2025-03-26 12:32:52,711 - INFO - 添加新植物 Cereus uruguayanus 到数据库
+2025-03-26 12:32:55,429 - INFO - 添加新植物 Chaenorrhinum minus 到数据库
+2025-03-26 12:32:59,754 - INFO - 添加新植物 Chaerophyllum aromaticum 到数据库
+2025-03-26 12:33:05,761 - INFO - 添加新植物 Chaerophyllum aureum 到数据库
+2025-03-26 12:33:10,347 - INFO - 添加新植物 Chaerophyllum bulbosum 到数据库
+2025-03-26 12:33:17,422 - INFO - 添加新植物 Chaerophyllum hirsutum 到数据库
+2025-03-26 12:33:23,038 - INFO - 添加新植物 Chaerophyllum tainturieri 到数据库
+2025-03-26 12:33:28,110 - INFO - 添加新植物 Chaerophyllum temulum 到数据库
+2025-03-26 12:33:34,729 - INFO - 添加新植物 Chaerophyllum villarsii 到数据库
+2025-03-26 12:33:40,613 - INFO - 添加新植物 Chamaerops humilis 到数据库
+2025-03-26 12:33:47,045 - INFO - 添加新植物 Chamerion latifolium 到数据库
+2025-03-26 12:33:53,423 - INFO - 添加新植物 Chelidonium majus 到数据库
+2025-03-26 12:33:58,618 - INFO - 添加新植物 Chenopodium album 到数据库
+2025-03-26 12:34:04,378 - INFO - 添加新植物 Chondrilla juncea 到数据库
+2025-03-26 12:34:09,438 - INFO - 添加新植物 Cichorium intybus 到数据库
+2025-03-26 12:34:13,741 - INFO - 添加新植物 Circaea lutetiana 到数据库
+2025-03-26 12:34:16,723 - INFO - 添加新植物 Cirsium acaulon 到数据库
+2025-03-26 12:34:21,424 - INFO - 添加新植物 Cirsium alsophilum 到数据库
+2025-03-26 12:34:27,077 - INFO - 添加新植物 Cirsium altissimum 到数据库
+2025-03-26 12:34:32,748 - INFO - 添加新植物 Cirsium arvense 到数据库
+2025-03-26 12:34:37,690 - INFO - 添加新植物 Cirsium canum 到数据库
+2025-03-26 12:34:42,041 - INFO - 添加新植物 Cirsium discolor 到数据库
+2025-03-26 12:34:46,375 - INFO - 添加新植物 Cirsium dissectum 到数据库
+2025-03-26 12:34:52,846 - INFO - 添加新植物 Cirsium eriophorum 到数据库
+2025-03-26 12:34:59,427 - INFO - 添加新植物 Cirsium erisithales 到数据库
+2025-03-26 12:35:06,208 - INFO - 添加新植物 Cirsium ferox 到数据库
+2025-03-26 12:35:12,395 - INFO - 添加新植物 Cirsium filipendulum 到数据库
+2025-03-26 12:35:19,219 - INFO - 添加新植物 Cirsium foliosum 到数据库
+2025-03-26 12:35:23,615 - INFO - 添加新植物 Cirsium glabrum 到数据库
+2025-03-26 12:35:29,733 - INFO - 添加新植物 Cirsium heterophyllum 到数据库
+2025-03-26 12:35:35,004 - INFO - 添加新植物 Cirsium horridulum 到数据库
+2025-03-26 12:35:38,889 - INFO - 添加新植物 Cirsium monspessulanum 到数据库
+2025-03-26 12:35:45,072 - INFO - 添加新植物 Cirsium morisianum 到数据库
+2025-03-26 12:35:50,486 - INFO - 添加新植物 Cirsium muticum 到数据库
+2025-03-26 12:35:55,746 - INFO - 添加新植物 Cirsium oleraceum 到数据库
+2025-03-26 12:36:02,031 - INFO - 添加新植物 Cirsium palustre 到数据库
+2025-03-26 12:36:08,926 - INFO - 添加新植物 Cirsium rivulare 到数据库
+2025-03-26 12:36:15,814 - INFO - 添加新植物 Cirsium spinosissimum 到数据库
+2025-03-26 12:36:21,969 - INFO - 添加新植物 Cirsium texanum 到数据库
+2025-03-26 12:36:28,785 - INFO - 添加新植物 Cirsium tuberosum 到数据库
+2025-03-26 12:36:33,899 - INFO - 添加新植物 Cirsium undulatum 到数据库
+2025-03-26 12:36:41,478 - INFO - 添加新植物 Cirsium vulgare 到数据库
+2025-03-26 12:36:45,955 - INFO - 添加新植物 Cistus albidus 到数据库
+2025-03-26 12:36:50,885 - INFO - 添加新植物 Cistus monspeliensis 到数据库
+2025-03-26 12:36:57,911 - INFO - 添加新植物 Cistus salviifolius 到数据库
+2025-03-26 12:37:02,990 - INFO - 添加新植物 Citrus limon 到数据库
+2025-03-26 12:37:09,089 - INFO - 添加新植物 Clematis flammula 到数据库
+2025-03-26 12:37:15,397 - INFO - 添加新植物 Clematis vitalba 到数据库
+2025-03-26 12:37:20,773 - INFO - 添加新植物 Clethra alnifolia 到数据库
+2025-03-26 12:37:25,015 - INFO - 添加新植物 Clinopodium nepeta 到数据库
+2025-03-26 12:37:32,084 - INFO - 添加新植物 Clinopodium vulgare 到数据库
+2025-03-26 12:37:37,821 - INFO - 添加新植物 Cneorum tricoccon 到数据库
+2025-03-26 12:37:43,156 - INFO - 添加新植物 Cobaea scandens 到数据库
+2025-03-26 12:37:47,669 - INFO - 添加新植物 Cochlearia danica 到数据库
+2025-03-26 12:37:52,996 - INFO - 添加新植物 Colchicum autumnale 到数据库
+2025-03-26 12:37:57,186 - INFO - 添加新植物 Collomia grandiflora 到数据库
+2025-03-26 12:38:03,526 - INFO - 添加新植物 Colutea arborescens 到数据库
+2025-03-26 12:38:09,753 - INFO - 添加新植物 Comptonia peregrina 到数据库
+2025-03-26 12:38:15,689 - INFO - 添加新植物 Conoclinium coelestinum 到数据库
+2025-03-26 12:38:18,450 - INFO - 添加新植物 Conostomium kenyense 到数据库
+2025-03-26 12:38:22,225 - INFO - 添加新植物 Conostomium quadrangulare 到数据库
+2025-03-26 12:38:28,396 - INFO - 添加新植物 Convallaria majalis 到数据库
+2025-03-26 12:38:33,101 - INFO - 添加新植物 Convolvulus althaeoides 到数据库
+2025-03-26 12:38:38,396 - INFO - 添加新植物 Convolvulus arvensis 到数据库
+2025-03-26 12:38:43,891 - INFO - 添加新植物 Convolvulus cantabrica 到数据库
+2025-03-26 12:38:50,356 - INFO - 添加新植物 Convolvulus sepium 到数据库
+2025-03-26 12:38:55,773 - INFO - 添加新植物 Convolvulus soldanella 到数据库
+2025-03-26 12:39:00,447 - INFO - 添加新植物 Cordyla africana 到数据库
+2025-03-26 12:39:04,096 - INFO - 添加新植物 Coriaria myrtifolia 到数据库
+2025-03-26 12:39:10,003 - INFO - 添加新植物 Corispermum pallasii 到数据库
+2025-03-26 12:39:14,634 - INFO - 添加新植物 Cornus mas 到数据库
+2025-03-26 12:39:21,348 - INFO - 添加新植物 Cornus sanguinea 到数据库
+2025-03-26 12:39:24,658 - INFO - 添加新植物 Coronilla glauca 到数据库
+2025-03-26 12:39:29,404 - INFO - 添加新植物 Coronilla juncea 到数据库
+2025-03-26 12:39:36,484 - INFO - 添加新植物 Coronilla valentina 到数据库
+2025-03-26 12:39:41,813 - INFO - 添加新植物 Coronilla varia 到数据库
+2025-03-26 12:39:48,771 - INFO - 添加新植物 Corydalis solida 到数据库
+2025-03-26 12:39:56,253 - INFO - 添加新植物 Corylus avellana 到数据库
+2025-03-26 12:40:02,524 - INFO - 添加新植物 Coryphantha elephantidens 到数据库
+2025-03-26 12:40:07,854 - INFO - 添加新植物 Cotinus coggygria 到数据库
+2025-03-26 12:40:14,804 - INFO - 添加新植物 Couroupita guianensis 到数据库
+2025-03-26 12:40:20,475 - INFO - 添加新植物 Coussapoa villosa 到数据库
+2025-03-26 12:40:26,244 - INFO - 添加新植物 Crataegus azarolus 到数据库
+2025-03-26 12:40:32,683 - INFO - 添加新植物 Crataegus germanica 到数据库
+2025-03-26 12:40:39,379 - INFO - 添加新植物 Crataegus laevigata 到数据库
+2025-03-26 12:40:44,149 - INFO - 添加新植物 Crataegus monogyna 到数据库
+2025-03-26 12:40:48,537 - INFO - 添加新植物 Crepis bursifolia 到数据库
+2025-03-26 12:40:53,360 - INFO - 添加新植物 Crepis capillaris 到数据库
+2025-03-26 12:40:59,712 - INFO - 添加新植物 Crepis foetida 到数据库
+2025-03-26 12:41:05,034 - INFO - 添加新植物 Crepis sancta 到数据库
+2025-03-26 12:41:08,875 - INFO - 添加新植物 Crepis setosa 到数据库
+2025-03-26 12:41:15,800 - INFO - 添加新植物 Crithmum maritimum 到数据库
+2025-03-26 12:41:22,408 - INFO - 添加新植物 Crocus nudiflorus 到数据库
+2025-03-26 12:41:24,598 - INFO - 批次完成，等待 0.6 分钟后开始下一批次...
+2025-03-26 12:41:59,692 - INFO - 开始处理第 6/20 批次，共 100 个植物
+2025-03-26 12:41:59,692 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap...
+2025-03-26 12:41:59,693 - INFO - ====== WebDriver manager ======
+2025-03-26 12:42:03,252 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:42:04,037 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:42:05,312 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 12:42:17,095 - INFO - 添加新植物 Crotalaria brevidens 到数据库
+2025-03-26 12:42:30,945 - INFO - 添加新植物 Crotalaria chrysochlora 到数据库
+2025-03-26 12:42:38,037 - INFO - 添加新植物 Crotalaria deflersii 到数据库
+2025-03-26 12:42:43,885 - INFO - 添加新植物 Crotalaria incana 到数据库
+2025-03-26 12:42:49,835 - INFO - 添加新植物 Crotalaria juncea 到数据库
+2025-03-26 12:42:54,635 - INFO - 添加新植物 Crotalaria laburnifolia 到数据库
+2025-03-26 12:43:01,879 - INFO - 添加新植物 Crotalaria pallida 到数据库
+2025-03-26 12:43:05,961 - INFO - 添加新植物 Crotalaria polysperma 到数据库
+2025-03-26 12:43:12,231 - INFO - 添加新植物 Crotalaria pumila 到数据库
+2025-03-26 12:43:20,116 - INFO - 添加新植物 Crotalaria retusa 到数据库
+2025-03-26 12:43:28,612 - INFO - 添加新植物 Crotalaria spectabilis 到数据库
+2025-03-26 12:43:33,089 - INFO - 添加新植物 Crotalaria uguenensis 到数据库
+2025-03-26 12:43:37,987 - INFO - 添加新植物 Crotalaria verrucosa 到数据库
+2025-03-26 12:43:44,690 - INFO - 添加新植物 Cruciata laevipes 到数据库
+2025-03-26 12:43:48,994 - INFO - 添加新植物 Cryptopus elatus 到数据库
+2025-03-26 12:43:54,129 - INFO - 添加新植物 Cryptostegia grandiflora 到数据库
+2025-03-26 12:43:59,864 - INFO - 添加新植物 Cryptostegia madagascariensis 到数据库
+2025-03-26 12:44:06,604 - INFO - 添加新植物 Cucumis sativus 到数据库
+2025-03-26 12:44:13,145 - INFO - 添加新植物 Cucurbita ficifolia 到数据库
+2025-03-26 12:44:19,740 - INFO - 添加新植物 Cucurbita foetidissima 到数据库
+2025-03-26 12:44:25,391 - INFO - 添加新植物 Cucurbita maxima 到数据库
+2025-03-26 12:44:30,574 - INFO - 添加新植物 Cucurbita moschata 到数据库
+2025-03-26 12:44:36,595 - INFO - 添加新植物 Cucurbita pepo 到数据库
+2025-03-26 12:44:43,185 - INFO - 添加新植物 Cupressus sempervirens 到数据库
+2025-03-26 12:44:48,931 - INFO - 添加新植物 Cyanotis somaliensis 到数据库
+2025-03-26 12:44:53,991 - INFO - 添加新植物 Cyanus montanus 到数据库
+2025-03-26 12:44:58,636 - INFO - 添加新植物 Cyanus segetum 到数据库
+2025-03-26 12:45:05,189 - INFO - 添加新植物 Cyclamen hederifolium 到数据库
+2025-03-26 12:45:10,364 - INFO - 添加新植物 Cydonia oblonga 到数据库
+2025-03-26 12:45:15,942 - INFO - 添加新植物 Cymbalaria aequitriloba 到数据库
+2025-03-26 12:45:20,442 - INFO - 添加新植物 Cymbalaria hepaticifolia 到数据库
+2025-03-26 12:45:25,397 - INFO - 添加新植物 Cymbalaria muralis 到数据库
+2025-03-26 12:45:31,723 - INFO - 添加新植物 Cynoglossum creticum 到数据库
+2025-03-26 12:45:37,793 - INFO - 添加新植物 Cyphostemma cyphopetalum 到数据库
+2025-03-26 12:45:42,656 - INFO - 添加新植物 Cyphostemma juttae 到数据库
+2025-03-26 12:45:48,105 - INFO - 添加新植物 Cyphostemma serpens 到数据库
+2025-03-26 12:45:54,375 - INFO - 添加新植物 Cypripedium calceolus 到数据库
+2025-03-26 12:45:59,022 - INFO - 添加新植物 Cyrtanthus elatus 到数据库
+2025-03-26 12:46:03,788 - INFO - 添加新植物 Cytinus hypocistis 到数据库
+2025-03-26 12:46:10,610 - INFO - 添加新植物 Cytinus ruber 到数据库
+2025-03-26 12:46:15,526 - INFO - 添加新植物 Cytisus lanigerus 到数据库
+2025-03-26 12:46:21,032 - INFO - 添加新植物 Cytisus oromediterraneus 到数据库
+2025-03-26 12:46:26,163 - INFO - 添加新植物 Cytisus scoparius 到数据库
+2025-03-26 12:46:31,007 - INFO - 添加新植物 Dactylis glomerata 到数据库
+2025-03-26 12:46:38,603 - INFO - 添加新植物 Dactylorhiza fuchsii 到数据库
+2025-03-26 12:46:47,462 - INFO - 添加新植物 Dactylorhiza incarnata 到数据库
+2025-03-26 12:46:55,012 - INFO - 添加新植物 Dactylorhiza maculata 到数据库
+2025-03-26 12:47:03,757 - INFO - 添加新植物 Dactylorhiza majalis 到数据库
+2025-03-26 12:47:11,220 - INFO - 添加新植物 Dactylorhiza sambucina 到数据库
+2025-03-26 12:47:18,312 - INFO - 添加新植物 Dalbergia latifolia 到数据库
+2025-03-26 12:47:24,921 - INFO - 添加新植物 Dalbergia melanoxylon 到数据库
+2025-03-26 12:47:30,936 - INFO - 添加新植物 Dalbergia retusa 到数据库
+2025-03-26 12:47:37,426 - INFO - 添加新植物 Dalbergia sissoo 到数据库
+2025-03-26 12:47:41,342 - INFO - 添加新植物 Dalea purpurea 到数据库
+2025-03-26 12:47:48,076 - INFO - 添加新植物 Danthonia decumbens 到数据库
+2025-03-26 12:47:51,965 - INFO - 添加新植物 Daphne alpina 到数据库
+2025-03-26 12:47:59,261 - INFO - 添加新植物 Daphne cneorum 到数据库
+2025-03-26 12:48:04,864 - INFO - 添加新植物 Daphne gnidium 到数据库
+2025-03-26 12:48:09,506 - INFO - 添加新植物 Daphne laureola 到数据库
+2025-03-26 12:48:15,672 - INFO - 添加新植物 Daphne mezereum 到数据库
+2025-03-26 12:48:21,321 - INFO - 添加新植物 Daphne odora 到数据库
+2025-03-26 12:48:25,503 - INFO - 添加新植物 Daphne oleoides 到数据库
+2025-03-26 12:48:32,407 - INFO - 添加新植物 Daphne sericea 到数据库
+2025-03-26 12:48:37,897 - INFO - 添加新植物 Daphne striata 到数据库
+2025-03-26 12:48:43,910 - INFO - 添加新植物 Daphne tangutica 到数据库
+2025-03-26 12:48:50,537 - INFO - 添加新植物 Datura stramonium 到数据库
+2025-03-26 12:48:58,077 - INFO - 添加新植物 Daucus carota 到数据库
+2025-03-26 12:49:04,363 - INFO - 添加新植物 Daucus muricatus 到数据库
+2025-03-26 12:49:09,498 - INFO - 添加新植物 Daucus pusillus 到数据库
+2025-03-26 12:49:13,992 - INFO - 添加新植物 Declieuxia fruticosa 到数据库
+2025-03-26 12:49:20,597 - INFO - 添加新植物 Dendrobium anosmum 到数据库
+2025-03-26 12:49:26,482 - INFO - 添加新植物 Dendrobium aphyllum 到数据库
+2025-03-26 12:49:31,681 - INFO - 添加新植物 Dendrobium chrysotoxum 到数据库
+2025-03-26 12:49:37,007 - INFO - 添加新植物 Dendrobium closterium 到数据库
+2025-03-26 12:49:43,650 - INFO - 添加新植物 Dendrobium crumenatum 到数据库
+2025-03-26 12:49:48,143 - INFO - 添加新植物 Dendrobium kingianum 到数据库
+2025-03-26 12:49:55,700 - INFO - 添加新植物 Dendrobium moschatum 到数据库
+2025-03-26 12:50:00,372 - INFO - 添加新植物 Dendrobium munificum 到数据库
+2025-03-26 12:50:06,892 - INFO - 添加新植物 Dendrobium nobile 到数据库
+2025-03-26 12:50:10,557 - INFO - 添加新植物 Dendrobium spp 到数据库
+2025-03-26 12:50:16,492 - INFO - 添加新植物 Dendrobium thyrsiflorum 到数据库
+2025-03-26 12:50:22,320 - INFO - 添加新植物 Dendrobium victoriae-reginae 到数据库
+2025-03-26 12:50:30,184 - INFO - 添加新植物 Dianthus armeria 到数据库
+2025-03-26 12:50:37,629 - INFO - 添加新植物 Dianthus carthusianorum 到数据库
+2025-03-26 12:50:41,885 - INFO - 添加新植物 Dianthus gallicus 到数据库
+2025-03-26 12:50:50,436 - INFO - 添加新植物 Dianthus hyssopifolius 到数据库
+2025-03-26 12:50:56,636 - INFO - 添加新植物 Diascia rigescens 到数据库
+2025-03-26 12:51:01,401 - INFO - 添加新植物 Diascia vigilis 到数据库
+2025-03-26 12:51:04,312 - INFO - 添加新植物 Diatelia tuberaria 到数据库
+2025-03-26 12:51:09,712 - INFO - 添加新植物 Dicentra spectabilis 到数据库
+2025-03-26 12:51:15,332 - INFO - 添加新植物 Dierama pulcherrimum 到数据库
+2025-03-26 12:51:20,403 - INFO - 添加新植物 Diervilla lonicera 到数据库
+2025-03-26 12:51:27,508 - INFO - 添加新植物 Diervilla sessilifolia 到数据库
+2025-03-26 12:51:33,218 - INFO - 添加新植物 Digitalis grandiflora 到数据库
+2025-03-26 12:51:41,847 - INFO - 添加新植物 Digitalis lutea 到数据库
+2025-03-26 12:51:50,418 - INFO - 添加新植物 Digitalis purpurea 到数据库
+2025-03-26 12:51:58,962 - INFO - 添加新植物 Dioscorea communis 到数据库
+2025-03-26 12:52:08,626 - INFO - 添加新植物 Diospyros kaki 到数据库
+2025-03-26 12:52:15,665 - INFO - 添加新植物 Dipcadi serotinum 到数据库
+2025-03-26 12:52:21,261 - INFO - 添加新植物 Diphasiastrum tristachyum 到数据库
+2025-03-26 12:52:23,391 - INFO - 批次完成，等待 0.5 分钟后开始下一批次...
+2025-03-26 12:52:55,044 - INFO - 开始处理第 7/20 批次，共 100 个植物
+2025-03-26 12:52:55,044 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:9...
+2025-03-26 12:52:55,045 - INFO - ====== WebDriver manager ======
+2025-03-26 12:52:57,510 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:52:58,847 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 12:52:59,803 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 12:53:13,198 - INFO - 添加新植物 Diplotaxis erucoides 到数据库
+2025-03-26 12:53:23,683 - INFO - 添加新植物 Diplotaxis tenuifolia 到数据库
+2025-03-26 12:53:39,461 - INFO - 添加新植物 Dipsacus fullonum 到数据库
+2025-03-26 12:53:49,594 - INFO - 添加新植物 Dischidia nummularia 到数据库
+2025-03-26 12:54:00,164 - INFO - 添加新植物 Dischidia ovata 到数据库
+2025-03-26 12:54:18,256 - INFO - 添加新植物 Dittrichia viscosa 到数据库
+2025-03-26 12:54:24,444 - INFO - 添加新植物 Doronicum grandiflorum 到数据库
+2025-03-26 12:54:33,361 - INFO - 添加新植物 Dorotheanthus bellidiformis 到数据库
+2025-03-26 12:54:43,667 - INFO - 添加新植物 Dorycnium hirsutum 到数据库
+2025-03-26 12:54:46,503 - INFO - 添加新植物 Dorycnium pentaphyllum 到数据库
+2025-03-26 12:54:52,573 - INFO - 添加新植物 Draba verna 到数据库
+2025-03-26 12:54:57,357 - INFO - 添加新植物 Dracontium polyphyllum 到数据库
+2025-03-26 12:55:03,893 - INFO - 添加新植物 Dracophyllum verticillatum 到数据库
+2025-03-26 12:55:10,531 - INFO - 添加新植物 Dracunculus vulgaris 到数据库
+2025-03-26 12:55:18,164 - INFO - 添加新植物 Drosera rotundifolia 到数据库
+2025-03-26 12:55:25,908 - INFO - 添加新植物 Dryas octopetala 到数据库
+2025-03-26 12:55:29,809 - INFO - 添加新植物 Dryopteris aemula 到数据库
+2025-03-26 12:55:38,334 - INFO - 添加新植物 Dryopteris affinis 到数据库
+2025-03-26 12:55:44,650 - INFO - 添加新植物 Dryopteris carthusiana 到数据库
+2025-03-26 12:55:50,160 - INFO - 添加新植物 Dryopteris cristata 到数据库
+2025-03-26 12:55:59,162 - INFO - 添加新植物 Dryopteris cycadina 到数据库
+2025-03-26 12:56:06,456 - INFO - 添加新植物 Dryopteris dilatata 到数据库
+2025-03-26 12:56:13,847 - INFO - 添加新植物 Dryopteris erythrosora 到数据库
+2025-03-26 12:56:20,556 - INFO - 添加新植物 Dryopteris expansa 到数据库
+2025-03-26 12:56:27,606 - INFO - 添加新植物 Dryopteris filix-mas 到数据库
+2025-03-26 12:56:35,487 - INFO - 添加新植物 Dryopteris fragrans 到数据库
+2025-03-26 12:56:41,415 - INFO - 添加新植物 Dryopteris intermedia 到数据库
+2025-03-26 12:56:46,322 - INFO - 添加新植物 Dryopteris marginalis 到数据库
+2025-03-26 12:56:52,906 - INFO - 添加新植物 Dryopteris sieboldii 到数据库
+2025-03-26 12:56:58,831 - INFO - 添加新植物 Dryopteris villarii 到数据库
+2025-03-26 12:57:07,233 - INFO - 添加新植物 Dryopteris wallichiana 到数据库
+2025-03-26 12:57:12,066 - INFO - 添加新植物 Dubouzetia campanulata 到数据库
+2025-03-26 12:57:17,777 - INFO - 添加新植物 Dubouzetia confusa 到数据库
+2025-03-26 12:57:24,831 - INFO - 添加新植物 Duchesnea indica 到数据库
+2025-03-26 12:57:31,453 - INFO - 添加新植物 Ecballium elaterium 到数据库
+2025-03-26 12:57:37,939 - INFO - 添加新植物 Echinophora spinosa 到数据库
+2025-03-26 12:57:44,539 - INFO - 添加新植物 Echinops ritro 到数据库
+2025-03-26 12:57:53,239 - INFO - 添加新植物 Echium vulgare 到数据库
+2025-03-26 12:57:59,640 - INFO - 添加新植物 Egeria densa 到数据库
+2025-03-26 12:58:04,301 - INFO - 添加新植物 Elaeagnus angustifolia 到数据库
+2025-03-26 12:58:10,443 - INFO - 添加新植物 Elephantopus elatus 到数据库
+2025-03-26 12:58:15,920 - INFO - 添加新植物 Elodea canadensis 到数据库
+2025-03-26 12:58:22,108 - INFO - 添加新植物 Empetrum nigrum 到数据库
+2025-03-26 12:58:29,401 - INFO - 添加新植物 Empetrum rubrum 到数据库
+2025-03-26 12:58:35,511 - INFO - 添加新植物 Entada gigas 到数据库
+2025-03-26 12:58:41,283 - INFO - 添加新植物 Entada phaseoloides 到数据库
+2025-03-26 12:58:47,844 - INFO - 添加新植物 Ephedra distachya 到数据库
+2025-03-26 12:58:52,144 - INFO - 添加新植物 Epilobium angustifolium 到数据库
+2025-03-26 12:58:57,149 - INFO - 添加新植物 Epilobium dodonaei 到数据库
+2025-03-26 12:59:02,811 - INFO - 添加新植物 Epilobium hirsutum 到数据库
+2025-03-26 12:59:06,324 - INFO - 添加新植物 Epilobium tetragonum 到数据库
+2025-03-26 12:59:12,003 - INFO - 添加新植物 Epipactis atrorubens 到数据库
+2025-03-26 12:59:18,790 - INFO - 添加新植物 Epipactis gigantea 到数据库
+2025-03-26 12:59:24,686 - INFO - 添加新植物 Epipactis helleborine 到数据库
+2025-03-26 12:59:30,725 - INFO - 添加新植物 Epipactis leptochila 到数据库
+2025-03-26 12:59:38,387 - INFO - 添加新植物 Epipactis microphylla 到数据库
+2025-03-26 12:59:45,091 - INFO - 添加新植物 Epipactis muelleri 到数据库
+2025-03-26 12:59:51,724 - INFO - 添加新植物 Epipactis palustris 到数据库
+2025-03-26 12:59:56,793 - INFO - 添加新植物 Epipactis phyllanthes 到数据库
+2025-03-26 13:00:01,469 - INFO - 添加新植物 Epipactis purpurata 到数据库
+2025-03-26 13:00:24,759 - INFO - 添加新植物 Equisetum telmateia 到数据库
+2025-03-26 13:00:54,570 - INFO - 添加新植物 Eranthemum pulchellum 到数据库
+2025-03-26 13:01:09,911 - INFO - 添加新植物 Eranthis hyemalis 到数据库
+2025-03-26 13:01:25,263 - INFO - 添加新植物 Erechtites hieraciifolius 到数据库
+2025-03-26 13:01:28,691 - INFO - 添加新植物 Erechtites minima 到数据库
+2025-03-26 13:01:34,342 - INFO - 添加新植物 Erianthemum dregei 到数据库
+2025-03-26 13:01:40,987 - INFO - 添加新植物 Erica arborea 到数据库
+2025-03-26 13:01:46,624 - INFO - 添加新植物 Erica cinerea 到数据库
+2025-03-26 13:01:54,334 - INFO - 添加新植物 Erica tetralix 到数据库
+2025-03-26 13:02:00,010 - INFO - 添加新植物 Erica vagans 到数据库
+2025-03-26 13:02:05,970 - INFO - 添加新植物 Erigeron annuus 到数据库
+2025-03-26 13:02:10,605 - INFO - 添加新植物 Erigeron canadensis 到数据库
+2025-03-26 13:02:18,774 - INFO - 添加新植物 Erigeron karvinskianus 到数据库
+2025-03-26 13:02:23,860 - INFO - 添加新植物 Erigeron sumatrensis 到数据库
+2025-03-26 13:02:30,882 - INFO - 添加新植物 Erinus alpinus 到数据库
+2025-03-26 13:02:36,998 - INFO - 添加新植物 Eriobotrya japonica 到数据库
+2025-03-26 13:02:41,923 - INFO - 添加新植物 Eriophorum angustifolium 到数据库
+2025-03-26 13:02:47,053 - INFO - 添加新植物 Eritrichium nanum 到数据库
+2025-03-26 13:02:52,774 - INFO - 添加新植物 Erodium ciconium 到数据库
+2025-03-26 13:02:58,543 - INFO - 添加新植物 Erodium cicutarium 到数据库
+2025-03-26 13:03:04,263 - INFO - 添加新植物 Erodium foetidum 到数据库
+2025-03-26 13:03:08,170 - INFO - 添加新植物 Erodium malacoides 到数据库
+2025-03-26 13:03:13,330 - INFO - 添加新植物 Erucastrum gallicum 到数据库
+2025-03-26 13:03:17,935 - INFO - 添加新植物 Erucastrum incanum 到数据库
+2025-03-26 13:03:21,809 - INFO - 添加新植物 Erucastrum nasturtiifolium 到数据库
+2025-03-26 13:03:26,625 - INFO - 添加新植物 Erycina pusilla 到数据库
+2025-03-26 13:03:33,754 - INFO - 添加新植物 Eryngium bourgatii 到数据库
+2025-03-26 13:03:40,115 - INFO - 添加新植物 Eryngium campestre 到数据库
+2025-03-26 13:03:46,085 - INFO - 添加新植物 Eryngium maritimum 到数据库
+2025-03-26 13:03:55,618 - INFO - 添加新植物 Eryngium spinalba 到数据库
+2025-03-26 13:04:03,149 - INFO - 添加新植物 Erysimum cheiri 到数据库
+2025-03-26 13:04:07,769 - INFO - 添加新植物 Erythronium dens-canis 到数据库
+2025-03-26 13:04:13,658 - INFO - 添加新植物 Eschscholzia californica 到数据库
+2025-03-26 13:04:20,545 - INFO - 添加新植物 Eucryphia cordifolia 到数据库
+2025-03-26 13:04:27,732 - INFO - 添加新植物 Euonymus europaeus 到数据库
+2025-03-26 13:04:33,199 - INFO - 添加新植物 Euonymus latifolius 到数据库
+2025-03-26 13:04:39,812 - INFO - 添加新植物 Eupatorium cannabinum 到数据库
+2025-03-26 13:04:45,096 - INFO - 添加新植物 Euphorbia amygdaloides 到数据库
+2025-03-26 13:04:50,692 - INFO - 添加新植物 Euphorbia characias 到数据库
+2025-03-26 13:04:55,695 - INFO - 添加新植物 Euphorbia cyparissias 到数据库
+2025-03-26 13:04:58,024 - INFO - 批次完成，等待 0.8 分钟后开始下一批次...
+2025-03-26 13:05:44,291 - INFO - 开始处理第 8/20 批次，共 100 个植物
+2025-03-26 13:05:44,291 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0)...
+2025-03-26 13:05:44,292 - INFO - ====== WebDriver manager ======
+2025-03-26 13:05:46,744 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:05:47,587 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:05:48,346 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 13:05:55,485 - INFO - 添加新植物 Euphorbia dendroides 到数据库
+2025-03-26 13:06:00,782 - INFO - 添加新植物 Euphorbia flavicoma 到数据库
+2025-03-26 13:06:08,118 - INFO - 添加新植物 Euphorbia helioscopia 到数据库
+2025-03-26 13:06:15,334 - INFO - 添加新植物 Euphorbia lathyris 到数据库
+2025-03-26 13:06:20,265 - INFO - 添加新植物 Euphorbia nicaeensis 到数据库
+2025-03-26 13:06:26,741 - INFO - 添加新植物 Euphorbia paralias 到数据库
+2025-03-26 13:06:31,603 - INFO - 添加新植物 Euphorbia peplis 到数据库
+2025-03-26 13:06:37,922 - INFO - 添加新植物 Euphorbia peplus 到数据库
+2025-03-26 13:06:43,471 - INFO - 添加新植物 Euphorbia segetalis 到数据库
+2025-03-26 13:06:49,257 - INFO - 添加新植物 Euphorbia seguieriana 到数据库
+2025-03-26 13:06:55,508 - INFO - 添加新植物 Euphorbia serrata 到数据库
+2025-03-26 13:07:01,593 - INFO - 添加新植物 Euphorbia spinosa 到数据库
+2025-03-26 13:07:06,673 - INFO - 添加新植物 Fagus sylvatica 到数据库
+2025-03-26 13:07:12,902 - INFO - 添加新植物 Falcaria vulgaris 到数据库
+2025-03-26 13:07:17,855 - INFO - 添加新植物 Falcataria moluccana 到数据库
+2025-03-26 13:07:22,808 - INFO - 添加新植物 Fatsia japonica 到数据库
+2025-03-26 13:07:28,702 - INFO - 添加新植物 Faujasia salicifolia 到数据库
+2025-03-26 13:07:34,193 - INFO - 添加新植物 Fedia cornucopiae 到数据库
+2025-03-26 13:07:37,831 - INFO - 添加新植物 Fedia graciliflora 到数据库
+2025-03-26 13:07:42,426 - INFO - 添加新植物 Feijoa sellowiana 到数据库
+2025-03-26 13:07:48,768 - INFO - 添加新植物 Fernelia buxifolia 到数据库
+2025-03-26 13:07:55,279 - INFO - 添加新植物 Ferula communis 到数据库
+2025-03-26 13:08:00,413 - INFO - 添加新植物 Fibigia clypeata 到数据库
+2025-03-26 13:08:15,950 - INFO - 添加新植物 Ficaria verna 到数据库
+2025-03-26 13:08:21,966 - INFO - 添加新植物 Ficus carica 到数据库
+2025-03-26 13:08:31,111 - INFO - 添加新植物 Filipendula ulmaria 到数据库
+2025-03-26 13:08:45,624 - INFO - 添加新植物 Filipendula vulgaris 到数据库
+2025-03-26 13:08:59,501 - INFO - 添加新植物 Fittonia albivenis 到数据库
+2025-03-26 13:09:18,487 - INFO - 添加新植物 Foeniculum vulgare 到数据库
+2025-03-26 13:09:30,344 - INFO - 添加新植物 Fragaria chiloensis 到数据库
+2025-03-26 13:09:35,256 - INFO - 添加新植物 Fragaria moschata 到数据库
+2025-03-26 13:09:44,046 - INFO - 添加新植物 Fragaria vesca 到数据库
+2025-03-26 13:09:52,454 - INFO - 添加新植物 Fragaria virginiana 到数据库
+2025-03-26 13:10:06,843 - INFO - 添加新植物 Fragaria viridis 到数据库
+2025-03-26 13:10:11,865 - INFO - 添加新植物 Fragaria x ananassa 到数据库
+2025-03-26 13:10:15,679 - INFO - 添加新植物 Frangula dodonei 到数据库
+2025-03-26 13:10:29,303 - INFO - 添加新植物 Fraxinus angustifolia 到数据库
+2025-03-26 13:10:41,933 - INFO - 添加新植物 Fraxinus excelsior 到数据库
+2025-03-26 13:10:55,526 - INFO - 添加新植物 Fraxinus ornus 到数据库
+2025-03-26 13:10:59,173 - INFO - 添加新植物 Freesia alba 到数据库
+2025-03-26 13:11:06,296 - INFO - 添加新植物 Freesia refracta 到数据库
+2025-03-26 13:11:10,737 - INFO - 添加新植物 Freesia x hybrida 到数据库
+2025-03-26 13:11:21,365 - INFO - 添加新植物 Freycinetia cumingiana 到数据库
+2025-03-26 13:11:35,471 - INFO - 添加新植物 Fritillaria meleagris 到数据库
+2025-03-26 13:11:51,005 - INFO - 添加新植物 Fritillaria pyrenaica 到数据库
+2025-03-26 13:12:06,256 - INFO - 添加新植物 Fumaria capreolata 到数据库
+2025-03-26 13:12:20,201 - INFO - 添加新植物 Fumaria officinalis 到数据库
+2025-03-26 13:12:24,686 - INFO - 添加新植物 Gagea bohemica 到数据库
+2025-03-26 13:12:27,696 - INFO - 添加新植物 Gagea granatelli 到数据库
+2025-03-26 13:12:37,812 - INFO - 添加新植物 Galactites tomentosus 到数据库
+2025-03-26 13:12:46,616 - INFO - 添加新植物 Galanthus nivalis 到数据库
+2025-03-26 13:12:51,370 - INFO - 添加新植物 Galega officinalis 到数据库
+2025-03-26 13:12:58,456 - INFO - 添加新植物 Galega orientalis 到数据库
+2025-03-26 13:13:04,094 - INFO - 添加新植物 Galeopsis tetrahit 到数据库
+2025-03-26 13:13:09,957 - INFO - 添加新植物 Galinsoga quadriradiata 到数据库
+2025-03-26 13:13:17,769 - INFO - 添加新植物 Galium aparine 到数据库
+2025-03-26 13:13:24,446 - INFO - 添加新植物 Galium odoratum 到数据库
+2025-03-26 13:13:31,023 - INFO - 添加新植物 Galium verum 到数据库
+2025-03-26 13:13:37,514 - INFO - 添加新植物 Garrya elliptica 到数据库
+2025-03-26 13:13:42,739 - INFO - 添加新植物 Geniostoma borbonicum 到数据库
+2025-03-26 13:13:49,906 - INFO - 添加新植物 Genista hispanica 到数据库
+2025-03-26 13:13:56,555 - INFO - 添加新植物 Genista pilosa 到数据库
+2025-03-26 13:14:04,331 - INFO - 添加新植物 Genista sagittalis 到数据库
+2025-03-26 13:14:32,325 - INFO - 添加新植物 Genista scorpius 到数据库
+2025-03-26 13:14:40,485 - INFO - 添加新植物 Genista tinctoria 到数据库
+2025-03-26 13:14:46,800 - INFO - 添加新植物 Gentiana acaulis 到数据库
+2025-03-26 13:14:51,574 - INFO - 添加新植物 Gentiana alpina 到数据库
+2025-03-26 13:14:55,469 - INFO - 添加新植物 Gentiana burseri 到数据库
+2025-03-26 13:15:04,369 - INFO - 添加新植物 Gentiana cruciata 到数据库
+2025-03-26 13:15:11,083 - INFO - 添加新植物 Gentiana lutea 到数据库
+2025-03-26 13:15:18,489 - INFO - 添加新植物 Gentiana nivalis 到数据库
+2025-03-26 13:15:25,491 - INFO - 添加新植物 Gentiana pneumonanthe 到数据库
+2025-03-26 13:15:33,175 - INFO - 添加新植物 Gentiana purpurea 到数据库
+2025-03-26 13:15:39,967 - INFO - 添加新植物 Gentiana pyrenaica 到数据库
+2025-03-26 13:15:47,679 - INFO - 添加新植物 Gentiana verna 到数据库
+2025-03-26 13:15:55,411 - INFO - 添加新植物 Gentianella campestris 到数据库
+2025-03-26 13:16:02,956 - INFO - 添加新植物 Gentianopsis ciliata 到数据库
+2025-03-26 13:16:08,668 - INFO - 添加新植物 Geranium columbinum 到数据库
+2025-03-26 13:16:14,269 - INFO - 添加新植物 Geranium dissectum 到数据库
+2025-03-26 13:16:20,711 - INFO - 添加新植物 Geranium lucidum 到数据库
+2025-03-26 13:16:29,235 - INFO - 添加新植物 Geranium molle 到数据库
+2025-03-26 13:16:36,753 - INFO - 添加新植物 Geranium nodosum 到数据库
+2025-03-26 13:16:44,690 - INFO - 添加新植物 Geranium phaeum 到数据库
+2025-03-26 13:16:53,097 - INFO - 添加新植物 Geranium pratense 到数据库
+2025-03-26 13:16:58,643 - INFO - 添加新植物 Geranium pusillum 到数据库
+2025-03-26 13:17:03,073 - INFO - 添加新植物 Geranium pyrenaicum 到数据库
+2025-03-26 13:17:11,639 - INFO - 添加新植物 Geranium robertianum 到数据库
+2025-03-26 13:17:19,270 - INFO - 添加新植物 Geranium rotundifolium 到数据库
+2025-03-26 13:17:28,614 - INFO - 添加新植物 Geranium sanguineum 到数据库
+2025-03-26 13:17:36,140 - INFO - 添加新植物 Geranium sylvaticum 到数据库
+2025-03-26 13:17:43,016 - INFO - 添加新植物 Geropogon hybridus 到数据库
+2025-03-26 13:17:51,245 - INFO - 添加新植物 Geum montanum 到数据库
+2025-03-26 13:18:01,615 - INFO - 添加新植物 Geum reptans 到数据库
+2025-03-26 13:18:09,720 - INFO - 添加新植物 Geum rivale 到数据库
+2025-03-26 13:18:15,394 - INFO - 添加新植物 Geum urbanum 到数据库
+2025-03-26 13:18:21,242 - INFO - 添加新植物 Ginkgo biloba 到数据库
+2025-03-26 13:18:28,482 - INFO - 添加新植物 Gladiolus italicus 到数据库
+2025-03-26 13:18:32,582 - INFO - 添加新植物 Glaucium flavum 到数据库
+2025-03-26 13:18:38,366 - INFO - 添加新植物 Glechoma hederacea 到数据库
+2025-03-26 13:18:44,596 - INFO - 添加新植物 Gleditsia triacanthos 到数据库
+2025-03-26 13:18:46,799 - INFO - 批次完成，等待 0.8 分钟后开始下一批次...
+2025-03-26 13:19:32,937 - INFO - 开始处理第 9/20 批次，共 100 个植物
+2025-03-26 13:19:32,938 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_1) App...
+2025-03-26 13:19:32,938 - INFO - ====== WebDriver manager ======
+2025-03-26 13:19:38,253 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:19:39,225 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:19:40,051 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 13:19:48,364 - INFO - 添加新植物 Globularia alypum 到数据库
+2025-03-26 13:19:53,568 - INFO - 添加新植物 Globularia bisnagarica 到数据库
+2025-03-26 13:19:58,970 - INFO - 添加新植物 Globularia repens 到数据库
+2025-03-26 13:20:06,906 - INFO - 添加新植物 Gomphocarpus fruticosus 到数据库
+2025-03-26 13:20:11,573 - INFO - 添加新植物 Gomphocarpus integer 到数据库
+2025-03-26 13:20:19,153 - INFO - 添加新植物 Gomphocarpus physocarpus 到数据库
+2025-03-26 13:20:26,218 - INFO - 添加新植物 Goniolimon tataricum 到数据库
+2025-03-26 13:20:30,414 - INFO - 添加新植物 Groenlandia densa 到数据库
+2025-03-26 13:20:37,071 - INFO - 添加新植物 Guaiacum officinale 到数据库
+2025-03-26 13:20:43,532 - INFO - 添加新植物 Guaiacum sanctum 到数据库
+2025-03-26 13:20:49,383 - INFO - 添加新植物 Guarea gomma 到数据库
+2025-03-26 13:20:55,816 - INFO - 添加新植物 Guatteria aeruginosa 到数据库
+2025-03-26 13:21:02,189 - INFO - 添加新植物 Guatteria amplifolia 到数据库
+2025-03-26 13:21:07,113 - INFO - 添加新植物 Guatteria anteridifera 到数据库
+2025-03-26 13:21:12,003 - INFO - 添加新植物 Guatteria citriodora 到数据库
+2025-03-26 13:21:17,492 - INFO - 添加新植物 Guatteria dolichopoda 到数据库
+2025-03-26 13:21:24,045 - INFO - 添加新植物 Guatteria punctata 到数据库
+2025-03-26 13:21:29,261 - INFO - 添加新植物 Guizotia abyssinica 到数据库
+2025-03-26 13:21:36,564 - INFO - 添加新植物 Gymnadenia conopsea 到数据库
+2025-03-26 13:21:40,486 - INFO - 添加新植物 Gymnadenia nigra 到数据库
+2025-03-26 13:21:45,934 - INFO - 添加新植物 Gymnosporia putterlickioides 到数据库
+2025-03-26 13:21:52,086 - INFO - 添加新植物 Gynura aurantiaca 到数据库
+2025-03-26 13:21:59,176 - INFO - 添加新植物 Gynura procumbens 到数据库
+2025-03-26 13:22:02,859 - INFO - 添加新植物 Hackelia velutina 到数据库
+2025-03-26 13:22:08,055 - INFO - 添加新植物 Haplophyton crooksii 到数据库
+2025-03-26 13:22:13,724 - INFO - 添加新植物 Harpachne schimperi 到数据库
+2025-03-26 13:22:19,679 - INFO - 添加新植物 Hebe andersonii 到数据库
+2025-03-26 13:22:23,794 - INFO - 添加新植物 Hebe brachysiphon 到数据库
+2025-03-26 13:22:28,616 - INFO - 添加新植物 Hebe franciscana 到数据库
+2025-03-26 13:22:32,753 - INFO - 添加新植物 Hebe ochracea 到数据库
+2025-03-26 13:22:39,296 - INFO - 添加新植物 Hebe salicifolia 到数据库
+2025-03-26 13:22:44,322 - INFO - 添加新植物 Hedera helix 到数据库
+2025-03-26 13:22:49,441 - INFO - 添加新植物 Helianthemum apenninum 到数据库
+2025-03-26 13:22:54,207 - INFO - 添加新植物 Helianthemum nummularium 到数据库
+2025-03-26 13:23:00,576 - INFO - 添加新植物 Helianthus annuus 到数据库
+2025-03-26 13:23:04,865 - INFO - 添加新植物 Helichrysum stoechas 到数据库
+2025-03-26 13:23:11,677 - INFO - 添加新植物 Helicodiceros muscivorus 到数据库
+2025-03-26 13:23:18,400 - INFO - 添加新植物 Heliotropium europaeum 到数据库
+2025-03-26 13:23:26,088 - INFO - 添加新植物 Helleborus foetidus 到数据库
+2025-03-26 13:23:30,696 - INFO - 添加新植物 Helleborus viridis 到数据库
+2025-03-26 13:23:36,807 - INFO - 添加新植物 Helminthotheca echioides 到数据库
+2025-03-26 13:23:41,394 - INFO - 添加新植物 Hemerocallis fulva 到数据库
+2025-03-26 13:23:46,910 - INFO - 添加新植物 Hepatica nobilis 到数据库
+2025-03-26 13:23:52,081 - INFO - 添加新植物 Heracleum pyrenaicum 到数据库
+2025-03-26 13:23:57,167 - INFO - 添加新植物 Heracleum sphondylium 到数据库
+2025-03-26 13:24:04,122 - INFO - 添加新植物 Herbertia lahue 到数据库
+2025-03-26 13:24:09,325 - INFO - 添加新植物 Hernandia cordigera 到数据库
+2025-03-26 13:24:14,837 - INFO - 添加新植物 Hernandia mascarenensis 到数据库
+2025-03-26 13:24:19,755 - INFO - 添加新植物 Hernandia nymphaeifolia 到数据库
+2025-03-26 13:24:25,822 - INFO - 添加新植物 Hesperis matronalis 到数据库
+2025-03-26 13:24:31,547 - INFO - 添加新植物 Heteromorpha arborescens 到数据库
+2025-03-26 13:24:38,898 - INFO - 添加新植物 Hibiscus rosa-sinensis 到数据库
+2025-03-26 13:24:45,095 - INFO - 添加新植物 Hibiscus syriacus 到数据库
+2025-03-26 13:24:49,710 - INFO - 添加新植物 Himantoglossum hircinum 到数据库
+2025-03-26 13:24:54,245 - INFO - 添加新植物 Himantoglossum robertianum 到数据库
+2025-03-26 13:25:01,013 - INFO - 添加新植物 Hippocrepis comosa 到数据库
+2025-03-26 13:25:06,261 - INFO - 添加新植物 Hippocrepis emerus 到数据库
+2025-03-26 13:25:11,241 - INFO - 添加新植物 Hippophae rhamnoides 到数据库
+2025-03-26 13:25:16,593 - INFO - 添加新植物 Holcus lanatus 到数据库
+2025-03-26 13:25:21,938 - INFO - 添加新植物 Holodiscus discolor 到数据库
+2025-03-26 13:25:25,964 - INFO - 添加新植物 Homogyne alpina 到数据库
+2025-03-26 13:25:32,619 - INFO - 添加新植物 Honckenya peploides 到数据库
+2025-03-26 13:25:39,209 - INFO - 添加新植物 Hormathophylla spinosa 到数据库
+2025-03-26 13:25:45,044 - INFO - 添加新植物 Humulus lupulus 到数据库
+2025-03-26 13:25:49,366 - INFO - 添加新植物 Hunnemannia fumariifolia 到数据库
+2025-03-26 13:26:03,498 - ERROR - 植物 Hyacinthoides non-scripta 抓取失败: 页面加载超时或植物不存在
+2025-03-26 13:26:08,362 - INFO - 添加新植物 Hydrangea macrophylla 到数据库
+2025-03-26 13:26:13,700 - INFO - 添加新植物 Hylotelephium telephium 到数据库
+2025-03-26 13:26:20,242 - INFO - 添加新植物 Hyoscyamus albus 到数据库
+2025-03-26 13:26:25,271 - INFO - 添加新植物 Hyoscyamus niger 到数据库
+2025-03-26 13:26:29,003 - INFO - 添加新植物 Hyoseris radiata 到数据库
+2025-03-26 13:26:35,494 - INFO - 添加新植物 Hyparrhenia hirta 到数据库
+2025-03-26 13:26:42,571 - INFO - 添加新植物 Hypericum androsaemum 到数据库
+2025-03-26 13:26:48,065 - INFO - 添加新植物 Hypericum annulatum 到数据库
+2025-03-26 13:26:53,096 - INFO - 添加新植物 Hypericum australe 到数据库
+2025-03-26 13:26:58,401 - INFO - 添加新植物 Hypericum balearicum 到数据库
+2025-03-26 13:27:06,292 - INFO - 添加新植物 Hypericum calycinum 到数据库
+2025-03-26 13:27:13,307 - INFO - 添加新植物 Hypericum canariense 到数据库
+2025-03-26 13:27:19,862 - INFO - 添加新植物 Hypericum coris 到数据库
+2025-03-26 13:27:25,323 - INFO - 添加新植物 Hypericum elodes 到数据库
+2025-03-26 13:27:32,164 - INFO - 添加新植物 Hypericum empetrifolium 到数据库
+2025-03-26 13:27:39,591 - INFO - 添加新植物 Hypericum frondosum 到数据库
+2025-03-26 13:27:45,094 - INFO - 添加新植物 Hypericum hircinum 到数据库
+2025-03-26 13:27:50,105 - INFO - 添加新植物 Hypericum hirsutum 到数据库
+2025-03-26 13:27:55,656 - INFO - 添加新植物 Hypericum humifusum 到数据库
+2025-03-26 13:28:02,318 - INFO - 添加新植物 Hypericum hypericoides 到数据库
+2025-03-26 13:28:08,934 - INFO - 添加新植物 Hypericum hyssopifolium 到数据库
+2025-03-26 13:28:14,651 - INFO - 添加新植物 Hypericum kalmianum 到数据库
+2025-03-26 13:28:21,764 - INFO - 添加新植物 Hypericum lanceolatum 到数据库
+2025-03-26 13:28:27,028 - INFO - 添加新植物 Hypericum linariifolium 到数据库
+2025-03-26 13:28:33,340 - INFO - 添加新植物 Hypericum maculatum 到数据库
+2025-03-26 13:28:39,261 - INFO - 添加新植物 Hypericum montanum 到数据库
+2025-03-26 13:28:43,701 - INFO - 添加新植物 Hypericum mutilum 到数据库
+2025-03-26 13:28:50,482 - INFO - 添加新植物 Hypericum nummularium 到数据库
+2025-03-26 13:28:56,137 - INFO - 添加新植物 Hypericum olympicum 到数据库
+2025-03-26 13:29:03,127 - INFO - 添加新植物 Hypericum patulum 到数据库
+2025-03-26 13:29:09,467 - INFO - 添加新植物 Hypericum perfoliatum 到数据库
+2025-03-26 13:29:16,313 - INFO - 添加新植物 Hypericum perforatum 到数据库
+2025-03-26 13:29:27,370 - INFO - 添加新植物 Hypericum prolificum 到数据库
+2025-03-26 13:29:33,008 - INFO - 添加新植物 Hypericum pulchrum 到数据库
+2025-03-26 13:29:35,174 - INFO - 批次完成，等待 0.5 分钟后开始下一批次...
+2025-03-26 13:30:07,426 - INFO - 开始处理第 10/20 批次，共 100 个植物
+2025-03-26 13:30:07,426 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0...
+2025-03-26 13:30:07,427 - INFO - ====== WebDriver manager ======
+2025-03-26 13:30:09,737 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:30:11,079 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:30:11,781 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 13:30:19,760 - INFO - 添加新植物 Hypericum punctatum 到数据库
+2025-03-26 13:30:26,811 - INFO - 添加新植物 Hypericum revolutum 到数据库
+2025-03-26 13:30:31,481 - INFO - 添加新植物 Hypericum richeri 到数据库
+2025-03-26 13:30:37,759 - INFO - 添加新植物 Hypericum tetrapetalum 到数据库
+2025-03-26 13:30:41,784 - INFO - 添加新植物 Hypericum tetrapterum 到数据库
+2025-03-26 13:30:45,462 - INFO - 添加新植物 Hypericum tomentosum 到数据库
+2025-03-26 13:30:49,909 - INFO - 添加新植物 Hypericum triquetrifolium 到数据库
+2025-03-26 13:30:55,969 - INFO - 添加新植物 Hypericum x hidcoteense 到数据库
+2025-03-26 13:30:58,638 - INFO - 添加新植物 Hypericum x inodorum 到数据库
+2025-03-26 13:31:03,090 - INFO - 添加新植物 Hypochaeris radicata 到数据库
+2025-03-26 13:31:08,524 - INFO - 添加新植物 Ibicella lutea 到数据库
+2025-03-26 13:31:17,420 - INFO - 添加新植物 Ilex aquifolium 到数据库
+2025-03-26 13:31:41,923 - INFO - 添加新植物 Illicium floridanum 到数据库
+2025-03-26 13:31:48,860 - INFO - 添加新植物 Illicium verum 到数据库
+2025-03-26 13:31:51,828 - INFO - 添加新植物 Impatiens balfouri 到数据库
+2025-03-26 13:32:01,417 - INFO - 添加新植物 Impatiens glandulifera 到数据库
+2025-03-26 13:32:05,654 - INFO - 添加新植物 Imperatoria ostruthium 到数据库
+2025-03-26 13:32:10,168 - INFO - 添加新植物 Inula conyza 到数据库
+2025-03-26 13:32:16,590 - INFO - 添加新植物 Iris foetidissima 到数据库
+2025-03-26 13:32:23,754 - INFO - 添加新植物 Iris lutescens 到数据库
+2025-03-26 13:32:32,155 - INFO - 添加新植物 Iris pseudacorus 到数据库
+2025-03-26 13:32:43,140 - INFO - 添加新植物 Isatis tinctoria 到数据库
+2025-03-26 13:32:46,968 - INFO - 添加新植物 Iva annua 到数据库
+2025-03-26 13:32:52,003 - INFO - 添加新植物 Iva frutescens 到数据库
+2025-03-26 13:32:56,351 - INFO - 添加新植物 Iva xanthiifolia 到数据库
+2025-03-26 13:33:02,537 - INFO - 添加新植物 Jacobaea adonidifolia 到数据库
+2025-03-26 13:33:08,296 - INFO - 添加新植物 Jacobaea erucifolia 到数据库
+2025-03-26 13:33:16,225 - INFO - 添加新植物 Jacobaea maritima 到数据库
+2025-03-26 13:33:22,157 - INFO - 添加新植物 Jacobaea vulgaris 到数据库
+2025-03-26 13:33:29,834 - INFO - 添加新植物 Jasione montana 到数据库
+2025-03-26 13:33:35,129 - INFO - 添加新植物 Jasminum fruticans 到数据库
+2025-03-26 13:33:41,254 - INFO - 添加新植物 Juglans nigra 到数据库
+2025-03-26 13:33:51,216 - INFO - 添加新植物 Juglans regia 到数据库
+2025-03-26 13:33:55,490 - INFO - 添加新植物 Juncus bulbosus 到数据库
+2025-03-26 13:34:04,075 - INFO - 添加新植物 Juncus effusus 到数据库
+2025-03-26 13:34:10,364 - INFO - 添加新植物 Juncus gerardi 到数据库
+2025-03-26 13:34:17,228 - INFO - 添加新植物 Juniperus communis 到数据库
+2025-03-26 13:34:25,420 - INFO - 添加新植物 Juniperus oxycedrus 到数据库
+2025-03-26 13:34:32,036 - INFO - 添加新植物 Juniperus phoenicea 到数据库
+2025-03-26 13:34:41,139 - INFO - 添加新植物 Juniperus sabina 到数据库
+2025-03-26 13:34:48,382 - INFO - 添加新植物 Keckiella cordifolia 到数据库
+2025-03-26 13:34:55,262 - INFO - 添加新植物 Kerria japonica 到数据库
+2025-03-26 13:35:01,397 - INFO - 添加新植物 Kickxia spuria 到数据库
+2025-03-26 13:35:07,462 - INFO - 添加新植物 Kigelia africana 到数据库
+2025-03-26 13:35:13,179 - INFO - 添加新植物 Knautia arvensis 到数据库
+2025-03-26 13:35:15,729 - INFO - 添加新植物 Knautia maxima 到数据库
+2025-03-26 13:35:22,836 - INFO - 添加新植物 Kniphofia linearifolia 到数据库
+2025-03-26 13:35:29,935 - INFO - 添加新植物 Kniphofia uvaria 到数据库
+2025-03-26 13:35:37,857 - INFO - 添加新植物 Koelreuteria paniculata 到数据库
+2025-03-26 13:35:43,948 - INFO - 添加新植物 Laburnum anagyroides 到数据库
+2025-03-26 13:35:47,975 - INFO - 添加新植物 Lactuca alpina 到数据库
+2025-03-26 13:35:53,428 - INFO - 添加新植物 Lactuca biennis 到数据库
+2025-03-26 13:35:59,933 - INFO - 添加新植物 Lactuca canadensis 到数据库
+2025-03-26 13:36:05,770 - INFO - 添加新植物 Lactuca floridana 到数据库
+2025-03-26 13:36:11,628 - INFO - 添加新植物 Lactuca macrophylla 到数据库
+2025-03-26 13:36:17,970 - INFO - 添加新植物 Lactuca muralis 到数据库
+2025-03-26 13:36:23,100 - INFO - 添加新植物 Lactuca perennis 到数据库
+2025-03-26 13:36:28,185 - INFO - 添加新植物 Lactuca plumieri 到数据库
+2025-03-26 13:36:32,718 - INFO - 添加新植物 Lactuca saligna 到数据库
+2025-03-26 13:36:39,676 - INFO - 添加新植物 Lactuca sativa 到数据库
+2025-03-26 13:36:44,830 - INFO - 添加新植物 Lactuca serriola 到数据库
+2025-03-26 13:36:49,560 - INFO - 添加新植物 Lactuca tenerrima 到数据库
+2025-03-26 13:36:53,596 - INFO - 添加新植物 Lactuca viminea 到数据库
+2025-03-26 13:36:58,396 - INFO - 添加新植物 Lactuca virosa 到数据库
+2025-03-26 13:37:04,856 - INFO - 添加新植物 Lagenaria siceraria 到数据库
+2025-03-26 13:37:11,565 - INFO - 添加新植物 Lagenaria sphaerica 到数据库
+2025-03-26 13:37:18,454 - INFO - 添加新植物 Lagurus ovatus 到数据库
+2025-03-26 13:37:23,934 - INFO - 添加新植物 Lamium album 到数据库
+2025-03-26 13:37:29,969 - INFO - 添加新植物 Lamium amplexicaule 到数据库
+2025-03-26 13:37:35,486 - INFO - 添加新植物 Lamium bifidum 到数据库
+2025-03-26 13:37:42,993 - INFO - 添加新植物 Lamium flexuosum 到数据库
+2025-03-26 13:37:50,314 - INFO - 添加新植物 Lamium galeobdolon 到数据库
+2025-03-26 13:37:56,222 - INFO - 添加新植物 Lamium garganicum 到数据库
+2025-03-26 13:38:01,264 - INFO - 添加新植物 Lamium hybridum 到数据库
+2025-03-26 13:38:09,441 - INFO - 添加新植物 Lamium maculatum 到数据库
+2025-03-26 13:38:15,634 - INFO - 添加新植物 Lamium orvala 到数据库
+2025-03-26 13:38:22,412 - INFO - 添加新植物 Lamium purpureum 到数据库
+2025-03-26 13:38:27,770 - INFO - 添加新植物 Lantana camara 到数据库
+2025-03-26 13:38:35,295 - INFO - 添加新植物 Lapageria rosea 到数据库
+2025-03-26 13:38:42,522 - INFO - 添加新植物 Lapsana communis 到数据库
+2025-03-26 13:38:49,830 - INFO - 添加新植物 Larix decidua 到数据库
+2025-03-26 13:38:58,207 - INFO - 添加新植物 Lathraea clandestina 到数据库
+2025-03-26 13:39:06,079 - INFO - 添加新植物 Lathraea squamaria 到数据库
+2025-03-26 13:39:11,535 - INFO - 添加新植物 Lathyrus cicera 到数据库
+2025-03-26 13:39:19,281 - INFO - 添加新植物 Lathyrus latifolius 到数据库
+2025-03-26 13:39:25,131 - INFO - 添加新植物 Lathyrus pratensis 到数据库
+2025-03-26 13:39:32,437 - INFO - 添加新植物 Lathyrus sylvestris 到数据库
+2025-03-26 13:39:40,660 - INFO - 添加新植物 Laurus nobilis 到数据库
+2025-03-26 13:39:50,766 - INFO - 添加新植物 Lavandula angustifolia 到数据库
+2025-03-26 13:39:58,629 - INFO - 添加新植物 Lavandula canariensis 到数据库
+2025-03-26 13:40:05,262 - INFO - 添加新植物 Lavandula dentata 到数据库
+2025-03-26 13:40:14,636 - INFO - 添加新植物 Lavandula latifolia 到数据库
+2025-03-26 13:40:21,484 - INFO - 添加新植物 Lavandula minutolii 到数据库
+2025-03-26 13:40:33,554 - INFO - 添加新植物 Lavandula multifida 到数据库
+2025-03-26 13:40:42,470 - INFO - 添加新植物 Lavandula pinnata 到数据库
+2025-03-26 13:40:48,365 - INFO - 添加新植物 Lavandula spp 到数据库
+2025-03-26 13:40:54,782 - INFO - 添加新植物 Lavandula stoechas 到数据库
+2025-03-26 13:40:59,637 - INFO - 添加新植物 Lavandula x intermedia 到数据库
+2025-03-26 13:41:07,415 - INFO - 添加新植物 Leersia oryzoides 到数据库
+2025-03-26 13:41:12,664 - INFO - 添加新植物 Leersia virginica 到数据库
+2025-03-26 13:41:14,974 - INFO - 批次完成，等待 0.5 分钟后开始下一批次...
+2025-03-26 13:41:47,771 - INFO - 开始处理第 11/20 批次，共 100 个植物
+2025-03-26 13:41:47,772 - INFO - 使用新的User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKi...
+2025-03-26 13:41:47,772 - INFO - ====== WebDriver manager ======
+2025-03-26 13:41:51,716 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:41:52,541 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:41:53,293 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 13:42:01,814 - INFO - 添加新植物 Legousia speculum-veneris 到数据库
+2025-03-26 13:42:06,595 - INFO - 添加新植物 Leonitis nepetifolia 到数据库
+2025-03-26 13:42:12,313 - INFO - 添加新植物 Leontodon hispidus 到数据库
+2025-03-26 13:42:19,057 - INFO - 添加新植物 Leontopodium nivale 到数据库
+2025-03-26 13:42:25,311 - INFO - 添加新植物 Lepidium draba 到数据库
+2025-03-26 13:42:34,066 - INFO - 添加新植物 Leptinella potentillina 到数据库
+2025-03-26 13:42:40,018 - INFO - 添加新植物 Leucanthemopsis alpina 到数据库
+2025-03-26 13:42:46,448 - INFO - 添加新植物 Leucanthemum vulgare 到数据库
+2025-03-26 13:42:54,628 - INFO - 添加新植物 Leucophyta brownii 到数据库
+2025-03-26 13:42:59,751 - INFO - 添加新植物 Ligustrum vulgare 到数据库
+2025-03-26 13:43:07,828 - INFO - 添加新植物 Lilium martagon 到数据库
+2025-03-26 13:43:14,297 - INFO - 添加新植物 Lilium pyrenaicum 到数据库
+2025-03-26 13:43:18,798 - INFO - 添加新植物 Limbarda crithmoides 到数据库
+2025-03-26 13:43:29,285 - INFO - 添加新植物 Limnanthes douglasii 到数据库
+2025-03-26 13:43:37,161 - INFO - 添加新植物 Limodorum abortivum 到数据库
+2025-03-26 13:43:43,916 - INFO - 添加新植物 Limonia acidissima 到数据库
+2025-03-26 13:43:51,427 - INFO - 添加新植物 Limoniastrum monopetalum 到数据库
+2025-03-26 13:43:58,303 - INFO - 添加新植物 Limonium narbonense 到数据库
+2025-03-26 13:44:02,933 - INFO - 添加新植物 Limonium vulgare 到数据库
+2025-03-26 13:44:08,203 - INFO - 添加新植物 Linaria alpina 到数据库
+2025-03-26 13:44:14,155 - INFO - 添加新植物 Linaria repens 到数据库
+2025-03-26 13:44:20,812 - INFO - 添加新植物 Linaria supina 到数据库
+2025-03-26 13:44:28,880 - INFO - 添加新植物 Linaria vulgaris 到数据库
+2025-03-26 13:44:35,610 - INFO - 添加新植物 Linum campanulatum 到数据库
+2025-03-26 13:44:41,459 - INFO - 添加新植物 Linum narbonense 到数据库
+2025-03-26 13:44:49,677 - INFO - 添加新植物 Linum suffruticosum 到数据库
+2025-03-26 13:44:59,771 - INFO - 添加新植物 Linum usitatissimum 到数据库
+2025-03-26 13:45:03,544 - INFO - 添加新植物 Lippia triphylla 到数据库
+2025-03-26 13:45:10,832 - INFO - 添加新植物 Liquidambar styraciflua 到数据库
+2025-03-26 13:45:15,261 - INFO - 添加新植物 Liriodendron chinensis 到数据库
+2025-03-26 13:45:23,155 - INFO - 添加新植物 Liriodendron tulipifera 到数据库
+2025-03-26 13:45:31,003 - INFO - 添加新植物 Liriope muscari 到数据库
+2025-03-26 13:45:36,813 - INFO - 添加新植物 Lithodora fruticosa 到数据库
+2025-03-26 13:45:43,541 - INFO - 添加新植物 Lithops aucampiae 到数据库
+2025-03-26 13:45:51,717 - INFO - 添加新植物 Lithops fulviceps 到数据库
+2025-03-26 13:46:01,529 - INFO - 添加新植物 Lithops karasmontana 到数据库
+2025-03-26 13:46:10,532 - INFO - 添加新植物 Lithops marmorata 到数据库
+2025-03-26 13:46:18,272 - INFO - 添加新植物 Lithops olivacea 到数据库
+2025-03-26 13:46:27,403 - INFO - 添加新植物 Lithops pseudotruncatella 到数据库
+2025-03-26 13:46:34,053 - INFO - 添加新植物 Lithops spp 到数据库
+2025-03-26 13:46:45,074 - INFO - 添加新植物 Lithospermum officinale 到数据库
+2025-03-26 13:46:51,821 - INFO - 添加新植物 Lobularia maritima 到数据库
+2025-03-26 13:47:02,900 - INFO - 添加新植物 Lomatia ferruginea 到数据库
+2025-03-26 13:47:07,029 - INFO - 添加新植物 Loncomelos pyrenaicus 到数据库
+2025-03-26 13:47:16,477 - INFO - 添加新植物 Lonicera alpigena 到数据库
+2025-03-26 13:47:24,212 - INFO - 添加新植物 Lonicera etrusca 到数据库
+2025-03-26 13:47:30,047 - INFO - 添加新植物 Lonicera implexa 到数据库
+2025-03-26 13:47:38,649 - INFO - 添加新植物 Lonicera periclymenum 到数据库
+2025-03-26 13:47:44,930 - INFO - 添加新植物 Lonicera xylosteum 到数据库
+2025-03-26 13:47:55,128 - INFO - 添加新植物 Loropetalum chinense 到数据库
+2025-03-26 13:48:04,397 - INFO - 添加新植物 Lotus corniculatus 到数据库
+2025-03-26 13:48:11,819 - INFO - 添加新植物 Lotus edulis 到数据库
+2025-03-26 13:48:19,309 - INFO - 添加新植物 Lotus maritimus 到数据库
+2025-03-26 13:48:27,080 - INFO - 添加新植物 Luffa acutangula 到数据库
+2025-03-26 13:48:32,288 - INFO - 添加新植物 Luffa cylindrica 到数据库
+2025-03-26 13:48:41,284 - INFO - 添加新植物 Lunaria annua 到数据库
+2025-03-26 13:48:52,928 - INFO - 添加新植物 Lupinus albifrons 到数据库
+2025-03-26 13:49:00,465 - INFO - 添加新植物 Lupinus albus 到数据库
+2025-03-26 13:49:09,483 - INFO - 添加新植物 Lupinus angustifolius 到数据库
+2025-03-26 13:49:18,025 - INFO - 添加新植物 Lupinus arboreus 到数据库
+2025-03-26 13:49:26,885 - INFO - 添加新植物 Lupinus argenteus 到数据库
+2025-03-26 13:49:37,423 - INFO - 添加新植物 Lupinus bicolor 到数据库
+2025-03-26 13:49:45,927 - INFO - 添加新植物 Lupinus chamissonis 到数据库
+2025-03-26 13:49:53,665 - INFO - 添加新植物 Lupinus cosentinii 到数据库
+2025-03-26 13:50:00,264 - INFO - 添加新植物 Lupinus diffusus 到数据库
+2025-03-26 13:50:07,258 - INFO - 添加新植物 Lupinus formosus 到数据库
+2025-03-26 13:50:11,540 - INFO - 添加新植物 Lupinus hirsutissimus 到数据库
+2025-03-26 13:50:18,640 - INFO - 添加新植物 Lupinus luteus 到数据库
+2025-03-26 13:50:28,488 - INFO - 添加新植物 Lupinus micranthus 到数据库
+2025-03-26 13:50:33,002 - INFO - 添加新植物 Lupinus nootkatensis 到数据库
+2025-03-26 13:50:38,718 - INFO - 添加新植物 Lupinus perennis 到数据库
+2025-03-26 13:50:44,201 - INFO - 添加新植物 Lupinus pilosus 到数据库
+2025-03-26 13:50:53,026 - INFO - 添加新植物 Lupinus polyphyllus 到数据库
+2025-03-26 13:50:56,700 - INFO - 添加新植物 Lupinus subcarnosus 到数据库
+2025-03-26 13:51:05,895 - INFO - 添加新植物 Lupinus texensis 到数据库
+2025-03-26 13:51:08,659 - INFO - 添加新植物 Lupinus x regalis 到数据库
+2025-03-26 13:51:18,019 - INFO - 添加新植物 Luzula campestris 到数据库
+2025-03-26 13:51:22,608 - INFO - 添加新植物 Lychnis coronaria 到数据库
+2025-03-26 13:51:31,182 - INFO - 添加新植物 Lychnis flos-cuculi 到数据库
+2025-03-26 13:51:34,993 - INFO - 添加新植物 Lycopsis arvensis 到数据库
+2025-03-26 13:51:42,921 - INFO - 添加新植物 Lycopus europaeus 到数据库
+2025-03-26 13:51:51,417 - INFO - 添加新植物 Lycoris radiata 到数据库
+2025-03-26 13:51:56,689 - INFO - 添加新植物 Lycoris squamigera 到数据库
+2025-03-26 13:52:02,965 - INFO - 添加新植物 Lyonothamnus floribundus 到数据库
+2025-03-26 13:52:10,621 - INFO - 添加新植物 Lysimachia arvensis 到数据库
+2025-03-26 13:52:15,172 - INFO - 添加新植物 Lysimachia nemorum 到数据库
+2025-03-26 13:52:22,679 - INFO - 添加新植物 Lysimachia vulgaris 到数据库
+2025-03-26 13:52:28,880 - INFO - 添加新植物 Lythrum salicaria 到数据库
+2025-03-26 13:52:31,724 - INFO - 添加新植物 Macrosyringion longiflorum 到数据库
+2025-03-26 13:52:36,396 - INFO - 添加新植物 Maerua angolensis 到数据库
+2025-03-26 13:52:40,721 - INFO - 添加新植物 Maerua triphylla 到数据库
+2025-03-26 13:52:47,190 - INFO - 添加新植物 Magnolia grandiflora 到数据库
+2025-03-26 13:52:56,883 - INFO - 添加新植物 Maianthemum bifolium 到数据库
+2025-03-26 13:53:04,739 - INFO - 添加新植物 Maianthemum canadense 到数据库
+2025-03-26 13:53:16,086 - INFO - 添加新植物 Maianthemum racemosum 到数据库
+2025-03-26 13:53:22,991 - INFO - 添加新植物 Maianthemum stellatum 到数据库
+2025-03-26 13:53:30,733 - INFO - 添加新植物 Maianthemum trifolium 到数据库
+2025-03-26 13:53:35,516 - INFO - 添加新植物 Malus domestica 到数据库
+2025-03-26 13:53:43,193 - INFO - 添加新植物 Malus sylvestris 到数据库
+2025-03-26 13:53:51,895 - INFO - 添加新植物 Malva arborea 到数据库
+2025-03-26 13:53:54,224 - INFO - 批次完成，等待 0.5 分钟后开始下一批次...
+2025-03-26 13:54:26,642 - INFO - 开始处理第 12/20 批次，共 100 个植物
+2025-03-26 13:54:26,642 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:9...
+2025-03-26 13:54:26,642 - INFO - ====== WebDriver manager ======
+2025-03-26 13:54:28,922 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:54:29,674 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 13:54:30,383 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 13:54:47,443 - INFO - 添加新植物 Malva moschata 到数据库
+2025-03-26 13:55:16,268 - INFO - 添加新植物 Malva neglecta 到数据库
+2025-03-26 13:55:24,086 - INFO - 添加新植物 Malva setigera 到数据库
+2025-03-26 13:55:34,724 - INFO - 添加新植物 Malva sylvestris 到数据库
+2025-03-26 13:55:39,336 - INFO - 添加新植物 Margaritopsis haematocarpa 到数据库
+2025-03-26 13:55:47,701 - INFO - 添加新植物 Matricaria chamomilla 到数据库
+2025-03-26 13:56:01,883 - INFO - 添加新植物 Matthiola incana 到数据库
+2025-03-26 13:56:11,299 - INFO - 添加新植物 Matthiola sinuata 到数据库
+2025-03-26 13:56:18,806 - INFO - 添加新植物 Maurandya barclayana 到数据库
+2025-03-26 13:56:31,534 - INFO - 添加新植物 Mauritia flexuosa 到数据库
+2025-03-26 13:56:43,048 - INFO - 添加新植物 Maytenus boaria 到数据库
+2025-03-26 13:56:48,689 - INFO - 添加新植物 Maytenus canariensis 到数据库
+2025-03-26 13:56:57,067 - INFO - 添加新植物 Maytenus ilicifolia 到数据库
+2025-03-26 13:57:09,249 - INFO - 添加新植物 Mazus pumilus 到数据库
+2025-03-26 13:57:20,242 - INFO - 添加新植物 Mecardonia procumbens 到数据库
+2025-03-26 13:57:25,270 - INFO - 添加新植物 Meconopsis cambrica 到数据库
+2025-03-26 13:57:36,071 - INFO - 添加新植物 Medicago arborea 到数据库
+2025-03-26 13:57:48,395 - INFO - 添加新植物 Medicago lupulina 到数据库
+2025-03-26 13:57:58,948 - INFO - 添加新植物 Medicago sativa 到数据库
+2025-03-26 13:58:13,455 - INFO - 添加新植物 Melampodium divaricatum 到数据库
+2025-03-26 13:58:20,148 - INFO - 添加新植物 Melampodium leucanthum 到数据库
+2025-03-26 13:58:25,225 - INFO - 添加新植物 Melampodium perfoliatum 到数据库
+2025-03-26 13:58:34,413 - INFO - 添加新植物 Melampyrum pratense 到数据库
+2025-03-26 13:58:42,085 - INFO - 添加新植物 Melia azedarach 到数据库
+2025-03-26 13:58:50,279 - INFO - 添加新植物 Melilotus albus 到数据库
+2025-03-26 13:58:54,659 - INFO - 添加新植物 Melilotus altissimus 到数据库
+2025-03-26 13:59:02,015 - INFO - 添加新植物 Melilotus indicus 到数据库
+2025-03-26 13:59:06,989 - INFO - 添加新植物 Melilotus italicus 到数据库
+2025-03-26 13:59:15,049 - INFO - 添加新植物 Melilotus officinalis 到数据库
+2025-03-26 13:59:18,272 - INFO - 添加新植物 Melilotus spicatus 到数据库
+2025-03-26 13:59:25,330 - INFO - 添加新植物 Melilotus sulcatus 到数据库
+2025-03-26 13:59:34,852 - INFO - 添加新植物 Melissa officinalis 到数据库
+2025-03-26 13:59:43,902 - INFO - 添加新植物 Melittis melissophyllum 到数据库
+2025-03-26 13:59:54,301 - INFO - 添加新植物 Mentha aquatica 到数据库
+2025-03-26 14:00:05,224 - INFO - 添加新植物 Mentha arvensis 到数据库
+2025-03-26 14:00:17,694 - INFO - 添加新植物 Mentha longifolia 到数据库
+2025-03-26 14:00:27,394 - INFO - 添加新植物 Mentha spicata 到数据库
+2025-03-26 14:00:36,355 - INFO - 添加新植物 Mentha suaveolens 到数据库
+2025-03-26 14:00:39,046 - INFO - 添加新植物 Mercurialis ambigua 到数据库
+2025-03-26 14:00:45,644 - INFO - 添加新植物 Mercurialis annua 到数据库
+2025-03-26 14:00:56,857 - INFO - 添加新植物 Mercurialis perennis 到数据库
+2025-03-26 14:01:03,376 - INFO - 添加新植物 Mercurialis tomentosa 到数据库
+2025-03-26 14:01:14,297 - INFO - 添加新植物 Mertensia ciliata 到数据库
+2025-03-26 14:01:23,220 - INFO - 添加新植物 Mertensia maritima 到数据库
+2025-03-26 14:01:30,276 - INFO - 添加新植物 Mertensia paniculata 到数据库
+2025-03-26 14:01:42,726 - INFO - 添加新植物 Mertensia virginica 到数据库
+2025-03-26 14:01:53,220 - INFO - 添加新植物 Metasequoia glyptostroboides 到数据库
+2025-03-26 14:02:03,618 - INFO - 添加新植物 Meum athamanticum 到数据库
+2025-03-26 14:02:08,285 - INFO - 添加新植物 Microchloa kunthii 到数据库
+2025-03-26 14:02:14,820 - INFO - 添加新植物 Microthlaspi perfoliatum 到数据库
+2025-03-26 14:02:25,164 - INFO - 添加新植物 Mirabilis jalapa 到数据库
+2025-03-26 14:02:32,490 - INFO - 添加新植物 Misopates orontium 到数据库
+2025-03-26 14:02:37,609 - INFO - 添加新植物 Mitella diphylla 到数据库
+2025-03-26 14:02:42,458 - INFO - 添加新植物 Moehringia ciliata 到数据库
+2025-03-26 14:02:50,011 - INFO - 添加新植物 Moehringia lateriflora 到数据库
+2025-03-26 14:02:57,594 - INFO - 添加新植物 Moehringia muscosa 到数据库
+2025-03-26 14:03:04,277 - INFO - 添加新植物 Moehringia pentandra 到数据库
+2025-03-26 14:03:10,168 - INFO - 添加新植物 Moehringia trinervia 到数据库
+2025-03-26 14:03:14,946 - INFO - 添加新植物 Monotropa hypopitys 到数据库
+2025-03-26 14:03:23,178 - INFO - 添加新植物 Montanoa hibiscifolia 到数据库
+2025-03-26 14:03:28,145 - INFO - 添加新植物 Morinda citrifolia 到数据库
+2025-03-26 14:03:35,030 - INFO - 添加新植物 Morus alba 到数据库
+2025-03-26 14:03:40,800 - INFO - 添加新植物 Morus kagayamae 到数据库
+2025-03-26 14:03:48,818 - INFO - 添加新植物 Muscari comosum 到数据库
+2025-03-26 14:03:56,038 - INFO - 添加新植物 Muscari neglectum 到数据库
+2025-03-26 14:04:00,858 - INFO - 添加新植物 Mussaenda arcuata 到数据库
+2025-03-26 14:04:07,458 - INFO - 添加新植物 Mussaenda erythrophylla 到数据库
+2025-03-26 14:04:12,866 - INFO - 添加新植物 Mussaenda frondosa 到数据库
+2025-03-26 14:04:20,783 - INFO - 添加新植物 Mussaenda philippica 到数据库
+2025-03-26 14:04:26,262 - INFO - 添加新植物 Mussaenda pubescens 到数据库
+2025-03-26 14:04:33,730 - INFO - 添加新植物 Myosotis alpestris 到数据库
+2025-03-26 14:04:41,902 - INFO - 添加新植物 Myosotis arvensis 到数据库
+2025-03-26 14:04:47,594 - INFO - 添加新植物 Myosotis scorpioides 到数据库
+2025-03-26 14:04:54,634 - INFO - 添加新植物 Myosoton aquaticum 到数据库
+2025-03-26 14:05:00,030 - INFO - 添加新植物 Myosurus minimus 到数据库
+2025-03-26 14:05:05,437 - INFO - 添加新植物 Myrtus communis 到数据库
+2025-03-26 14:05:11,516 - INFO - 添加新植物 Nandina domestica 到数据库
+2025-03-26 14:05:17,785 - INFO - 添加新植物 Narcissus assoanus 到数据库
+2025-03-26 14:05:21,872 - INFO - 添加新植物 Narcissus dubius 到数据库
+2025-03-26 14:05:30,170 - INFO - 添加新植物 Narcissus pseudonarcissus 到数据库
+2025-03-26 14:05:38,198 - INFO - 添加新植物 Narcissus tazetta 到数据库
+2025-03-26 14:05:44,916 - INFO - 添加新植物 Narthecium ossifragum 到数据库
+2025-03-26 14:05:55,649 - INFO - 添加新植物 Nasturtium officinale 到数据库
+2025-03-26 14:06:05,186 - INFO - 添加新植物 Neobuxbaumia polylopha 到数据库
+2025-03-26 14:06:14,388 - INFO - 添加新植物 Neolamarckia cadamba 到数据库
+2025-03-26 14:06:17,408 - INFO - 添加新植物 Neotinea conica 到数据库
+2025-03-26 14:06:21,915 - INFO - 添加新植物 Neotinea lactea 到数据库
+2025-03-26 14:06:26,444 - INFO - 添加新植物 Neotinea maculata 到数据库
+2025-03-26 14:06:33,781 - INFO - 添加新植物 Neotinea tridentata 到数据库
+2025-03-26 14:06:40,994 - INFO - 添加新植物 Neotinea ustulata 到数据库
+2025-03-26 14:06:47,532 - INFO - 添加新植物 Neottia nidus-avis 到数据库
+2025-03-26 14:06:55,803 - INFO - 添加新植物 Neottia ovata 到数据库
+2025-03-26 14:07:02,038 - INFO - 添加新植物 Nepenthes alata 到数据库
+2025-03-26 14:07:09,393 - INFO - 添加新植物 Nepenthes mirabilis 到数据库
+2025-03-26 14:07:14,249 - INFO - 添加新植物 Nepenthes spp 到数据库
+2025-03-26 14:07:21,198 - INFO - 添加新植物 Nepenthes truncata 到数据库
+2025-03-26 14:07:26,717 - INFO - 添加新植物 Nepenthes vieillardii 到数据库
+2025-03-26 14:07:31,258 - INFO - 添加新植物 Nepenthes x neglecta 到数据库
+2025-03-26 14:07:37,055 - INFO - 添加新植物 Nephrolepis abrupta 到数据库
+2025-03-26 14:07:44,541 - INFO - 添加新植物 Nephrolepis biserrata 到数据库
+2025-03-26 14:07:46,671 - INFO - 批次完成，等待 0.8 分钟后开始下一批次...
+2025-03-26 14:08:32,349 - INFO - 开始处理第 13/20 批次，共 100 个植物
+2025-03-26 14:08:32,349 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-03-26 14:08:32,350 - INFO - ====== WebDriver manager ======
+2025-03-26 14:08:34,502 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:08:35,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:08:36,216 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 14:08:57,665 - INFO - 添加新植物 Nephrolepis cordifolia 到数据库
+2025-03-26 14:09:29,922 - ERROR - 植物 Nephrolepis exaltata 抓取失败: 页面加载超时
+2025-03-26 14:10:03,424 - ERROR - 植物 Nephrolepis falcata 抓取失败: 页面加载超时
+2025-03-26 14:10:38,052 - ERROR - 植物 Nerium oleander 抓取失败: 页面加载超时
+2025-03-26 14:11:12,232 - ERROR - 植物 Nigella damascena 抓取失败: 页面加载超时
+2025-03-26 14:11:19,861 - INFO - 添加新植物 Noccaea caerulescens 到数据库
+2025-03-26 14:11:27,954 - INFO - 添加新植物 Noccaea montana 到数据库
+2025-03-26 14:11:37,780 - INFO - 添加新植物 Noccaea rotundifolia 到数据库
+2025-03-26 14:11:43,602 - INFO - 添加新植物 Nothofagus alpina 到数据库
+2025-03-26 14:11:51,108 - INFO - 添加新植物 Nothofagus antarctica 到数据库
+2025-03-26 14:11:56,072 - INFO - 添加新植物 Nothofagus betuloides 到数据库
+2025-03-26 14:12:04,405 - INFO - 添加新植物 Nothofagus dombeyi 到数据库
+2025-03-26 14:12:13,975 - INFO - 添加新植物 Nothofagus nitida 到数据库
+2025-03-26 14:12:20,541 - INFO - 添加新植物 Nothofagus obliqua 到数据库
+2025-03-26 14:12:26,565 - INFO - 添加新植物 Nothofagus pumilio 到数据库
+2025-03-26 14:12:33,522 - INFO - 添加新植物 Nyctaginia capitata 到数据库
+2025-03-26 14:12:40,423 - INFO - 添加新植物 Nymphaea alba 到数据库
+2025-03-26 14:12:46,358 - INFO - 添加新植物 Nymphaea ampla 到数据库
+2025-03-26 14:12:53,414 - INFO - 添加新植物 Nymphaea candida 到数据库
+2025-03-26 14:13:00,748 - INFO - 添加新植物 Nymphaea lotus 到数据库
+2025-03-26 14:13:06,573 - INFO - 添加新植物 Nymphaea mexicana 到数据库
+2025-03-26 14:13:14,454 - INFO - 添加新植物 Nymphaea nouchali 到数据库
+2025-03-26 14:13:22,562 - INFO - 添加新植物 Nymphaea odorata 到数据库
+2025-03-26 14:13:30,103 - INFO - 添加新植物 Nymphaea rubra 到数据库
+2025-03-26 14:13:35,062 - INFO - 添加新植物 Nymphaea tetragona 到数据库
+2025-03-26 14:13:39,418 - INFO - 添加新植物 Nymphoides indica 到数据库
+2025-03-26 14:13:44,799 - INFO - 添加新植物 Nymphoides peltata 到数据库
+2025-03-26 14:13:51,374 - INFO - 添加新植物 Odontites luteus 到数据库
+2025-03-26 14:13:55,705 - INFO - 添加新植物 Odontites vernus 到数据库
+2025-03-26 14:14:01,765 - INFO - 添加新植物 Oenanthe crocata 到数据库
+2025-03-26 14:14:08,375 - INFO - 添加新植物 Oenothera biennis 到数据库
+2025-03-26 14:14:15,405 - INFO - 添加新植物 Oenothera glazioviana 到数据库
+2025-03-26 14:14:22,141 - INFO - 添加新植物 Oldenlandia corymbosa 到数据库
+2025-03-26 14:14:29,353 - INFO - 添加新植物 Olea europaea 到数据库
+2025-03-26 14:14:34,775 - INFO - 添加新植物 Oncostema elongata 到数据库
+2025-03-26 14:14:38,895 - INFO - 添加新植物 Oncostema peruviana 到数据库
+2025-03-26 14:14:44,462 - INFO - 添加新植物 Onobrychis viciifolia 到数据库
+2025-03-26 14:14:48,765 - INFO - 添加新植物 Ononis minutissima 到数据库
+2025-03-26 14:14:55,513 - INFO - 添加新植物 Ononis natrix 到数据库
+2025-03-26 14:15:02,804 - INFO - 添加新植物 Ononis reclinata 到数据库
+2025-03-26 14:15:08,130 - INFO - 添加新植物 Ononis spinosa 到数据库
+2025-03-26 14:15:15,506 - INFO - 添加新植物 Onopordum acanthium 到数据库
+2025-03-26 14:15:20,778 - INFO - 添加新植物 Ophrys apifera 到数据库
+2025-03-26 14:15:27,044 - INFO - 添加新植物 Ophrys arachnitiformis 到数据库
+2025-03-26 14:15:30,485 - INFO - 添加新植物 Ophrys araneola 到数据库
+2025-03-26 14:15:34,383 - INFO - 添加新植物 Ophrys aranifera 到数据库
+2025-03-26 14:15:37,822 - INFO - 添加新植物 Ophrys aveyronensis 到数据库
+2025-03-26 14:15:41,417 - INFO - 添加新植物 Ophrys aymoninii 到数据库
+2025-03-26 14:15:48,165 - INFO - 添加新植物 Ophrys bertolonii 到数据库
+2025-03-26 14:15:55,333 - INFO - 添加新植物 Ophrys bombyliflora 到数据库
+2025-03-26 14:16:00,705 - INFO - 添加新植物 Ophrys catalaunica 到数据库
+2025-03-26 14:16:03,517 - INFO - 添加新植物 Ophrys druentica 到数据库
+2025-03-26 14:16:06,615 - INFO - 添加新植物 Ophrys exaltata 到数据库
+2025-03-26 14:16:15,770 - INFO - 添加新植物 Ophrys fuciflora 到数据库
+2025-03-26 14:16:21,705 - INFO - 添加新植物 Ophrys fusca 到数据库
+2025-03-26 14:16:24,810 - INFO - 添加新植物 Ophrys incubacea 到数据库
+2025-03-26 14:16:29,765 - INFO - 添加新植物 Ophrys insectifera 到数据库
+2025-03-26 14:16:34,858 - INFO - 添加新植物 Ophrys lunulata 到数据库
+2025-03-26 14:16:39,874 - INFO - 添加新植物 Ophrys lupercalis 到数据库
+2025-03-26 14:16:48,290 - INFO - 添加新植物 Ophrys lutea 到数据库
+2025-03-26 14:16:54,360 - INFO - 添加新植物 Ophrys morisii 到数据库
+2025-03-26 14:17:01,215 - INFO - 添加新植物 Ophrys occidentalis 到数据库
+2025-03-26 14:17:06,226 - INFO - 添加新植物 Ophrys passionis 到数据库
+2025-03-26 14:17:11,391 - INFO - 添加新植物 Ophrys provincialis 到数据库
+2025-03-26 14:17:16,330 - INFO - 添加新植物 Ophrys pseudoscolopax 到数据库
+2025-03-26 14:17:20,021 - INFO - 添加新植物 Ophrys saratoi 到数据库
+2025-03-26 14:17:29,425 - INFO - 添加新植物 Ophrys scolopax 到数据库
+2025-03-26 14:17:37,559 - INFO - 添加新植物 Ophrys speculum 到数据库
+2025-03-26 14:17:43,189 - INFO - 添加新植物 Ophrys sulcata 到数据库
+2025-03-26 14:17:51,610 - INFO - 添加新植物 Ophrys tenthredinifera 到数据库
+2025-03-26 14:17:57,365 - INFO - 添加新植物 Ophrys virescens 到数据库
+2025-03-26 14:18:07,204 - INFO - 添加新植物 Opuntia ficus-indica 到数据库
+2025-03-26 14:18:14,278 - INFO - 添加新植物 Orchis anthropophora 到数据库
+2025-03-26 14:18:20,084 - INFO - 添加新植物 Orchis mascula 到数据库
+2025-03-26 14:18:25,351 - INFO - 添加新植物 Orchis provincialis 到数据库
+2025-03-26 14:18:33,036 - INFO - 添加新植物 Orchis purpurea 到数据库
+2025-03-26 14:18:40,351 - INFO - 添加新植物 Orchis simia 到数据库
+2025-03-26 14:18:45,637 - INFO - 添加新植物 Oreopteris limbosperma 到数据库
+2025-03-26 14:19:00,302 - INFO - 添加新植物 Origanum vulgare 到数据库
+2025-03-26 14:19:11,742 - INFO - 添加新植物 Ornithogalum umbellatum 到数据库
+2025-03-26 14:19:17,613 - INFO - 添加新植物 Orobanche amethystea 到数据库
+2025-03-26 14:19:26,817 - INFO - 添加新植物 Orobanche caryophyllacea 到数据库
+2025-03-26 14:19:37,751 - INFO - 添加新植物 Orobanche gracilis 到数据库
+2025-03-26 14:19:46,558 - INFO - 添加新植物 Orobanche hederae 到数据库
+2025-03-26 14:19:59,459 - INFO - 添加新植物 Orobanche minor 到数据库
+2025-03-26 14:20:08,138 - INFO - 添加新植物 Orobanche rapum-genistae 到数据库
+2025-03-26 14:20:15,659 - INFO - 添加新植物 Osmunda cinnamomea 到数据库
+2025-03-26 14:20:24,165 - INFO - 添加新植物 Osmunda claytoniana 到数据库
+2025-03-26 14:20:32,005 - INFO - 添加新植物 Osmunda regalis 到数据库
+2025-03-26 14:20:40,688 - INFO - 添加新植物 Ostrya carpinifolia 到数据库
+2025-03-26 14:20:48,769 - INFO - 添加新植物 Othonna capensis 到数据库
+2025-03-26 14:20:58,073 - INFO - 添加新植物 Oxalis articulata 到数据库
+2025-03-26 14:21:08,395 - INFO - 添加新植物 Oxalis corniculata 到数据库
+2025-03-26 14:21:17,985 - INFO - 添加新植物 Oxydendrum arboreum 到数据库
+2025-03-26 14:21:26,370 - INFO - 添加新植物 Paederia foetida 到数据库
+2025-03-26 14:21:33,688 - INFO - 添加新植物 Paederota bonarota 到数据库
+2025-03-26 14:21:43,689 - INFO - 添加新植物 Paliurus spina-christi 到数据库
+2025-03-26 14:21:52,614 - INFO - 添加新植物 Pallenis spinosa 到数据库
+2025-03-26 14:22:00,415 - INFO - 添加新植物 Pancratium canariense 到数据库
+2025-03-26 14:22:07,336 - INFO - 添加新植物 Pancratium illyricum 到数据库
+2025-03-26 14:22:09,732 - INFO - 批次完成，等待 1.0 分钟后开始下一批次...
+2025-03-26 14:23:08,136 - INFO - 开始处理第 14/20 批次，共 100 个植物
+2025-03-26 14:23:08,137 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-03-26 14:23:08,137 - INFO - ====== WebDriver manager ======
+2025-03-26 14:23:11,894 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:23:12,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:23:13,555 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 14:23:28,410 - INFO - 添加新植物 Pancratium maritimum 到数据库
+2025-03-26 14:23:38,063 - INFO - 添加新植物 Papaver alpinum 到数据库
+2025-03-26 14:23:46,236 - INFO - 添加新植物 Papaver argemone 到数据库
+2025-03-26 14:23:59,091 - INFO - 添加新植物 Papaver atlanticum 到数据库
+2025-03-26 14:24:09,385 - INFO - 添加新植物 Papaver croceum 到数据库
+2025-03-26 14:24:19,001 - INFO - 添加新植物 Papaver dubium 到数据库
+2025-03-26 14:24:25,560 - INFO - 添加新植物 Papaver hybridum 到数据库
+2025-03-26 14:24:32,451 - INFO - 添加新植物 Papaver nudicaule 到数据库
+2025-03-26 14:25:05,172 - INFO - 添加新植物 Papaver orientale 到数据库
+2025-03-26 14:25:08,832 - INFO - 添加新植物 Papaver pseudoorientale 到数据库
+2025-03-26 14:25:13,445 - INFO - 添加新植物 Papaver rhaeticum 到数据库
+2025-03-26 14:25:21,948 - INFO - 添加新植物 Papaver rhoeas 到数据库
+2025-03-26 14:25:31,588 - INFO - 添加新植物 Papaver rupifragum 到数据库
+2025-03-26 14:25:39,508 - INFO - 添加新植物 Papaver somniferum 到数据库
+2025-03-26 14:25:46,337 - INFO - 添加新植物 Pardoglossum cheirifolium 到数据库
+2025-03-26 14:25:55,478 - INFO - 添加新植物 Parietaria judaica 到数据库
+2025-03-26 14:26:09,531 - INFO - 添加新植物 Paris quadrifolia 到数据库
+2025-03-26 14:26:17,200 - INFO - 添加新植物 Parnassia palustris 到数据库
+2025-03-26 14:26:25,583 - INFO - 添加新植物 Parthenocissus quinquefolia 到数据库
+2025-03-26 14:26:32,179 - INFO - 添加新植物 Parthenocissus tricuspidata 到数据库
+2025-03-26 14:26:39,062 - INFO - 添加新植物 Passiflora caerulea 到数据库
+2025-03-26 14:26:48,494 - INFO - 添加新植物 Pastinaca sativa 到数据库
+2025-03-26 14:26:53,673 - INFO - 添加新植物 Patzkea paniculata 到数据库
+2025-03-26 14:27:01,195 - INFO - 添加新植物 Paulownia tomentosa 到数据库
+2025-03-26 14:27:07,250 - INFO - 添加新植物 Pelargonium alchemilloides 到数据库
+2025-03-26 14:27:16,620 - INFO - 添加新植物 Pelargonium capitatum 到数据库
+2025-03-26 14:27:24,995 - INFO - 添加新植物 Pelargonium crispum 到数据库
+2025-03-26 14:27:32,907 - INFO - 添加新植物 Pelargonium echinatum 到数据库
+2025-03-26 14:27:40,074 - INFO - 添加新植物 Pelargonium glechomoides 到数据库
+2025-03-26 14:27:49,988 - INFO - 添加新植物 Pelargonium grandiflorum 到数据库
+2025-03-26 14:28:00,204 - INFO - 添加新植物 Pelargonium graveolens 到数据库
+2025-03-26 14:28:06,418 - INFO - 添加新植物 Pelargonium inquinans 到数据库
+2025-03-26 14:28:15,259 - INFO - 添加新植物 Pelargonium odoratissimum 到数据库
+2025-03-26 14:28:21,785 - INFO - 添加新植物 Pelargonium panduriforme 到数据库
+2025-03-26 14:28:30,097 - INFO - 添加新植物 Pelargonium peltatum 到数据库
+2025-03-26 14:28:38,999 - INFO - 添加新植物 Pelargonium quercifolium 到数据库
+2025-03-26 14:28:45,782 - INFO - 添加新植物 Pelargonium quinquelobatum 到数据库
+2025-03-26 14:28:53,368 - INFO - 添加新植物 Pelargonium sidoides 到数据库
+2025-03-26 14:28:58,072 - INFO - 添加新植物 Pelargonium spp 到数据库
+2025-03-26 14:29:05,824 - INFO - 添加新植物 Pelargonium tomentosum 到数据库
+2025-03-26 14:29:10,642 - INFO - 添加新植物 Pelargonium x asperum 到数据库
+2025-03-26 14:29:14,494 - INFO - 添加新植物 Pelargonium x hortorum 到数据库
+2025-03-26 14:29:17,298 - INFO - 添加新植物 Pelargonium x hybridum 到数据库
+2025-03-26 14:29:26,515 - INFO - 添加新植物 Pelargonium zonale 到数据库
+2025-03-26 14:29:35,555 - INFO - 添加新植物 Peperomia albovittata 到数据库
+2025-03-26 14:29:43,333 - INFO - 添加新植物 Peperomia argyreia 到数据库
+2025-03-26 14:29:53,027 - INFO - 添加新植物 Peperomia caperata 到数据库
+2025-03-26 14:30:02,955 - INFO - 添加新植物 Peperomia clusiifolia 到数据库
+2025-03-26 14:30:11,693 - INFO - 添加新植物 Peperomia columella 到数据库
+2025-03-26 14:30:18,192 - INFO - 添加新植物 Peperomia dolabriformis 到数据库
+2025-03-26 14:30:25,718 - INFO - 添加新植物 Peperomia ferreyrae 到数据库
+2025-03-26 14:30:32,082 - INFO - 添加新植物 Peperomia graveolens 到数据库
+2025-03-26 14:30:39,093 - INFO - 添加新植物 Peperomia maculosa 到数据库
+2025-03-26 14:30:49,303 - INFO - 添加新植物 Peperomia magnoliifolia 到数据库
+2025-03-26 14:30:57,244 - INFO - 添加新植物 Peperomia obtusifolia 到数据库
+2025-03-26 14:31:03,993 - INFO - 添加新植物 Peperomia pecuniifolia 到数据库
+2025-03-26 14:31:11,795 - INFO - 添加新植物 Peperomia pellucida 到数据库
+2025-03-26 14:31:20,119 - INFO - 添加新植物 Peperomia polybotrya 到数据库
+2025-03-26 14:31:28,241 - INFO - 添加新植物 Peperomia prostrata 到数据库
+2025-03-26 14:31:37,658 - INFO - 添加新植物 Peperomia quadrangularis 到数据库
+2025-03-26 14:31:46,104 - INFO - 添加新植物 Peperomia rotundifolia 到数据库
+2025-03-26 14:31:54,364 - INFO - 添加新植物 Peperomia serpens 到数据库
+2025-03-26 14:32:04,725 - INFO - 添加新植物 Peperomia tetragona 到数据库
+2025-03-26 14:32:12,579 - INFO - 添加新植物 Peperomia verticillata 到数据库
+2025-03-26 14:32:24,462 - INFO - 添加新植物 Pereskia aculeata 到数据库
+2025-03-26 14:32:31,688 - INFO - 添加新植物 Pereskia bleo 到数据库
+2025-03-26 14:32:39,043 - INFO - 添加新植物 Pereskia grandifolia 到数据库
+2025-03-26 14:32:45,240 - INFO - 添加新植物 Perovskia abrotanoides 到数据库
+2025-03-26 14:32:52,983 - INFO - 添加新植物 Perovskia atriplicifolia 到数据库
+2025-03-26 14:33:01,720 - INFO - 添加新植物 Persicaria maculosa 到数据库
+2025-03-26 14:33:08,310 - INFO - 添加新植物 Petasites pyrenaicus 到数据库
+2025-03-26 14:33:15,778 - INFO - 添加新植物 Petiveria alliacea 到数据库
+2025-03-26 14:33:26,210 - INFO - 添加新植物 Phacelia tanacetifolia 到数据库
+2025-03-26 14:33:33,070 - INFO - 添加新植物 Phalaris aquatica 到数据库
+2025-03-26 14:33:40,691 - INFO - 添加新植物 Phalaris arundinacea 到数据库
+2025-03-26 14:33:47,574 - INFO - 添加新植物 Phalaris canariensis 到数据库
+2025-03-26 14:33:54,839 - INFO - 添加新植物 Phalaris coerulescens 到数据库
+2025-03-26 14:34:03,305 - INFO - 添加新植物 Phalaris minor 到数据库
+2025-03-26 14:34:10,839 - INFO - 添加新植物 Phalaris paradoxa 到数据库
+2025-03-26 14:34:21,133 - INFO - 添加新植物 Phedimus aizoon 到数据库
+2025-03-26 14:34:28,661 - INFO - 添加新植物 Phedimus spurius 到数据库
+2025-03-26 14:34:35,516 - INFO - 添加新植物 Phedimus stellatus 到数据库
+2025-03-26 14:34:42,096 - INFO - 添加新植物 Philadelphus coronarius 到数据库
+2025-03-26 14:34:50,499 - INFO - 添加新植物 Phillyrea angustifolia 到数据库
+2025-03-26 14:34:54,265 - INFO - 添加新植物 Phillyrea media 到数据库
+2025-03-26 14:35:02,214 - INFO - 添加新植物 Phleum pratense 到数据库
+2025-03-26 14:35:08,556 - INFO - 添加新植物 Phlomis fruticosa 到数据库
+2025-03-26 14:35:13,790 - INFO - 添加新植物 Photinia serrulata 到数据库
+2025-03-26 14:35:22,164 - INFO - 添加新植物 Phyllanthus acidus 到数据库
+2025-03-26 14:35:30,256 - INFO - 添加新植物 Phyllanthus amarus 到数据库
+2025-03-26 14:35:39,116 - INFO - 添加新植物 Phyllanthus emblica 到数据库
+2025-03-26 14:35:48,377 - INFO - 添加新植物 Phyllanthus epiphyllanthus 到数据库
+2025-03-26 14:35:55,402 - INFO - 添加新植物 Phyllanthus fischeri 到数据库
+2025-03-26 14:36:05,352 - INFO - 添加新植物 Phyllanthus mimosoides 到数据库
+2025-03-26 14:36:12,858 - INFO - 添加新植物 Phyllanthus niruri 到数据库
+2025-03-26 14:36:20,355 - INFO - 添加新植物 Phyllanthus niruroides 到数据库
+2025-03-26 14:36:25,611 - INFO - 添加新植物 Phyllanthus phillyreifolius 到数据库
+2025-03-26 14:36:31,650 - INFO - 添加新植物 Phyllanthus reticulatus 到数据库
+2025-03-26 14:36:38,601 - INFO - 添加新植物 Phyllanthus suffrutescens 到数据库
+2025-03-26 14:36:44,261 - INFO - 添加新植物 Phyllanthus tenellus 到数据库
+2025-03-26 14:36:46,665 - INFO - 批次完成，等待 0.7 分钟后开始下一批次...
+2025-03-26 14:37:30,875 - INFO - 开始处理第 15/20 批次，共 100 个植物
+2025-03-26 14:37:30,887 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0)...
+2025-03-26 14:37:30,887 - INFO - ====== WebDriver manager ======
+2025-03-26 14:37:34,544 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:39:04,955 - ERROR - 设置Chrome驱动时出错: Could not reach host. Are you offline?
+2025-03-26 14:39:04,956 - ERROR - 处理批次 15 时出现未知错误
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='googlechromelabs.github.io', port=443): Max retries exceeded with url: /chrome-for-testing/latest-patch-versions-per-build.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 32, in get
+    resp = requests.get(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='googlechromelabs.github.io', port=443): Max retries exceeded with url: /chrome-for-testing/latest-patch-versions-per-build.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 802, in main
+    driver = setup_driver(force_new_agent=True)
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 240, in setup_driver
+    service = Service(ChromeDriverManager().install())
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\chrome.py", line 40, in install
+    driver_path = self._get_driver_binary_path(self.driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\manager.py", line 35, in _get_driver_binary_path
+    binary_path = self._cache_manager.find_driver(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 107, in find_driver
+    driver_version = self.get_cache_key_driver_version(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 154, in get_cache_key_driver_version
+    return driver.get_driver_version_to_download()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver.py", line 48, in get_driver_version_to_download
+    return self.get_latest_release_version()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\drivers\chrome.py", line 59, in get_latest_release_version
+    response = self._http_client.get(url)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 35, in get
+    raise exceptions.ConnectionError(f"Could not reach host. Are you offline?")
+requests.exceptions.ConnectionError: Could not reach host. Are you offline?
+2025-03-26 14:39:05,237 - INFO - 等待 0.8 分钟后尝试下一批次...
+2025-03-26 14:39:50,639 - INFO - 开始处理第 16/20 批次，共 100 个植物
+2025-03-26 14:39:50,640 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0)...
+2025-03-26 14:39:50,640 - INFO - ====== WebDriver manager ======
+2025-03-26 14:39:57,604 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:40:02,645 - ERROR - 设置Chrome驱动时出错: Could not reach host. Are you offline?
+2025-03-26 14:40:02,645 - ERROR - 处理批次 16 时出现未知错误
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 32, in get
+    resp = requests.get(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 802, in main
+    driver = setup_driver(force_new_agent=True)
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 240, in setup_driver
+    service = Service(ChromeDriverManager().install())
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\chrome.py", line 40, in install
+    driver_path = self._get_driver_binary_path(self.driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\manager.py", line 35, in _get_driver_binary_path
+    binary_path = self._cache_manager.find_driver(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 107, in find_driver
+    driver_version = self.get_cache_key_driver_version(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 154, in get_cache_key_driver_version
+    return driver.get_driver_version_to_download()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver.py", line 48, in get_driver_version_to_download
+    return self.get_latest_release_version()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\drivers\chrome.py", line 59, in get_latest_release_version
+    response = self._http_client.get(url)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 35, in get
+    raise exceptions.ConnectionError(f"Could not reach host. Are you offline?")
+requests.exceptions.ConnectionError: Could not reach host. Are you offline?
+2025-03-26 14:40:02,704 - INFO - 等待 0.8 分钟后尝试下一批次...
+2025-03-26 14:40:53,562 - INFO - 开始处理第 17/20 批次，共 100 个植物
+2025-03-26 14:40:53,562 - INFO - 使用新的User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...
+2025-03-26 14:40:53,562 - INFO - ====== WebDriver manager ======
+2025-03-26 14:40:55,962 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:41:00,967 - ERROR - 设置Chrome驱动时出错: Could not reach host. Are you offline?
+2025-03-26 14:41:00,967 - ERROR - 处理批次 17 时出现未知错误
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 32, in get
+    resp = requests.get(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 802, in main
+    driver = setup_driver(force_new_agent=True)
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 240, in setup_driver
+    service = Service(ChromeDriverManager().install())
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\chrome.py", line 40, in install
+    driver_path = self._get_driver_binary_path(self.driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\manager.py", line 35, in _get_driver_binary_path
+    binary_path = self._cache_manager.find_driver(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 107, in find_driver
+    driver_version = self.get_cache_key_driver_version(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 154, in get_cache_key_driver_version
+    return driver.get_driver_version_to_download()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver.py", line 48, in get_driver_version_to_download
+    return self.get_latest_release_version()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\drivers\chrome.py", line 59, in get_latest_release_version
+    response = self._http_client.get(url)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 35, in get
+    raise exceptions.ConnectionError(f"Could not reach host. Are you offline?")
+requests.exceptions.ConnectionError: Could not reach host. Are you offline?
+2025-03-26 14:41:00,969 - INFO - 等待 0.8 分钟后尝试下一批次...
+2025-03-26 14:41:49,377 - INFO - 开始处理第 18/20 批次，共 100 个植物
+2025-03-26 14:41:49,378 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_1) App...
+2025-03-26 14:41:49,378 - INFO - ====== WebDriver manager ======
+2025-03-26 14:41:52,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:41:57,492 - ERROR - 设置Chrome驱动时出错: Could not reach host. Are you offline?
+2025-03-26 14:41:57,492 - ERROR - 处理批次 18 时出现未知错误
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 32, in get
+    resp = requests.get(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 802, in main
+    driver = setup_driver(force_new_agent=True)
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 240, in setup_driver
+    service = Service(ChromeDriverManager().install())
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\chrome.py", line 40, in install
+    driver_path = self._get_driver_binary_path(self.driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\manager.py", line 35, in _get_driver_binary_path
+    binary_path = self._cache_manager.find_driver(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 107, in find_driver
+    driver_version = self.get_cache_key_driver_version(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 154, in get_cache_key_driver_version
+    return driver.get_driver_version_to_download()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver.py", line 48, in get_driver_version_to_download
+    return self.get_latest_release_version()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\drivers\chrome.py", line 59, in get_latest_release_version
+    response = self._http_client.get(url)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 35, in get
+    raise exceptions.ConnectionError(f"Could not reach host. Are you offline?")
+requests.exceptions.ConnectionError: Could not reach host. Are you offline?
+2025-03-26 14:41:57,495 - INFO - 等待 0.9 分钟后尝试下一批次...
+2025-03-26 14:42:50,861 - INFO - 开始处理第 19/20 批次，共 100 个植物
+2025-03-26 14:42:50,862 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-03-26 14:42:50,862 - INFO - ====== WebDriver manager ======
+2025-03-26 14:42:54,438 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:42:59,448 - ERROR - 设置Chrome驱动时出错: Could not reach host. Are you offline?
+2025-03-26 14:42:59,448 - ERROR - 处理批次 19 时出现未知错误
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 32, in get
+    resp = requests.get(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 802, in main
+    driver = setup_driver(force_new_agent=True)
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 240, in setup_driver
+    service = Service(ChromeDriverManager().install())
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\chrome.py", line 40, in install
+    driver_path = self._get_driver_binary_path(self.driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\manager.py", line 35, in _get_driver_binary_path
+    binary_path = self._cache_manager.find_driver(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 107, in find_driver
+    driver_version = self.get_cache_key_driver_version(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 154, in get_cache_key_driver_version
+    return driver.get_driver_version_to_download()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver.py", line 48, in get_driver_version_to_download
+    return self.get_latest_release_version()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\drivers\chrome.py", line 59, in get_latest_release_version
+    response = self._http_client.get(url)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 35, in get
+    raise exceptions.ConnectionError(f"Could not reach host. Are you offline?")
+requests.exceptions.ConnectionError: Could not reach host. Are you offline?
+2025-03-26 14:42:59,451 - INFO - 等待 0.6 分钟后尝试下一批次...
+2025-03-26 14:43:32,659 - INFO - 开始处理第 20/20 批次，共 8 个植物
+2025-03-26 14:43:32,660 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2) Apple...
+2025-03-26 14:43:32,660 - INFO - ====== WebDriver manager ======
+2025-03-26 14:43:37,333 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 14:43:42,338 - ERROR - 设置Chrome驱动时出错: Could not reach host. Are you offline?
+2025-03-26 14:43:42,338 - ERROR - 处理批次 20 时出现未知错误
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 741, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\connection.py", line 920, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 460, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\urllib3\util\ssl_.py", line 504, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1104, in _create
+    self.do_handshake()
+  File "D:\new_anaconda\envs\ai_test\lib\ssl.py", line 1375, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 32, in get
+    resp = requests.get(
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 802, in main
+    driver = setup_driver(force_new_agent=True)
+  File "D:\SURE\PlantImage\爬虫\bug6.py", line 240, in setup_driver
+    service = Service(ChromeDriverManager().install())
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\chrome.py", line 40, in install
+    driver_path = self._get_driver_binary_path(self.driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\manager.py", line 35, in _get_driver_binary_path
+    binary_path = self._cache_manager.find_driver(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 107, in find_driver
+    driver_version = self.get_cache_key_driver_version(driver)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver_cache.py", line 154, in get_cache_key_driver_version
+    return driver.get_driver_version_to_download()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\driver.py", line 48, in get_driver_version_to_download
+    return self.get_latest_release_version()
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\drivers\chrome.py", line 59, in get_latest_release_version
+    response = self._http_client.get(url)
+  File "D:\new_anaconda\envs\ai_test\lib\site-packages\webdriver_manager\core\http.py", line 35, in get
+    raise exceptions.ConnectionError(f"Could not reach host. Are you offline?")
+requests.exceptions.ConnectionError: Could not reach host. Are you offline?
+2025-03-26 14:43:42,341 - INFO - 等待 1.0 分钟后尝试下一批次...
+2025-03-26 14:44:39,845 - INFO - 数据库连接已关闭
+2025-03-26 16:38:48,766 - INFO - 从目录中找到 1908 个植物名
+2025-03-26 16:38:48,772 - INFO - 找到 508 个待处理植物，分为 6 个批次
+2025-03-26 16:38:49,061 - INFO - 执行SQL: ALTER TABLE plants MODIFY chinese_name VARCHAR(500)
+2025-03-26 16:38:49,084 - INFO - 执行SQL: ALTER TABLE plants MODIFY common_name TEXT
+2025-03-26 16:38:49,104 - INFO - 执行SQL: ALTER TABLE plants MODIFY family VARCHAR(500)
+2025-03-26 16:38:49,119 - INFO - 执行SQL: ALTER TABLE plants MODIFY genus VARCHAR(500)
+2025-03-26 16:38:49,119 - INFO - 数据表已准备就绪，字段长度已调整
+2025-03-26 16:38:49,120 - INFO - 开始处理第 1/6 批次，共 100 个植物
+2025-03-26 16:38:49,120 - INFO - 使用新的User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/201...
+2025-03-26 16:38:49,121 - INFO - ====== WebDriver manager ======
+2025-03-26 16:38:52,066 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:38:52,817 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:38:53,505 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 16:39:04,547 - INFO - 添加新植物 Phyllanthus urinaria 到数据库
+2025-03-26 16:39:12,058 - INFO - 添加新植物 Phyteuma hemisphaericum 到数据库
+2025-03-26 16:39:18,802 - INFO - 添加新植物 Phyteuma spicatum 到数据库
+2025-03-26 16:39:24,650 - INFO - 添加新植物 Phytolacca americana 到数据库
+2025-03-26 16:39:34,699 - INFO - 添加新植物 Picris hieracioides 到数据库
+2025-03-26 16:39:40,768 - INFO - 添加新植物 Pilocarpus racemosus 到数据库
+2025-03-26 16:39:46,300 - INFO - 添加新植物 Pilosella aurantiaca 到数据库
+2025-03-26 16:39:53,658 - INFO - 添加新植物 Pilosella lactucella 到数据库
+2025-03-26 16:39:58,608 - INFO - 添加新植物 Pilosella officinarum 到数据库
+2025-03-26 16:40:06,401 - INFO - 添加新植物 Pilosocereus chrysostele 到数据库
+2025-03-26 16:40:14,435 - INFO - 添加新植物 Pilosocereus pachycladus 到数据库
+2025-03-26 16:40:22,090 - INFO - 添加新植物 Pilosocereus royeni 到数据库
+2025-03-26 16:40:31,058 - INFO - 添加新植物 Pinguicula grandiflora 到数据库
+2025-03-26 16:40:37,692 - INFO - 添加新植物 Pinus brutia 到数据库
+2025-03-26 16:40:46,419 - INFO - 添加新植物 Pinus cembra 到数据库
+2025-03-26 16:40:55,930 - INFO - 添加新植物 Pinus halepensis 到数据库
+2025-03-26 16:41:04,284 - INFO - 添加新植物 Pinus mugo 到数据库
+2025-03-26 16:41:12,053 - INFO - 添加新植物 Pinus nigra 到数据库
+2025-03-26 16:41:21,885 - INFO - 添加新植物 Pinus pinaster 到数据库
+2025-03-26 16:41:30,297 - INFO - 添加新植物 Pinus pinea 到数据库
+2025-03-26 16:41:39,502 - INFO - 添加新植物 Pinus sylvestris 到数据库
+2025-03-26 16:41:45,305 - INFO - 添加新植物 Piriqueta cistoides 到数据库
+2025-03-26 16:41:52,712 - INFO - 添加新植物 Pistacia lentiscus 到数据库
+2025-03-26 16:41:58,073 - INFO - 添加新植物 Pistacia terebinthus 到数据库
+2025-03-26 16:42:04,216 - INFO - 添加新植物 Pittosporum tenuifolium 到数据库
+2025-03-26 16:42:08,988 - INFO - 添加新植物 Pittosporum tobira 到数据库
+2025-03-26 16:42:14,661 - INFO - 添加新植物 Plantago coronopus 到数据库
+2025-03-26 16:42:21,909 - INFO - 添加新植物 Plantago lagopus 到数据库
+2025-03-26 16:42:29,710 - INFO - 添加新植物 Plantago lanceolata 到数据库
+2025-03-26 16:42:37,287 - INFO - 添加新植物 Plantago major 到数据库
+2025-03-26 16:42:42,825 - INFO - 添加新植物 Plantago maritima 到数据库
+2025-03-26 16:42:49,711 - INFO - 添加新植物 Plantago media 到数据库
+2025-03-26 16:42:56,133 - INFO - 添加新植物 Platanthera bifolia 到数据库
+2025-03-26 16:43:02,866 - INFO - 添加新植物 Platanthera chlorantha 到数据库
+2025-03-26 16:43:09,711 - INFO - 添加新植物 Platanus orientalis 到数据库
+2025-03-26 16:43:16,742 - INFO - 添加新植物 Platanus x 到数据库
+2025-03-26 16:43:21,504 - INFO - 添加新植物 Pleurospermum austriacum 到数据库
+2025-03-26 16:43:28,250 - INFO - 添加新植物 Poa annua 到数据库
+2025-03-26 16:43:34,698 - INFO - 添加新植物 Pogonophora schomburgkiana 到数据库
+2025-03-26 16:43:39,364 - INFO - 添加新植物 Polygala vulgaris 到数据库
+2025-03-26 16:43:46,115 - INFO - 添加新植物 Polygonatum multiflorum 到数据库
+2025-03-26 16:43:53,106 - INFO - 添加新植物 Polygonatum odoratum 到数据库
+2025-03-26 16:44:00,197 - INFO - 添加新植物 Polypodium vulgare 到数据库
+2025-03-26 16:44:08,773 - INFO - 添加新植物 Polystichum setiferum 到数据库
+2025-03-26 16:44:14,474 - INFO - 添加新植物 Pongamia pinnata 到数据库
+2025-03-26 16:44:20,181 - INFO - 添加新植物 Populus alba 到数据库
+2025-03-26 16:44:30,227 - INFO - 添加新植物 Populus nigra 到数据库
+2025-03-26 16:44:40,243 - INFO - 添加新植物 Populus tremula 到数据库
+2025-03-26 16:44:43,118 - INFO - 添加新植物 Populus trichocarpa 到数据库
+2025-03-26 16:44:49,786 - INFO - 添加新植物 Portulaca oleracea 到数据库
+2025-03-26 16:44:56,076 - INFO - 添加新植物 Potentilla erecta 到数据库
+2025-03-26 16:45:02,204 - INFO - 添加新植物 Potentilla indica 到数据库
+2025-03-26 16:45:10,324 - INFO - 添加新植物 Potentilla recta 到数据库
+2025-03-26 16:45:15,909 - INFO - 添加新植物 Potentilla reptans 到数据库
+2025-03-26 16:45:21,852 - INFO - 添加新植物 Potentilla sterilis 到数据库
+2025-03-26 16:45:26,421 - INFO - 添加新植物 Potentilla tabernaemontani 到数据库
+2025-03-26 16:45:34,640 - INFO - 添加新植物 Poterium sanguisorba 到数据库
+2025-03-26 16:45:40,581 - INFO - 添加新植物 Prenanthes purpurea 到数据库
+2025-03-26 16:45:47,172 - INFO - 添加新植物 Primula elatior 到数据库
+2025-03-26 16:45:53,252 - INFO - 添加新植物 Primula veris 到数据库
+2025-03-26 16:45:59,557 - INFO - 添加新植物 Primula vulgaris 到数据库
+2025-03-26 16:46:06,247 - INFO - 添加新植物 Prosopis alba 到数据库
+2025-03-26 16:46:12,272 - INFO - 添加新植物 Prosopis farcta 到数据库
+2025-03-26 16:46:17,933 - INFO - 添加新植物 Prosopis glandulosa 到数据库
+2025-03-26 16:46:22,942 - INFO - 添加新植物 Prosopis juliflora 到数据库
+2025-03-26 16:46:29,642 - INFO - 添加新植物 Prosopis pallida 到数据库
+2025-03-26 16:46:35,899 - INFO - 添加新植物 Prosopis pubescens 到数据库
+2025-03-26 16:46:41,878 - INFO - 添加新植物 Prospero autumnale 到数据库
+2025-03-26 16:46:55,524 - INFO - 添加新植物 Prunella grandiflora 到数据库
+2025-03-26 16:46:59,278 - INFO - 添加新植物 Prunella hastifolia 到数据库
+2025-03-26 16:47:06,598 - INFO - 添加新植物 Prunella laciniata 到数据库
+2025-03-26 16:47:12,653 - INFO - 添加新植物 Prunella vulgaris 到数据库
+2025-03-26 16:47:24,548 - INFO - 添加新植物 Prunus armeniaca 到数据库
+2025-03-26 16:47:33,007 - INFO - 添加新植物 Prunus avium 到数据库
+2025-03-26 16:47:40,719 - INFO - 添加新植物 Prunus cerasifera 到数据库
+2025-03-26 16:47:48,380 - INFO - 添加新植物 Prunus dulcis 到数据库
+2025-03-26 16:47:54,615 - INFO - 添加新植物 Prunus laurocerasus 到数据库
+2025-03-26 16:48:02,570 - INFO - 添加新植物 Prunus mahaleb 到数据库
+2025-03-26 16:48:10,053 - INFO - 添加新植物 Prunus padus 到数据库
+2025-03-26 16:48:18,458 - INFO - 添加新植物 Prunus serotina 到数据库
+2025-03-26 16:48:26,636 - INFO - 添加新植物 Prunus serrulata 到数据库
+2025-03-26 16:48:33,730 - INFO - 添加新植物 Prunus spinosa 到数据库
+2025-03-26 16:48:44,616 - INFO - 添加新植物 Pseudorchis albida 到数据库
+2025-03-26 16:48:52,662 - INFO - 添加新植物 Pseudoturritis turrita 到数据库
+2025-03-26 16:49:00,633 - INFO - 添加新植物 Pteridium aquilinum 到数据库
+2025-03-26 16:49:09,313 - INFO - 添加新植物 Pterocarya fraxinifolia 到数据库
+2025-03-26 16:49:18,782 - INFO - 添加新植物 Pterocephalus perennis 到数据库
+2025-03-26 16:49:27,769 - INFO - 添加新植物 Pulicaria dysenterica 到数据库
+2025-03-26 16:49:35,128 - INFO - 添加新植物 Punica granatum 到数据库
+2025-03-26 16:49:42,492 - INFO - 添加新植物 Pyracantha coccinea 到数据库
+2025-03-26 16:49:52,239 - INFO - 添加新植物 Pyracantha koidzumii 到数据库
+2025-03-26 16:49:57,538 - INFO - 添加新植物 Pyracantha rogersiana 到数据库
+2025-03-26 16:50:02,920 - INFO - 添加新植物 Pyrus communis 到数据库
+2025-03-26 16:50:12,497 - INFO - 添加新植物 Quercus cerris 到数据库
+2025-03-26 16:50:21,267 - INFO - 添加新植物 Quercus coccifera 到数据库
+2025-03-26 16:50:27,622 - INFO - 添加新植物 Quercus ilex 到数据库
+2025-03-26 16:50:40,658 - INFO - 添加新植物 Quercus palustris 到数据库
+2025-03-26 16:50:50,328 - INFO - 添加新植物 Quercus petraea 到数据库
+2025-03-26 16:50:57,715 - INFO - 添加新植物 Quercus pubescens 到数据库
+2025-03-26 16:51:05,361 - INFO - 添加新植物 Quercus robur 到数据库
+2025-03-26 16:51:07,492 - INFO - 批次完成，等待 0.5 分钟后开始下一批次...
+2025-03-26 16:51:38,175 - INFO - 开始处理第 2/6 批次，共 100 个植物
+2025-03-26 16:51:38,175 - INFO - 使用新的User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:94.0) Gecko/201...
+2025-03-26 16:51:38,176 - INFO - ====== WebDriver manager ======
+2025-03-26 16:51:40,372 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:51:41,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 16:51:41,977 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 16:51:52,111 - INFO - 添加新植物 Quercus rubra 到数据库
+2025-03-26 16:51:58,216 - INFO - 添加新植物 Quercus suber 到数据库
+2025-03-26 16:52:06,037 - INFO - 添加新植物 Ranunculus aconitifolius 到数据库
+2025-03-26 16:52:13,122 - INFO - 添加新植物 Ranunculus acris 到数据库
+2025-03-26 16:52:19,808 - INFO - 添加新植物 Ranunculus bulbosus 到数据库
+2025-03-26 16:52:28,054 - INFO - 添加新植物 Ranunculus flammula 到数据库
+2025-03-26 16:52:36,964 - INFO - 添加新植物 Ranunculus gramineus 到数据库
+2025-03-26 16:52:42,944 - INFO - 添加新植物 Ranunculus paludosus 到数据库
+2025-03-26 16:52:50,038 - INFO - 添加新植物 Ranunculus parviflorus 到数据库
+2025-03-26 16:52:58,535 - INFO - 添加新植物 Ranunculus peltatus 到数据库
+2025-03-26 16:53:06,856 - INFO - 添加新植物 Ranunculus platanifolius 到数据库
+2025-03-26 16:53:16,556 - INFO - 添加新植物 Ranunculus repens 到数据库
+2025-03-26 16:53:23,956 - INFO - 添加新植物 Ranunculus sceleratus 到数据库
+2025-03-26 16:53:31,828 - INFO - 添加新植物 Ranunculus trichophyllus 到数据库
+2025-03-26 16:53:39,993 - INFO - 添加新植物 Raphanus raphanistrum 到数据库
+2025-03-26 16:53:45,404 - INFO - 添加新植物 Raphia farinifera 到数据库
+2025-03-26 16:53:53,506 - INFO - 添加新植物 Reseda lutea 到数据库
+2025-03-26 16:54:00,622 - INFO - 添加新植物 Reseda luteola 到数据库
+2025-03-26 16:54:06,053 - INFO - 添加新植物 Reseda phyteuma 到数据库
+2025-03-26 16:54:11,339 - INFO - 添加新植物 Reynoutria japonica 到数据库
+2025-03-26 16:54:19,963 - INFO - 添加新植物 Rhamnus alaternus 到数据库
+2025-03-26 16:54:26,598 - INFO - 添加新植物 Rhamnus alpina 到数据库
+2025-03-26 16:54:34,836 - INFO - 添加新植物 Rhamnus cathartica 到数据库
+2025-03-26 16:54:39,828 - INFO - 添加新植物 Rhamnus pumila 到数据库
+2025-03-26 16:54:48,970 - INFO - 添加新植物 Rhaponticum coniferum 到数据库
+2025-03-26 16:54:55,121 - INFO - 添加新植物 Rhinanthus alectorolophus 到数据库
+2025-03-26 16:55:02,243 - INFO - 添加新植物 Rhinanthus minor 到数据库
+2025-03-26 16:55:08,178 - INFO - 添加新植物 Rhodanthe chlorocephala 到数据库
+2025-03-26 16:55:13,913 - INFO - 添加新植物 Rhododendron ferrugineum 到数据库
+2025-03-26 16:55:19,372 - INFO - 添加新植物 Rhodothamnus chamaecistus 到数据库
+2025-03-26 16:55:23,419 - INFO - 添加新植物 Rhus coriaria 到数据库
+2025-03-26 16:55:30,372 - INFO - 添加新植物 Rhus typhina 到数据库
+2025-03-26 16:55:39,831 - INFO - 添加新植物 Ribes rubrum 到数据库
+2025-03-26 16:55:46,067 - INFO - 添加新植物 Robinia pseudoacacia 到数据库
+2025-03-26 16:55:52,602 - INFO - 添加新植物 Rosa agrestis 到数据库
+2025-03-26 16:55:58,965 - INFO - 添加新植物 Rosa canina 到数据库
+2025-03-26 16:56:05,892 - INFO - 添加新植物 Rosa pendulina 到数据库
+2025-03-26 16:56:11,259 - INFO - 添加新植物 Rosa spinosissima 到数据库
+2025-03-26 16:56:18,308 - INFO - 添加新植物 Rosmarinus officinalis 到数据库
+2025-03-26 16:56:25,165 - INFO - 添加新植物 Rubia tinctorum 到数据库
+2025-03-26 16:56:30,028 - INFO - 添加新植物 Rubus fruticosus 到数据库
+2025-03-26 16:56:36,336 - INFO - 添加新植物 Rubus idaeus 到数据库
+2025-03-26 16:56:40,664 - INFO - 添加新植物 Rubus pedatifolius 到数据库
+2025-03-26 16:56:46,644 - INFO - 添加新植物 Rubus ulmifolius 到数据库
+2025-03-26 16:56:51,560 - INFO - 添加新植物 Rumex acetosella 到数据库
+2025-03-26 16:56:56,711 - INFO - 添加新植物 Rumex crispus 到数据库
+2025-03-26 16:57:09,834 - INFO - 添加新植物 Rumex obtusifolius 到数据库
+2025-03-26 16:57:19,429 - INFO - 添加新植物 Rumohra adiantiformis 到数据库
+2025-03-26 16:57:28,502 - INFO - 添加新植物 Ruscus aculeatus 到数据库
+2025-03-26 16:57:33,374 - INFO - 添加新植物 Ruta montana 到数据库
+2025-03-26 16:57:45,853 - INFO - 添加新植物 Sagittaria graminea 到数据库
+2025-03-26 16:57:52,479 - INFO - 添加新植物 Sagittaria lancifolia 到数据库
+2025-03-26 16:57:58,741 - INFO - 添加新植物 Sagittaria latifolia 到数据库
+2025-03-26 16:58:08,087 - INFO - 添加新植物 Sagittaria montevidensis 到数据库
+2025-03-26 16:58:13,574 - INFO - 添加新植物 Sagittaria sagittifolia 到数据库
+2025-03-26 16:58:20,389 - INFO - 添加新植物 Sagotia racemosa 到数据库
+2025-03-26 16:58:27,318 - INFO - 添加新植物 Salix alba 到数据库
+2025-03-26 16:58:33,387 - INFO - 添加新植物 Salix babylonica 到数据库
+2025-03-26 16:58:40,389 - INFO - 添加新植物 Salix caprea 到数据库
+2025-03-26 16:58:47,814 - INFO - 添加新植物 Salix cinerea 到数据库
+2025-03-26 16:58:57,184 - INFO - 添加新植物 Salix fragilis 到数据库
+2025-03-26 16:59:04,183 - INFO - 添加新植物 Salix herbacea 到数据库
+2025-03-26 16:59:08,608 - INFO - 添加新植物 Salvia officinalis 到数据库
+2025-03-26 16:59:14,295 - INFO - 添加新植物 Salvia pratensis 到数据库
+2025-03-26 16:59:19,220 - INFO - 添加新植物 Salvia verbenaca 到数据库
+2025-03-26 16:59:25,656 - INFO - 添加新植物 Sambucus ebulus 到数据库
+2025-03-26 16:59:30,991 - INFO - 添加新植物 Sambucus nigra 到数据库
+2025-03-26 16:59:39,337 - INFO - 添加新植物 Sambucus racemosa 到数据库
+2025-03-26 16:59:46,387 - INFO - 添加新植物 Saponaria ocymoides 到数据库
+2025-03-26 16:59:52,723 - INFO - 添加新植物 Saponaria officinalis 到数据库
+2025-03-26 16:59:56,896 - INFO - 添加新植物 Sasa palmata 到数据库
+2025-03-26 17:00:02,395 - INFO - 添加新植物 Satureja montana 到数据库
+2025-03-26 17:00:09,398 - INFO - 添加新植物 Saxifraga aizoides 到数据库
+2025-03-26 17:00:15,989 - INFO - 添加新植物 Saxifraga granulata 到数据库
+2025-03-26 17:00:20,883 - INFO - 添加新植物 Saxifraga media 到数据库
+2025-03-26 17:00:27,798 - INFO - 添加新植物 Saxifraga moschata 到数据库
+2025-03-26 17:00:35,831 - INFO - 添加新植物 Saxifraga paniculata 到数据库
+2025-03-26 17:00:39,625 - INFO - 添加新植物 Saxifraga tridactylites 到数据库
+2025-03-26 17:00:45,847 - INFO - 添加新植物 Scabiosa atropurpurea 到数据库
+2025-03-26 17:00:53,418 - INFO - 添加新植物 Scabiosa columbaria 到数据库
+2025-03-26 17:00:59,511 - INFO - 添加新植物 Schefflera actinophylla 到数据库
+2025-03-26 17:01:06,256 - INFO - 添加新植物 Schefflera arboricola 到数据库
+2025-03-26 17:01:11,881 - INFO - 添加新植物 Schefflera decaphylla 到数据库
+2025-03-26 17:01:18,136 - INFO - 添加新植物 Schefflera heptaphylla 到数据库
+2025-03-26 17:01:24,546 - INFO - 添加新植物 Schefflera morototoni 到数据库
+2025-03-26 17:01:29,007 - INFO - 添加新植物 Schefflera spp 到数据库
+2025-03-26 17:01:35,686 - INFO - 添加新植物 Schinopsis balansae 到数据库
+2025-03-26 17:01:41,246 - INFO - 添加新植物 Schkuhria pinnata 到数据库
+2025-03-26 17:01:47,891 - INFO - 添加新植物 Scilla luciliae 到数据库
+2025-03-26 17:01:52,518 - INFO - 添加新植物 Scolymus hispanicus 到数据库
+2025-03-26 17:01:57,503 - INFO - 添加新植物 Scorzoneroides pyrenaica 到数据库
+2025-03-26 17:02:03,647 - INFO - 添加新植物 Scrophularia auriculata 到数据库
+2025-03-26 17:02:12,094 - INFO - 添加新植物 Scrophularia nodosa 到数据库
+2025-03-26 17:02:19,999 - INFO - 添加新植物 Scutellaria galericulata 到数据库
+2025-03-26 17:02:26,241 - INFO - 添加新植物 Secale cereale 到数据库
+2025-03-26 17:02:32,286 - INFO - 添加新植物 Sedum acre 到数据库
+2025-03-26 17:02:38,481 - INFO - 添加新植物 Sedum adolphii 到数据库
+2025-03-26 17:02:45,046 - INFO - 添加新植物 Sedum albomarginatum 到数据库
+2025-03-26 17:02:51,481 - INFO - 添加新植物 Sedum album 到数据库
+2025-03-26 17:02:58,068 - INFO - 添加新植物 Sedum allantoides 到数据库
+2025-03-26 17:03:00,274 - INFO - 批次完成，等待 0.7 分钟后开始下一批次...
+2025-03-26 17:03:43,254 - INFO - 开始处理第 3/6 批次，共 100 个植物
+2025-03-26 17:03:43,255 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap...
+2025-03-26 17:03:43,255 - INFO - ====== WebDriver manager ======
+2025-03-26 17:03:45,446 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:03:46,173 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:03:46,910 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 17:03:53,555 - INFO - 添加新植物 Sedum alpestre 到数据库
+2025-03-26 17:03:56,575 - INFO - 添加新植物 Sedum amplexicaule 到数据库
+2025-03-26 17:04:01,357 - INFO - 添加新植物 Sedum andegavense 到数据库
+2025-03-26 17:04:08,452 - INFO - 添加新植物 Sedum anglicum 到数据库
+2025-03-26 17:04:15,117 - INFO - 添加新植物 Sedum annuum 到数据库
+2025-03-26 17:04:21,183 - INFO - 添加新植物 Sedum atratum 到数据库
+2025-03-26 17:04:27,985 - INFO - 添加新植物 Sedum brevifolium 到数据库
+2025-03-26 17:04:33,306 - INFO - 添加新植物 Sedum burrito 到数据库
+2025-03-26 17:04:38,646 - INFO - 添加新植物 Sedum caeruleum 到数据库
+2025-03-26 17:04:41,611 - INFO - 添加新植物 Sedum caespitosum 到数据库
+2025-03-26 17:04:45,941 - INFO - 添加新植物 Sedum cepaea 到数据库
+2025-03-26 17:04:51,992 - INFO - 添加新植物 Sedum clavatum 到数据库
+2025-03-26 17:04:57,153 - INFO - 添加新植物 Sedum compressum 到数据库
+2025-03-26 17:05:02,737 - INFO - 添加新植物 Sedum cyaneum 到数据库
+2025-03-26 17:05:08,511 - INFO - 添加新植物 Sedum dasyphyllum 到数据库
+2025-03-26 17:05:15,729 - INFO - 添加新植物 Sedum decumbens 到数据库
+2025-03-26 17:05:22,304 - INFO - 添加新植物 Sedum dendroideum 到数据库
+2025-03-26 17:05:30,674 - INFO - 添加新植物 Sedum divergens 到数据库
+2025-03-26 17:05:35,527 - INFO - 添加新植物 Sedum forsterianum 到数据库
+2025-03-26 17:05:43,563 - INFO - 添加新植物 Sedum furfuraceum 到数据库
+2025-03-26 17:05:49,043 - INFO - 添加新植物 Sedum glaucophyllum 到数据库
+2025-03-26 17:05:55,580 - INFO - 添加新植物 Sedum hernandezii 到数据库
+2025-03-26 17:06:03,427 - INFO - 添加新植物 Sedum hirsutum 到数据库
+2025-03-26 17:06:09,407 - INFO - 添加新植物 Sedum hispanicum 到数据库
+2025-03-26 17:06:14,583 - INFO - 添加新植物 Sedum japonicum 到数据库
+2025-03-26 17:06:19,230 - INFO - 添加新植物 Sedum kamtschaticum 到数据库
+2025-03-26 17:06:24,513 - INFO - 添加新植物 Sedum lanceolatum 到数据库
+2025-03-26 17:06:30,450 - INFO - 添加新植物 Sedum laxum 到数据库
+2025-03-26 17:06:37,228 - INFO - 添加新植物 Sedum lineare 到数据库
+2025-03-26 17:06:43,499 - INFO - 添加新植物 Sedum litoreum 到数据库
+2025-03-26 17:06:48,135 - INFO - 添加新植物 Sedum makinoi 到数据库
+2025-03-26 17:06:54,575 - INFO - 添加新植物 Sedum mexicanum 到数据库
+2025-03-26 17:06:57,338 - INFO - 添加新植物 Sedum montanum 到数据库
+2025-03-26 17:07:03,673 - INFO - 添加新植物 Sedum moranense 到数据库
+2025-03-26 17:07:10,790 - INFO - 添加新植物 Sedum morganianum 到数据库
+2025-03-26 17:07:17,715 - INFO - 添加新植物 Sedum multiceps 到数据库
+2025-03-26 17:07:22,781 - INFO - 添加新植物 Sedum niveum 到数据库
+2025-03-26 17:07:28,225 - INFO - 添加新植物 Sedum nussbaumerianum 到数据库
+2025-03-26 17:07:34,053 - INFO - 添加新植物 Sedum obtusatum 到数据库
+2025-03-26 17:07:39,197 - INFO - 添加新植物 Sedum ochroleucum 到数据库
+2025-03-26 17:07:44,418 - INFO - 添加新植物 Sedum oreganum 到数据库
+2025-03-26 17:07:49,699 - INFO - 添加新植物 Sedum pachyphyllum 到数据库
+2025-03-26 17:07:55,994 - INFO - 添加新植物 Sedum palmeri 到数据库
+2025-03-26 17:08:02,606 - INFO - 添加新植物 Sedum praealtum 到数据库
+2025-03-26 17:08:07,506 - INFO - 添加新植物 Sedum pulchellum 到数据库
+2025-03-26 17:08:13,784 - INFO - 添加新植物 Sedum rubens 到数据库
+2025-03-26 17:08:19,201 - INFO - 添加新植物 Sedum rubrotinctum 到数据库
+2025-03-26 17:08:23,771 - INFO - 添加新植物 Sedum rupestre 到数据库
+2025-03-26 17:08:30,650 - INFO - 添加新植物 Sedum sarmentosum 到数据库
+2025-03-26 17:08:35,233 - INFO - 添加新植物 Sedum sediforme 到数据库
+2025-03-26 17:08:42,453 - INFO - 添加新植物 Sedum sexangulare 到数据库
+2025-03-26 17:08:47,889 - INFO - 添加新植物 Sedum spathulifolium 到数据库
+2025-03-26 17:08:54,925 - INFO - 添加新植物 Sedum ternatum 到数据库
+2025-03-26 17:08:58,999 - INFO - 添加新植物 Sedum villosum 到数据库
+2025-03-26 17:09:06,125 - INFO - 添加新植物 Selenicereus anthonyanus 到数据库
+2025-03-26 17:09:10,367 - INFO - 添加新植物 Selenicereus grandiflorus 到数据库
+2025-03-26 17:09:16,829 - INFO - 添加新植物 Sempervivum arachnoideum 到数据库
+2025-03-26 17:09:23,725 - INFO - 添加新植物 Sempervivum montanum 到数据库
+2025-03-26 17:09:32,626 - INFO - 添加新植物 Sempervivum tectorum 到数据库
+2025-03-26 17:09:40,488 - INFO - 添加新植物 Senecio doronicum 到数据库
+2025-03-26 17:09:50,811 - INFO - 添加新植物 Senecio inaequidens 到数据库
+2025-03-26 17:09:58,664 - INFO - 添加新植物 Senecio ovatus 到数据库
+2025-03-26 17:10:06,108 - INFO - 添加新植物 Senecio vulgaris 到数据库
+2025-03-26 17:10:13,858 - INFO - 添加新植物 Serapias lingua 到数据库
+2025-03-26 17:10:19,100 - INFO - 添加新植物 Serapias vomeracea 到数据库
+2025-03-26 17:10:25,182 - INFO - 添加新植物 Sherardia arvensis 到数据库
+2025-03-26 17:10:31,352 - INFO - 添加新植物 Sideritis romana 到数据库
+2025-03-26 17:10:36,970 - INFO - 添加新植物 Silene acaulis 到数据库
+2025-03-26 17:10:42,307 - INFO - 添加新植物 Silene baccifera 到数据库
+2025-03-26 17:10:48,105 - INFO - 添加新植物 Silene conica 到数据库
+2025-03-26 17:10:53,129 - INFO - 添加新植物 Silene dioica 到数据库
+2025-03-26 17:11:01,480 - INFO - 添加新植物 Silene gallica 到数据库
+2025-03-26 17:11:08,385 - INFO - 添加新植物 Silene italica 到数据库
+2025-03-26 17:11:15,720 - INFO - 添加新植物 Silene latifolia 到数据库
+2025-03-26 17:11:22,063 - INFO - 添加新植物 Silene nutans 到数据库
+2025-03-26 17:11:30,187 - INFO - 添加新植物 Silene uniflora 到数据库
+2025-03-26 17:11:43,734 - INFO - 添加新植物 Silene vulgaris 到数据库
+2025-03-26 17:11:52,307 - INFO - 添加新植物 Silybum marianum 到数据库
+2025-03-26 17:11:56,534 - INFO - 添加新植物 Sinapis arvensis 到数据库
+2025-03-26 17:12:02,903 - INFO - 添加新植物 Sisymbrium irio 到数据库
+2025-03-26 17:12:09,677 - INFO - 添加新植物 Sisymbrium officinale 到数据库
+2025-03-26 17:12:13,549 - INFO - 添加新植物 Smilax anceps 到数据库
+2025-03-26 17:12:19,486 - INFO - 添加新植物 Smilax aspera 到数据库
+2025-03-26 17:12:25,541 - INFO - 添加新植物 Smilax bona-nox 到数据库
+2025-03-26 17:12:31,990 - INFO - 添加新植物 Smilax china 到数据库
+2025-03-26 17:12:38,455 - INFO - 添加新植物 Smilax excelsa 到数据库
+2025-03-26 17:12:43,838 - INFO - 添加新植物 Smilax glauca 到数据库
+2025-03-26 17:12:51,085 - INFO - 添加新植物 Smilax herbacea 到数据库
+2025-03-26 17:12:56,520 - INFO - 添加新植物 Smilax laurifolia 到数据库
+2025-03-26 17:13:02,180 - INFO - 添加新植物 Smilax rotundifolia 到数据库
+2025-03-26 17:13:07,399 - INFO - 添加新植物 Smilax tamnoides 到数据库
+2025-03-26 17:13:13,548 - INFO - 添加新植物 Smyrnium olusatrum 到数据库
+2025-03-26 17:13:20,079 - INFO - 添加新植物 Solanum dulcamara 到数据库
+2025-03-26 17:13:27,390 - INFO - 添加新植物 Solanum nigrum 到数据库
+2025-03-26 17:13:34,171 - INFO - 添加新植物 Soldanella alpina 到数据库
+2025-03-26 17:13:40,748 - INFO - 添加新植物 Solidago virgaurea 到数据库
+2025-03-26 17:13:48,882 - INFO - 添加新植物 Sonchus asper 到数据库
+2025-03-26 17:13:54,758 - INFO - 添加新植物 Sonchus tenerrimus 到数据库
+2025-03-26 17:14:00,609 - INFO - 添加新植物 Sophora japonica 到数据库
+2025-03-26 17:14:06,939 - INFO - 添加新植物 Sorbus aria 到数据库
+2025-03-26 17:14:09,208 - INFO - 批次完成，等待 0.9 分钟后开始下一批次...
+2025-03-26 17:15:05,284 - INFO - 开始处理第 4/6 批次，共 100 个植物
+2025-03-26 17:15:05,285 - INFO - 使用新的User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:9...
+2025-03-26 17:15:05,285 - INFO - ====== WebDriver manager ======
+2025-03-26 17:15:08,717 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:15:09,767 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:15:10,905 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 17:15:21,624 - INFO - 添加新植物 Sorbus aucuparia 到数据库
+2025-03-26 17:15:28,631 - INFO - 添加新植物 Sorbus domestica 到数据库
+2025-03-26 17:15:33,939 - INFO - 添加新植物 Sorbus intermedia 到数据库
+2025-03-26 17:15:38,671 - INFO - 添加新植物 Sorbus torminalis 到数据库
+2025-03-26 17:15:45,001 - INFO - 添加新植物 Spartium junceum 到数据库
+2025-03-26 17:15:51,366 - INFO - 添加新植物 Spergula arvensis 到数据库
+2025-03-26 17:15:57,382 - INFO - 添加新植物 Spergula media 到数据库
+2025-03-26 17:16:04,496 - INFO - 添加新植物 Spergularia rubra 到数据库
+2025-03-26 17:16:09,385 - INFO - 添加新植物 Spiranthes spiralis 到数据库
+2025-03-26 17:16:15,105 - INFO - 添加新植物 Stachys recta 到数据库
+2025-03-26 17:16:19,451 - INFO - 添加新植物 Stachys sylvatica 到数据库
+2025-03-26 17:16:26,856 - INFO - 添加新植物 Staehelina dubia 到数据库
+2025-03-26 17:16:32,115 - INFO - 添加新植物 Stanleya pinnata 到数据库
+2025-03-26 17:16:40,191 - INFO - 添加新植物 Stellaria holostea 到数据库
+2025-03-26 17:16:47,192 - INFO - 添加新植物 Stellaria media 到数据库
+2025-03-26 17:16:54,261 - INFO - 添加新植物 Stemodia verticillata 到数据库
+2025-03-26 17:16:58,393 - INFO - 添加新植物 Stenanona costaricensis 到数据库
+2025-03-26 17:17:05,079 - INFO - 添加新植物 Stenocactus multicostatus 到数据库
+2025-03-26 17:17:09,979 - INFO - 添加新植物 Stoebe passerinoides 到数据库
+2025-03-26 17:17:16,609 - INFO - 添加新植物 Striga asiatica 到数据库
+2025-03-26 17:17:23,954 - INFO - 添加新植物 Strongylodon macrobotrys 到数据库
+2025-03-26 17:17:32,839 - INFO - 添加新植物 Succisa pratensis 到数据库
+2025-03-26 17:17:43,491 - INFO - 添加新植物 Symphytum officinale 到数据库
+2025-03-26 17:17:49,283 - INFO - 添加新植物 Symphytum tuberosum 到数据库
+2025-03-26 17:17:57,390 - INFO - 添加新植物 Syringa vulgaris 到数据库
+2025-03-26 17:18:01,967 - INFO - 添加新植物 Tagetes erecta 到数据库
+2025-03-26 17:18:07,110 - INFO - 添加新植物 Tagetes lemmonii 到数据库
+2025-03-26 17:18:16,455 - INFO - 添加新植物 Tagetes lucida 到数据库
+2025-03-26 17:18:21,617 - INFO - 添加新植物 Tagetes lunulata 到数据库
+2025-03-26 17:18:31,721 - INFO - 添加新植物 Tagetes minuta 到数据库
+2025-03-26 17:18:36,867 - INFO - 添加新植物 Tagetes patula 到数据库
+2025-03-26 17:18:42,306 - INFO - 添加新植物 Tagetes tenuifolia 到数据库
+2025-03-26 17:18:50,199 - INFO - 添加新植物 Tanacetum vulgare 到数据库
+2025-03-26 17:18:56,332 - INFO - 添加新植物 Taraxacum campylodes 到数据库
+2025-03-26 17:19:05,872 - INFO - 添加新植物 Taraxacum officinale 到数据库
+2025-03-26 17:19:12,328 - INFO - 添加新植物 Taxus baccata 到数据库
+2025-03-26 17:19:17,363 - INFO - 添加新植物 Telekia speciosa 到数据库
+2025-03-26 17:19:22,683 - INFO - 添加新植物 Tephrocactus geometricus 到数据库
+2025-03-26 17:19:29,123 - INFO - 添加新植物 Tetraclinis articulata 到数据库
+2025-03-26 17:19:37,057 - INFO - 添加新植物 Teucrium chamaedrys 到数据库
+2025-03-26 17:19:43,604 - INFO - 添加新植物 Teucrium flavum 到数据库
+2025-03-26 17:19:48,149 - INFO - 添加新植物 Teucrium fruticans 到数据库
+2025-03-26 17:20:00,095 - INFO - 添加新植物 Teucrium montanum 到数据库
+2025-03-26 17:20:06,550 - INFO - 添加新植物 Teucrium scorodonia 到数据库
+2025-03-26 17:20:13,458 - INFO - 添加新植物 Thalictrum aquilegiifolium 到数据库
+2025-03-26 17:20:22,212 - INFO - 添加新植物 Thapsia garganica 到数据库
+2025-03-26 17:20:29,833 - INFO - 添加新植物 Thapsia villosa 到数据库
+2025-03-26 17:20:37,239 - INFO - 添加新植物 Thesium alpinum 到数据库
+2025-03-26 17:20:44,710 - INFO - 添加新植物 Thesium humifusum 到数据库
+2025-03-26 17:20:51,771 - INFO - 添加新植物 Thesium linophyllon 到数据库
+2025-03-26 17:20:58,822 - INFO - 添加新植物 Thesium pyrenaicum 到数据库
+2025-03-26 17:21:05,756 - INFO - 添加新植物 Thymus serpyllum 到数据库
+2025-03-26 17:21:12,752 - INFO - 添加新植物 Thymus vulgaris 到数据库
+2025-03-26 17:21:19,144 - INFO - 添加新植物 Tilia cordata 到数据库
+2025-03-26 17:21:24,882 - INFO - 添加新植物 Tilia dasystyla 到数据库
+2025-03-26 17:21:29,268 - INFO - 添加新植物 Tilia platyphyllos 到数据库
+2025-03-26 17:21:33,118 - INFO - 添加新植物 Tordylium apulum 到数据库
+2025-03-26 17:21:39,106 - INFO - 添加新植物 Tordylium maximum 到数据库
+2025-03-26 17:21:43,677 - INFO - 添加新植物 Torilis arvensis 到数据库
+2025-03-26 17:21:49,645 - INFO - 添加新植物 Tozzia alpina 到数据库
+2025-03-26 17:21:55,116 - INFO - 添加新植物 Trachelospermum asiaticum 到数据库
+2025-03-26 17:22:00,083 - INFO - 添加新植物 Trachelospermum jasminoides 到数据库
+2025-03-26 17:22:04,745 - INFO - 添加新植物 Tractema lilio-hyacinthus 到数据库
+2025-03-26 17:22:07,457 - INFO - 添加新植物 Tractema verna 到数据库
+2025-03-26 17:22:12,272 - INFO - 添加新植物 Tradescantia cerinthoides 到数据库
+2025-03-26 17:22:17,925 - INFO - 添加新植物 Tradescantia crassifolia 到数据库
+2025-03-26 17:22:23,571 - INFO - 添加新植物 Tradescantia fluminensis 到数据库
+2025-03-26 17:22:28,888 - INFO - 添加新植物 Tradescantia occidentalis 到数据库
+2025-03-26 17:22:35,422 - INFO - 添加新植物 Tradescantia ohiensis 到数据库
+2025-03-26 17:22:41,847 - INFO - 添加新植物 Tradescantia pallida 到数据库
+2025-03-26 17:22:49,103 - INFO - 添加新植物 Tradescantia sillamontana 到数据库
+2025-03-26 17:22:53,851 - INFO - 添加新植物 Tradescantia spathacea 到数据库
+2025-03-26 17:23:00,098 - INFO - 添加新植物 Tradescantia subaspera 到数据库
+2025-03-26 17:23:07,375 - INFO - 添加新植物 Tradescantia virginiana 到数据库
+2025-03-26 17:23:12,526 - INFO - 添加新植物 Tradescantia x andersoniana 到数据库
+2025-03-26 17:23:18,177 - INFO - 添加新植物 Tradescantia zebrina 到数据库
+2025-03-26 17:23:25,240 - INFO - 添加新植物 Tragopogon porrifolius 到数据库
+2025-03-26 17:23:32,908 - INFO - 添加新植物 Tragopogon pratensis 到数据库
+2025-03-26 17:23:39,196 - INFO - 添加新植物 Triadica sebifera 到数据库
+2025-03-26 17:23:47,497 - INFO - 添加新植物 Tribulus terrestris 到数据库
+2025-03-26 17:23:54,732 - INFO - 添加新植物 Trifolium alexandrinum 到数据库
+2025-03-26 17:23:59,939 - INFO - 添加新植物 Trifolium alpestre 到数据库
+2025-03-26 17:24:05,168 - INFO - 添加新植物 Trifolium alpinum 到数据库
+2025-03-26 17:24:12,200 - INFO - 添加新植物 Trifolium angustifolium 到数据库
+2025-03-26 17:24:17,157 - INFO - 添加新植物 Trifolium arvense 到数据库
+2025-03-26 17:24:23,205 - INFO - 添加新植物 Trifolium aureum 到数据库
+2025-03-26 17:24:29,851 - INFO - 添加新植物 Trifolium badium 到数据库
+2025-03-26 17:24:35,034 - INFO - 添加新植物 Trifolium campestre 到数据库
+2025-03-26 17:24:42,164 - INFO - 添加新植物 Trifolium cherleri 到数据库
+2025-03-26 17:24:49,595 - INFO - 添加新植物 Trifolium dubium 到数据库
+2025-03-26 17:24:55,070 - INFO - 添加新植物 Trifolium fragiferum 到数据库
+2025-03-26 17:25:01,349 - INFO - 添加新植物 Trifolium glomeratum 到数据库
+2025-03-26 17:25:06,063 - INFO - 添加新植物 Trifolium hirtum 到数据库
+2025-03-26 17:25:13,253 - INFO - 添加新植物 Trifolium hybridum 到数据库
+2025-03-26 17:25:20,701 - INFO - 添加新植物 Trifolium incarnatum 到数据库
+2025-03-26 17:25:25,588 - INFO - 添加新植物 Trifolium lappaceum 到数据库
+2025-03-26 17:25:32,149 - INFO - 添加新植物 Trifolium medium 到数据库
+2025-03-26 17:25:36,972 - INFO - 添加新植物 Trifolium michelianum 到数据库
+2025-03-26 17:25:42,841 - INFO - 添加新植物 Trifolium micranthum 到数据库
+2025-03-26 17:25:47,422 - INFO - 添加新植物 Trifolium montanum 到数据库
+2025-03-26 17:25:49,859 - INFO - 批次完成，等待 0.7 分钟后开始下一批次...
+2025-03-26 17:26:29,127 - INFO - 开始处理第 5/6 批次，共 100 个植物
+2025-03-26 17:26:29,128 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0)...
+2025-03-26 17:26:29,129 - INFO - ====== WebDriver manager ======
+2025-03-26 17:26:35,491 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:26:36,487 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:26:37,425 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 17:26:42,730 - WARNING - 检测到弹窗: 今日匿名访问次数已超
+2025-03-26 17:26:42,738 - WARNING - 检测到访问限制: 网站访问受限，可能已达到每日访问限制，本批次中断
+2025-03-26 17:26:44,944 - WARNING - 批次因访问限制中断，等待 1.8 分钟后继续...
+2025-03-26 17:28:32,358 - INFO - 开始处理第 6/6 批次，共 8 个植物
+2025-03-26 17:28:32,359 - INFO - 使用新的User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-03-26 17:28:32,359 - INFO - ====== WebDriver manager ======
+2025-03-26 17:28:34,436 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:28:39,164 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-26 17:28:39,933 - INFO - Driver [C:\Users\86153\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-26 17:28:45,839 - INFO - 添加新植物 Xylopia frutescens 到数据库
+2025-03-26 17:28:51,528 - INFO - 添加新植物 Xylopia nitida 到数据库
+2025-03-26 17:28:56,716 - INFO - 添加新植物 Xylopia sericea 到数据库
+2025-03-26 17:29:02,898 - INFO - 添加新植物 Zaleya pentandra 到数据库
+2025-03-26 17:29:08,203 - INFO - 添加新植物 Zamia furfuracea 到数据库
+2025-03-26 17:29:14,895 - INFO - 添加新植物 Zamia pumila 到数据库
+2025-03-26 17:29:19,325 - INFO - 添加新植物 Zamioculcas zamiifolia 到数据库
+2025-03-26 17:29:24,021 - INFO - 添加新植物 Zannichellia palustris 到数据库
+2025-03-26 17:29:26,130 - INFO - 批次完成，等待 0.6 分钟后开始下一批次...
+2025-03-26 17:30:00,753 - INFO - 数据库连接已关闭

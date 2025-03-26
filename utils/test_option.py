@@ -199,5 +199,17 @@ def get_args_parser():
     TinyImgNet.add_argument("--test-dir", type=str, default='/home/liyuting/Uncertainty/data/tinyImageNet/test', help="TinyImgNet val directory")
     TinyImgNet.add_argument("--nb-cls", type=int, default=200, help="number of classes in TinyImgNet")
     TinyImgNet.add_argument("--imb-factor", type=float, default=1.0, help="imbalance rate in TinyImgNet")
+    
+    PlantImage = subparsers.add_parser("PlantImage_Balanced_Split",
+                                      description='Dataset parser for training on PlantImage_Balanced_Split',
+                                      add_help=True,
+                                      formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+                                      help="Dataset parser for training on PlantImage_Balanced_Split")
+    PlantImage.add_argument('--data-name', default='PlantImage_Balanced_Split', type=str, help='Dataset name')
+    PlantImage.add_argument("--train-dir", type=str, default='./data/PlantImage_Balanced_Split/train', help="PlantImage train directory")
+    PlantImage.add_argument("--val-dir", type=str, default='./data/PlantImage_Balanced_Split/val', help="PlantImage val directory")
+    PlantImage.add_argument("--test-dir", type=str, default='./data/PlantImage_Balanced_Split/test', help="PlantImage test directory")
+    PlantImage.add_argument("--nb-cls", type=int, default=1908, help="number of classes in PlantImage")
+    PlantImage.add_argument("--imb-factor", type=float, default=1.0, help="imbalance rate in PlantImage")
+    
     return parser.parse_args()
-
