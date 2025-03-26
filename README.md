@@ -3,7 +3,7 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sure-survey-recipes-for-building-reliable-and/long-tail-learning-on-cifar-10-lt-r-50)](https://paperswithcode.com/sota/long-tail-learning-on-cifar-10-lt-r-50?p=sure-survey-recipes-for-building-reliable-and)       [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sure-survey-recipes-for-building-reliable-and/long-tail-learning-on-cifar-10-lt-r-10)](https://paperswithcode.com/sota/long-tail-learning-on-cifar-10-lt-r-10?p=sure-survey-recipes-for-building-reliable-and) 
 
-
+[English](README.md) | [中文](README_CN.md)
 
 # 📝 SURE (CVPR 2024 & ECCV 2024 OOD-CV Challenge Winner)
 
